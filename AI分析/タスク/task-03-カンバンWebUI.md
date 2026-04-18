@@ -1,0 +1,190 @@
+---
+title: "task-03: Obsidian Kanban による AI タスク可視化"
+status: Todo
+tags: [task, ai-agent, obsidian, kanban, gitlab-sync]
+related:
+  - "[[AI分析/AI活用事例まとめ]]"
+  - "[[AI分析/改善案・拡張要件リスト]]"
+  - "[[AI分析/タスク/task-01-夜間自動化基盤]]"
+  - "[[AI分析/タスク/task-06-Obsidian-Kiro連携]]"
+---
+
+# task-03: Obsidian Kanban による AI タスク可視化
+
+> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-03]]
+
+---
+
+## 目的
+
+`tools/gitlab-obsidian-sync` を使って GitLab Issues の状態を Obsidian Kanban プラグイン形式の Markdown ファイルに変換・同期し、**Obsidian 上でカンバンボードとして AI タスクを管理・可視化**できるようにする。Web サーバー不要・Markdown ファイルが唯一の真実の源。
+
+---
+
+## コンテキスト
+
+- ~~Python http.server 方式は廃止~~ → Obsidian Kanban プラグインに統一
+- `sandbox/tools/kiro-loop` がタスクを GitLab Issue として作成（task-01 実装済み）
+- `sandbox/skills/gitlab-id` が Issue ベースのタスクキューを管理（task-02 実装済み）
+- `sandbox/tools/gitlab-obsidian-sync` が GitLab → Obsidian への同期を担当
+- Obsidian Kanban プラグイン（[mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban)）でボードを表示
+
+---
+
+## 実装指示
+
+### 1. Kanban ボードファイルの設計
+
+`vault/AI-Tasks/kanban.md` を以下のフォーマットで作成してください。
+
+```markdown
+---
+kanban-plugin: board
+---
+
+## 🆕 Todo
+
+## ⚡ In Progress
+
+## ⏸ Waiting
+
+## ✅ Done
+
+**Complete**
+
+## ❌ Failed
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false,false,true,false]}
+```
+%%
+```
+
+**カラム設計**
+
+| カラム | GitLab Issue 状態 / ラベル | 説明 |
+|--------|---------------------------|------|
+| 🆕 Todo | `open` + label: `todo` | 未着手タスク |
+| ⚡ In Progress | `open` + label: `doing` | kiro-loop が処理中 |
+| ⏸ Waiting | `open` + label: `waiting` | 人間の確認待ち |
+| ✅ Done | `closed` + label: `done` | 完了（折りたたみ表示） |
+| ❌ Failed | `closed` + label: `failed` | 失敗・要確認 |
+
+### 2. Kanban カードのフォーマット
+
+各 Issue を以下のフォーマットで Markdown に変換してください。
+
+```markdown
+- [ ] **[#123] タスクタイトル** 🔴
+  優先度: High | ソース: kiro-loop | 作成: 2026-04-18
+  > 実行結果のサマリー1行（done/failed の場合）
+```
+
+**フィールドマッピング（GitLab Issue → Kanban カード）**
+
+| GitLab フィールド | Kanban 表示 |
+|-----------------|------------|
+| `issue.iid` | `#123` リンク |
+| `issue.title` | カードタイトル |
+| `issue.labels` に `priority:high/med/low` | 🔴🟡🟢 絵文字 |
+| `issue.labels` に `source:*` | ソースバッジ |
+| `issue.description` の `## 実行結果` セクション | サマリー1行 |
+| `issue.due_date` | @YYYY-MM-DD（Obsidian デイリーノートリンク） |
+
+### 3. `gitlab-obsidian-sync` の設定ファイル
+
+`sandbox/tools/gitlab-obsidian-sync/config.yaml` に以下を追記・確認してください。
+
+```yaml
+sync:
+  target_file: "AI-Tasks/kanban.md"   # vault 内の出力先
+  vault_path: "/path/to/vault"         # Obsidian vault のパス
+
+gitlab:
+  project_id: "<your-project-id>"
+  label_filter: ["ai-task"]            # ai-task ラベルのみを対象
+
+column_mapping:
+  todo:        { label: "todo",    column: "🆕 Todo" }
+  doing:       { label: "doing",   column: "⚡ In Progress" }
+  waiting:     { label: "waiting", column: "⏸ Waiting" }
+  done:        { status: closed, label: "done",   column: "✅ Done" }
+  failed:      { status: closed, label: "failed", column: "❌ Failed" }
+
+card_format:
+  show_priority: true
+  show_source: true
+  show_result_summary: true   # issue description の ## 実行結果 から1行抽出
+  link_due_date: true          # @YYYY-MM-DD でデイリーノートにリンク
+
+schedule:
+  sync_interval_minutes: 10    # 10分ごとに自動同期
+  on_vault_open: true          # Obsidian 起動時に即時同期
+```
+
+### 4. 同期スクリプトの動作フロー
+
+`gitlab-obsidian-sync` が以下を実行するよう確認・実装してください。
+
+```
+GitLab API で対象 Issues を取得
+  ↓
+column_mapping に従ってカラム別にグループ化
+  ↓
+kanban.md の各カラムセクションを再生成
+  （既存の手動編集・並び替えは上書きしない設計が望ましい）
+  ↓
+vault/AI-Tasks/kanban.md に書き込み
+  ↓
+（オプション）Obsidian のホットキー or shell command で再読み込みトリガー
+```
+
+### 5. Human-in-the-loop: Obsidian からの操作
+
+Obsidian Kanban でカードを操作したときに GitLab に反映する仕組みを追加してください。
+
+**方針**: ファイル変更を監視して差分から GitLab API を呼ぶ（シンプルな一方向で十分）
+
+```
+kanban.md の変更を検知（fswatch / inotify）
+  ↓
+カード移動を検出（カラム差分）
+  ↓
+対応する GitLab Issue のラベルを更新
+  例: "⏸ Waiting" 列に移動 → label: "waiting" を付与
+```
+
+`sandbox/tools/gitlab-obsidian-sync/watch.sh`:
+```bash
+#!/bin/bash
+# kanban.md の変更を監視して GitLab に状態を反映
+fswatch -o "$VAULT_PATH/AI-Tasks/kanban.md" | \
+  xargs -I{} python sync_back.py --file "$VAULT_PATH/AI-Tasks/kanban.md"
+```
+
+### 6. 関連テンプレートの整備
+
+`vault/_Templates/ai_task_kanban.md` として Kanban ボードの初期テンプレートを作成してください（空ボード状態）。
+
+---
+
+## 受け入れ条件
+
+- [ ] `gitlab-obsidian-sync` 実行後に `vault/AI-Tasks/kanban.md` が生成されること
+- [ ] Obsidian で kanban.md を開くとカンバンビューが表示されること
+- [ ] GitLab Issue のラベル（todo/doing/waiting/done/failed）が正しいカラムに表示されること
+- [ ] 優先度・ソース・実行結果サマリーがカードに表示されること
+- [ ] 10 分ごとの自動同期が動作すること
+- [ ] Obsidian でカードを別カラムに移動すると GitLab Issue のラベルが更新されること
+- [ ] Done カラムが折りたたまれて表示されること（完了タスクが邪魔にならない）
+- [ ] `#123` の Issue 番号が GitLab の該当 Issue URL へのリンクになること
+
+---
+
+## 参考リンク
+
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban)
+- [Claude Code を夜間に走らせ、朝カンバンで拾う](https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop)
+- [[AI分析/タスク/task-01-夜間自動化基盤]]
+- [[AI分析/タスク/task-06-Obsidian-Kiro連携]]

@@ -1,0 +1,198 @@
+---
+title: "task-08: スキル進化パイプラインの実装"
+status: Todo
+tags: [task, ai-agent, self-evolution, DSPy, GEPA]
+related:
+  - "[[AI分析/AI活用事例まとめ]]"
+  - "[[AI分析/改善案・拡張要件リスト]]"
+  - "[[AI分析/タスク/task-04-スキル記憶システム]]"
+  - "[[AI分析/タスク/task-05-自己評価チェックポイント]]"
+---
+
+# task-08: スキル進化パイプラインの実装
+
+> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-08]]
+
+---
+
+## 目的
+
+Hermes Agent Self-Evolution（DSPy + GEPA）を参考に、既存スキルファイルを実行トレースから継続的に改善するパイプラインを実装する。**スキル生成は自動、スキル進化（既存更新）は必ず人間レビューを経由**する設計とする。
+
+---
+
+## コンテキスト
+
+- 参考: [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)
+- GEPA: Genetic-Pareto Prompt Evolution（ICLR 2026 oral 採択）
+- 実行トレースを分析 → 失敗・非効率パターンを特定 → 改善候補を生成 → 評価 → PR で人間レビュー
+- 前提: [[AI分析/タスク/task-04-スキル記憶システム]] と [[AI分析/タスク/task-05-自己評価チェックポイント]] が完了していること
+
+---
+
+## 実装指示
+
+`sandbox/evolution/` ディレクトリに以下を実装してください。
+
+### 1. 進化パイプラインのアーキテクチャ
+
+```
+execution_traces（SQLite）
+  ↓ 定期収集（週次 or N トレース蓄積後）
+trace_analyzer.py
+  ↓ 失敗パターン・非効率ステップを抽出
+skill_evolver.py
+  ↓ 既存スキルの改善バリアント生成（複数候補）
+evaluator.py
+  ↓ バリアントをサンプルトレースで評価
+pareto_selector.py
+  ↓ 速度・成功率のパレート最適解を選択
+pr_creator.py
+  ↓ 改善版スキルの PR を作成（人間レビュー必須）
+```
+
+### 2. `trace_analyzer.py` の実装
+
+```python
+class TraceAnalyzer:
+    def analyze_skill_traces(self, skill_id: str, min_traces: int = 10) -> AnalysisResult:
+        """
+        特定スキルの実行トレース群を分析して:
+        1. 平均ツールコール数・成功率・実行時間を算出
+        2. 失敗パターンの共通点を LLM で抽出
+        3. 非効率ステップ（リトライ多発・無駄な確認など）を特定
+        4. 改善のヒントを生成
+        """
+
+    def get_skills_for_evolution(self, min_executions: int = 10) -> list[str]:
+        """進化候補スキル（十分なトレースが蓄積されたもの）を返す"""
+```
+
+**分析プロンプト** (`prompts/analyze_traces.md`):
+```
+以下はスキル「{skill_name}」の実行トレース {n} 件のサマリーです。
+成功率: {success_rate}%, 平均ステップ数: {avg_steps}
+
+## 失敗ケース（上位3件）
+{failure_traces}
+
+## 非効率ケース（ステップ数が多いもの）
+{inefficient_traces}
+
+分析結果を JSON で返してください:
+{
+  "root_causes": ["失敗の根本原因"],
+  "inefficiency_patterns": ["非効率パターン"],
+  "improvement_hypotheses": ["改善仮説（具体的な変更案）"]
+}
+```
+
+### 3. `skill_evolver.py` の実装
+
+```python
+class SkillEvolver:
+    NUM_VARIANTS = 3  # 生成するバリアント数
+
+    def generate_variants(self, skill: dict, analysis: AnalysisResult) -> list[str]:
+        """
+        既存スキルと分析結果をもとに改善バリアントを N 個生成する。
+        各バリアントは異なる改善アプローチを試みる:
+        - バリアント1: ステップ削減に特化
+        - バリアント2: エラーハンドリング強化に特化
+        - バリアント3: 前提条件の明確化に特化
+        """
+```
+
+**バリアント生成プロンプト** (`prompts/evolve_skill.md`):
+```
+あなたはスキルファイルの改善を担当するエキスパートです。
+
+## 現在のスキル
+{current_skill_markdown}
+
+## 分析結果
+{analysis_result}
+
+## 改善アプローチ
+{approach}  # 上記3アプローチのいずれか
+
+改善版スキルファイル（Markdown）を生成してください。
+必ず version を +0.1 インクリメントし、変更点を ## 変更履歴 セクションに記述してください。
+```
+
+### 4. `pareto_selector.py` の実装
+
+```python
+class ParetoSelector:
+    def select_winner(self, variants: list[dict], eval_results: list[EvalResult]) -> dict:
+        """
+        評価指標:
+        - speed_score: 平均ステップ数の削減率（低いほど良い）
+        - success_score: 成功率（高いほど良い）
+
+        パレート最適解の中から総合スコア最高のものを選択する。
+        ただし現行スキルより悪化する場合は None を返す（更新しない）。
+        """
+```
+
+### 5. `pr_creator.py` — 人間レビュー必須の PR 作成
+
+```python
+def create_evolution_pr(skill_id: str, winner_variant: str, analysis: AnalysisResult):
+    """
+    Git ブランチ `skill-evolution/<skill_id>-v<version>` を作成し:
+    1. 勝者バリアントでスキルファイルを更新
+    2. PR を作成（タイトル: "🧬 [skill-evolution] <skill_name> v<version>"）
+    3. PR 本文に分析結果・改善根拠・評価スコアを記載
+    4. レビュアーをアサイン（設定ファイルで指定）
+    5. ⚠️ auto-merge は絶対に有効化しない
+    """
+```
+
+**PR テンプレート** (`evolution/pr_template.md`):
+```markdown
+## 🧬 スキル進化レポート
+
+**スキル名**: {skill_name}
+**バージョン**: {old_version} → {new_version}
+**改善アプローチ**: {approach}
+
+### 分析サマリー
+- 実行トレース数: {n_traces}
+- 改善前 成功率: {old_success_rate}%
+- 改善前 平均ステップ数: {old_avg_steps}
+
+### 予測改善効果
+- 成功率: {old_success_rate}% → {new_success_rate}% (+{delta_success}%)
+- 平均ステップ数: {old_avg_steps} → {new_avg_steps} (-{delta_steps}%)
+
+### 変更点
+{diff}
+
+### ⚠️ レビュー必須項目
+- [ ] 改善根拠が妥当か
+- [ ] 既存タスクへの後方互換性
+- [ ] 意図しない動作変更がないか
+```
+
+---
+
+## 受け入れ条件
+
+- [ ] `trace_analyzer.py` が十分なトレース数のスキルを正しく特定すること
+- [ ] `skill_evolver.py` が 3 つの異なるバリアントを生成すること
+- [ ] `pareto_selector.py` が現行スキルより悪化する場合に更新をスキップすること
+- [ ] `pr_creator.py` が正しいフォーマットの PR を作成すること
+- [ ] PR に auto-merge が設定されていないこと（必ず人間がマージ）
+- [ ] PR 本文に分析根拠・評価スコアが明記されること
+- [ ] スキルファイルのバージョンが正しくインクリメントされること
+
+---
+
+## 参考リンク
+
+- [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)
+- [Hermes Agent — 技術的仕組み](https://qiita.com/nogataka/items/48328a49ae80dead6174)
+- [GEPA: Genetic-Pareto Prompt Evolution (ICLR 2026)](https://github.com/NousResearch/hermes-agent-self-evolution/blob/main/PLAN.md)
+- [[AI分析/タスク/task-04-スキル記憶システム]]
+- [[AI分析/タスク/task-05-自己評価チェックポイント]]
