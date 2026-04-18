@@ -1,0 +1,127 @@
+---
+title: "task-05: 自己評価チェックポイントの実装"
+status: Todo
+tags: [task, ai-agent, self-evaluation, memory]
+related:
+  - "[[AI分析/AI活用事例まとめ]]"
+  - "[[AI分析/改善案・拡張要件リスト]]"
+  - "[[AI分析/タスク/task-02-SQLiteタスクキュー]]"
+  - "[[AI分析/タスク/task-04-スキル記憶システム]]"
+---
+
+# task-05: 自己評価チェックポイントの実装
+
+> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-05]]
+
+---
+
+## 目的
+
+Hermes Agent の自己評価ループを参考に、AI エージェントがタスク実行後に自律的に品質を評価し、再利用価値の高いスキルを自動生成する仕組みを実装する。
+
+---
+
+## コンテキスト
+
+- 参考: [Hermes Agent — 15ツールコールごとの自己評価](https://qiita.com/nogataka/items/48328a49ae80dead6174)
+- Hermes Agent の仕様: 15ツールコールごと、または 5+回を要した複雑タスク完了後に評価
+- スキル生成は自動、スキル進化（既存更新）は人間レビュー必須
+- 前提: [[AI分析/タスク/task-04-スキル記憶システム]] が完了していること
+
+---
+
+## 実装指示
+
+`sandbox/evaluation/` ディレクトリに以下を実装してください。
+
+### 1. 実行トレースのスキーマ追加（SQLite）
+
+```sql
+CREATE TABLE execution_traces (
+    id           TEXT PRIMARY KEY DEFAULT (lower(hex(randomblob(8)))),
+    task_id      TEXT NOT NULL REFERENCES tasks(id),
+    tool_calls   INTEGER NOT NULL DEFAULT 0,
+    steps        TEXT NOT NULL,   -- JSON: [{tool, input, output, duration_ms}]
+    success      INTEGER NOT NULL, -- 0 or 1
+    duration_sec REAL,
+    skill_saved  INTEGER DEFAULT 0,
+    created_at   TEXT NOT NULL DEFAULT (datetime('now','localtime'))
+);
+```
+
+### 2. チェックポイント評価ロジック `evaluator.py`
+
+```python
+class SelfEvaluator:
+    CHECKPOINT_EVERY_N_CALLS = 15
+    COMPLEX_TASK_THRESHOLD = 5  # N ツールコール以上 = 複雑タスク
+
+    def should_evaluate(self, tool_call_count: int, task_completed: bool) -> bool:
+        """評価チェックポイントを発動するか判定"""
+        return (
+            tool_call_count % self.CHECKPOINT_EVERY_N_CALLS == 0
+            or (task_completed and tool_call_count >= self.COMPLEX_TASK_THRESHOLD)
+        )
+
+    def evaluate_trace(self, trace: dict) -> EvaluationResult:
+        """実行トレースを評価してスキル保存の判断と改善案を返す"""
+        # 評価観点:
+        # 1. 再利用性: 同種タスクへの適用可能性
+        # 2. 効率性: ツールコール数が最適か
+        # 3. 成功率: エラー・リトライの有無
+        # 4. 新規性: 既存スキルとの重複チェック
+        ...
+
+    def generate_skill_from_trace(self, trace: dict, evaluation: EvaluationResult) -> str | None:
+        """評価結果をもとにスキルファイルの Markdown を生成（保存価値あり時のみ）"""
+        # LLM に実行トレースを渡してスキルファイルを生成させる
+        # フォーマットは task-04 で定義したスキーマに従う
+        ...
+```
+
+### 3. 評価プロンプトテンプレート `prompts/evaluate_trace.md`
+
+以下の観点を含む LLM 向けプロンプトを作成してください:
+
+```
+あなたは AI エージェントの実行トレースを分析するエバリュエーターです。
+
+## 実行トレース
+{trace_json}
+
+## 評価タスク
+以下の観点で評価し JSON で回答してください:
+
+1. save_as_skill (bool): 将来のタスクで再利用できるか
+2. efficiency_score (1-5): ツールコール数は最適か
+3. reusability_score (1-5): 他のタスクへの適用可能性
+4. improvement_suggestion (str): より少ないステップで実行できる方法
+5. skill_name (str | null): save_as_skill=true の場合のスキル名
+6. skill_category (str | null): スキルカテゴリ
+```
+
+### 4. 評価結果の SQLite 書き込みと通知
+
+- 評価完了後: `execution_traces.skill_saved` を更新
+- スキルが生成された場合: `tasks.skill_ref` にパスを書き込む
+- カンバン UI でスキル生成済みタスクに バッジを表示
+
+---
+
+## 受け入れ条件
+
+- [ ] `should_evaluate` が正しいタイミングで `True` を返すこと
+- [ ] `evaluate_trace` が評価結果（JSON）を返すこと
+- [ ] `save_as_skill=true` 時にスキルファイルが `skills/` に自動生成されること
+- [ ] 生成されたスキルが [[AI分析/タスク/task-04-スキル記憶システム]] のフォーマットに従うこと
+- [ ] `execution_traces` テーブルにトレースが記録されること
+- [ ] `tasks.skill_ref` が正しく更新されること
+
+---
+
+## 参考リンク
+
+- [Hermes Agent — 技術的仕組み](https://qiita.com/nogataka/items/48328a49ae80dead6174)
+- [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)
+- [[AI分析/タスク/task-04-スキル記憶システム]]
+- [[AI分析/タスク/task-08-スキル進化パイプライン]]

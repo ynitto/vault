@@ -1,0 +1,150 @@
+---
+title: "task-04: スキル記憶システムの設計と実装"
+status: Todo
+tags: [task, ai-agent, memory, skills]
+related:
+  - "[[AI分析/AI活用事例まとめ]]"
+  - "[[AI分析/改善案・拡張要件リスト]]"
+  - "[[AI分析/タスク/task-05-自己評価チェックポイント]]"
+  - "[[AI分析/タスク/task-08-スキル進化パイプライン]]"
+---
+
+# task-04: スキル記憶システムの設計と実装
+
+> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-04]]
+
+---
+
+## 目的
+
+Hermes Agent の Three-Layer Memory（手続きスキルレイヤー）を参考に、AI エージェントが習得した手順・プロンプト・ツール設定を再利用可能なスキルファイルとして永続化するシステムを設計・実装する。
+
+---
+
+## コンテキスト
+
+- 参考: [Hermes Agent — スキル記憶と Three-Layer Memory](https://qiita.com/nogataka/items/48328a49ae80dead6174)
+- スキルファイルは Obsidian vault 内で管理し `[[wikiリンク]]` で参照可能にする
+- スキルは Git で管理（バージョン追跡・進化の履歴保持）
+- このタスクは [[AI分析/タスク/task-05-自己評価チェックポイント]] と [[AI分析/タスク/task-08-スキル進化パイプライン]] の前提
+
+---
+
+## 実装指示
+
+### 1. スキルファイルのフォーマット定義
+
+`sandbox/skills/` ディレクトリと以下のフォーマットを作成してください。
+
+**スキルファイル: `skills/<category>/<skill-name>.md`**
+
+```markdown
+---
+skill_id: <uuid>
+name: スキル名（英語推奨）
+version: 1.0.0
+category: code_review | refactoring | testing | deployment | research
+tags: [python, git, cli]
+success_rate: 0.92      # 自動更新
+avg_tool_calls: 8       # 自動更新
+created_at: 2026-04-18
+updated_at: 2026-04-18
+related_tasks:
+  - "[[AI分析/タスク/task-XX]]"
+---
+
+# <スキル名>
+
+## 概要
+このスキルが解決する問題と適用条件
+
+## 前提条件
+- 必要なツール・権限・環境
+
+## 手順
+
+### ステップ 1: <アクション>
+```bash
+# 具体的なコマンド
+```
+
+### ステップ 2: <アクション>
+...
+
+## 判断基準
+- 成功/失敗の判定方法
+- 分岐条件
+
+## 既知の落とし穴
+- 注意事項
+
+## 参考
+- 関連スキル: [[skills/<category>/<related-skill>]]
+- 元タスク: [[AI分析/タスク/task-XX]]
+```
+
+### 2. スキルカテゴリ構造
+
+```
+sandbox/skills/
+  code_review/
+    pr_review_standard.md
+    security_check.md
+  refactoring/
+    extract_function.md
+  testing/
+    add_unit_tests.md
+  deployment/
+    docker_build_push.md
+  research/
+    summarize_article.md
+  _index.md             # スキル一覧・カテゴリ説明
+```
+
+`_index.md` には全スキルへの `[[wikiリンク]]` を記載すること。
+
+### 3. Obsidian vault との同期
+
+vault の `Skills/` フォルダに `sandbox/skills/` をシンボリックリンクまたはコピーする仕組みを作成してください。
+
+```bash
+# sandbox/skills/ → vault/Skills/ の同期スクリプト
+sandbox/scripts/sync_skills_to_vault.sh
+```
+
+### 4. スキル検索 CLI
+
+```python
+# sandbox/skills/skill_manager.py
+
+class SkillManager:
+    def search(self, query: str, category: str | None = None) -> list[dict]:
+        """キーワード・カテゴリでスキルを検索"""
+
+    def get_skill(self, skill_id: str) -> dict:
+        """スキルIDでスキルを取得"""
+
+    def get_applicable_skills(self, task_title: str, task_body: str) -> list[dict]:
+        """タスク内容から適用可能なスキルを提案（LLMベース）"""
+```
+
+---
+
+## 受け入れ条件
+
+- [ ] スキルファイルのフォーマット（Markdown + フロントマター）が定義されること
+- [ ] `skills/` ディレクトリ構造が作成されること
+- [ ] サンプルスキルが最低 2 つ作成されること
+- [ ] `sync_skills_to_vault.sh` で vault の `Skills/` に反映されること
+- [ ] `skill_manager.py` の `search` が動作すること
+- [ ] スキルファイルから他スキル・タスクへの `[[wikiリンク]]` が正しく機能すること（Obsidian で確認）
+
+---
+
+## 参考リンク
+
+- [Hermes Agent — 技術的仕組み](https://qiita.com/nogataka/items/48328a49ae80dead6174)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+- [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)
+- [[AI分析/タスク/task-05-自己評価チェックポイント]]
+- [[AI分析/タスク/task-08-スキル進化パイプライン]]

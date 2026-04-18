@@ -1,0 +1,133 @@
+---
+title: "task-02: SQLite タスクキューの実装"
+status: Todo
+tags: [task, ai-agent, sqlite, backend]
+related:
+  - "[[AI分析/AI活用事例まとめ]]"
+  - "[[AI分析/改善案・拡張要件リスト]]"
+  - "[[AI分析/タスク/task-01-夜間自動化基盤]]"
+  - "[[AI分析/タスク/task-03-カンバンWebUI]]"
+---
+
+# task-02: SQLite タスクキューの実装
+
+> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-02]]
+
+---
+
+## 目的
+
+AI エージェントが処理するタスクを管理する SQLite ベースのタスクキューを実装する。Pepabo の設計思想に従い、**書き込みは承認済みソースのみ・人間の操作は状態変更に限定**する。
+
+---
+
+## コンテキスト
+
+- 参考: [GMOペパボ — SQLite をタスクストアとして使用](https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop)
+- Notion ではなく SQLite を選んだ理由: 書き込み権限を完全にコントロールできる
+- このタスクは [[AI分析/タスク/task-01-夜間自動化基盤]] と [[AI分析/タスク/task-03-カンバンWebUI]] の依存関係
+
+---
+
+## 実装指示
+
+`sandbox/db/` ディレクトリに以下を実装してください。
+
+### 1. スキーマ定義 `schema.sql`
+
+```sql
+CREATE TABLE tasks (
+    id          TEXT PRIMARY KEY DEFAULT (lower(hex(randomblob(8)))),
+    title       TEXT NOT NULL,
+    body        TEXT,
+    status      TEXT NOT NULL DEFAULT 'todo'
+                CHECK(status IN ('todo','in_progress','done','failed','waiting')),
+    priority    INTEGER NOT NULL DEFAULT 2
+                CHECK(priority BETWEEN 1 AND 5),  -- 1=最高, 5=最低
+    source      TEXT NOT NULL,  -- 'obsidian', 'github', 'cron', 'manual'
+    result      TEXT,           -- エージェント実行結果のサマリー
+    skill_ref   TEXT,           -- 生成されたスキルファイルへのパス
+    created_at  TEXT NOT NULL DEFAULT (datetime('now','localtime')),
+    updated_at  TEXT NOT NULL DEFAULT (datetime('now','localtime')),
+    started_at  TEXT,
+    completed_at TEXT
+);
+
+CREATE INDEX idx_tasks_status   ON tasks(status);
+CREATE INDEX idx_tasks_priority ON tasks(priority, created_at);
+
+-- 状態変更時に updated_at を自動更新
+CREATE TRIGGER tasks_updated_at
+AFTER UPDATE ON tasks
+FOR EACH ROW
+BEGIN
+    UPDATE tasks SET updated_at = datetime('now','localtime') WHERE id = NEW.id;
+END;
+```
+
+### 2. Python ラッパー `task_queue.py`
+
+以下のインターフェースを実装してください:
+
+```python
+class TaskQueue:
+    def add_task(self, title: str, body: str, source: str, priority: int = 2) -> str:
+        """タスクを追加して id を返す。source が承認済みでなければ ValueError"""
+
+    def get_next_task(self) -> dict | None:
+        """priority→created_at 順で次の todo タスクを取得し in_progress に更新"""
+
+    def complete_task(self, task_id: str, result: str, skill_ref: str | None = None):
+        """タスクを done に更新し result を記録"""
+
+    def fail_task(self, task_id: str, reason: str):
+        """タスクを failed に更新"""
+
+    def set_waiting(self, task_id: str):
+        """人間の確認待ちとして waiting に更新（Human-in-the-loop 用）"""
+
+    def list_tasks(self, status: str | None = None) -> list[dict]:
+        """タスク一覧を返す（カンバン UI 用）"""
+```
+
+### 3. 承認済みソースの設定 `config.yaml` に追記
+
+```yaml
+task_queue:
+  db_path: ./db/tasks.db
+  allowed_sources:
+    - obsidian
+    - github
+    - cron
+    - manual  # CLIから手動追加する場合
+  max_priority_override: false  # 外部から priority=1 を禁止
+```
+
+### 4. CLI ツール `task_queue_cli.py`
+
+```bash
+python task_queue_cli.py add --title "タスク名" --body "詳細" --source manual
+python task_queue_cli.py list --status todo
+python task_queue_cli.py set-waiting <task_id>
+```
+
+---
+
+## 受け入れ条件
+
+- [ ] `schema.sql` でテーブルが正しく作成されること
+- [ ] `add_task` で承認済み外のソースが拒否されること
+- [ ] `get_next_task` が priority → created_at 順で取得し `in_progress` に更新すること
+- [ ] `complete_task` / `fail_task` が正しくステータスを更新すること
+- [ ] `updated_at` トリガーが動作すること
+- [ ] CLI から基本操作が実行できること
+- [ ] Python の型ヒントと最低限のバリデーションが実装されていること
+
+---
+
+## 参考リンク
+
+- [Claude Code を夜間に走らせ、朝カンバンで拾う](https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop)
+- [[AI分析/タスク/task-01-夜間自動化基盤]]
+- [[AI分析/タスク/task-03-カンバンWebUI]]
+- [[AI分析/タスク/task-05-自己評価チェックポイント]]
