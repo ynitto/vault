@@ -1,0 +1,1 @@
+[Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口](https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop)
