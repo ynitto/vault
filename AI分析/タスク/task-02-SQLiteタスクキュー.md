@@ -1,6 +1,6 @@
 ---
 title: "task-02: SQLite タスクキューの実装"
-status: Todo
+status: Done
 tags: [task, ai-agent, sqlite, backend]
 related:
   - "[[AI分析/AI活用事例まとめ]]"
@@ -12,6 +12,7 @@ related:
 # task-02: SQLite タスクキューの実装
 
 > **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-02]]
+> **ステータス**: ✅ Done — `sandbox/skills/gitlab-id` にて GitLab Issues ベースのタスク管理として実装済み
 
 ---
 
