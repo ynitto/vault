@@ -1,23 +1,36 @@
 {
-  "items": [
+  "items" : [
     {
-      "type": "group",
-      "ctime": 1776494967555,
-      "items": [
+      "ctime" : 1776494967555,
+      "title" : "Obsidian",
+      "type" : "group",
+      "items" : [
         {
-          "url": "https://qiita.com/yaskitie/items/b48a064cb0c6e673bd42",
-          "ctime": 1776494874178,
-          "title": "ぼくの Obsidian #Markdown - Qiita",
-          "type": "url"
+          "ctime" : 1776494874178,
+          "title" : "ぼくの Obsidian #Markdown - Qiita",
+          "url" : "https:\/\/qiita.com\/yaskitie\/items\/b48a064cb0c6e673bd42",
+          "type" : "url"
         }
-      ],
-      "title": "Obsidian"
+      ]
     },
     {
-      "type": "group",
-      "ctime": 1776494986571,
-      "items": [],
-      "title": "AI"
+      "type" : "group",
+      "title" : "AI",
+      "items" : [
+        {
+          "ctime" : 1776495449573,
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/pepabo\/articles\/claude-code-night-autopilot-kanban-loop",
+          "title" : "Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/nogataka\/items\/48328a49ae80dead6174",
+          "type" : "url",
+          "ctime" : 1776495490221,
+          "title" : "hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み #LLM - Qiita"
+        }
+      ],
+      "ctime" : 1776494986571
     }
   ]
 }
