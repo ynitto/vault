@@ -3,34 +3,498 @@
     {
       "ctime" : 1776494967555,
       "title" : "Obsidian",
-      "type" : "group",
       "items" : [
         {
           "ctime" : 1776494874178,
           "title" : "ぼくの Obsidian #Markdown - Qiita",
           "url" : "https:\/\/qiita.com\/yaskitie\/items\/b48a064cb0c6e673bd42",
           "type" : "url"
+        },
+        {
+          "ctime" : 1776495596381,
+          "title" : "【Obsidian最適化の旅 #15】Projectsプラグインを試す。｜オーピー",
+          "url" : "https:\/\/note.com\/ordinary_people\/n\/n5eb5121f4604",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776495681933,
+          "title" : "Obsidian CLI - Obsidian ヘルプ",
+          "type" : "url",
+          "url" : "https:\/\/obsidian.md\/ja\/help\/cli"
+        },
+        {
+          "title" : "Obsidian CLI が全ユーザーに無料開放されたので Claude Code 用スキルと一緒にセットアップした",
+          "ctime" : 1776495730350,
+          "url" : "https:\/\/zenn.dev\/kairininja\/articles\/zenn-obsidian-cli-agent-skills-setup",
+          "type" : "url"
+        },
+        {
+          "title" : "ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応)",
+          "ctime" : 1776495806152,
+          "url" : "https:\/\/zenn.dev\/tokium_dev\/articles\/2fc1fa15407efe",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776495850126,
+          "title" : "【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する",
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/dely_jp\/articles\/8b55114cc0b958"
+        },
+        {
+          "title" : "Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた",
+          "ctime" : 1776495871374,
+          "url" : "https:\/\/zenn.dev\/moneyforward\/articles\/94d5a22f3ab4f1",
+          "type" : "url"
+        },
+        {
+          "title" : "ObsidianとClaudeではじめる日々のタスク管理と振り返り術 #ClaudeCode - Qiita",
+          "ctime" : 1776495889970,
+          "url" : "https:\/\/qiita.com\/inamuu\/items\/d9b013b54a31a78e9c13",
+          "type" : "url"
+        },
+        {
+          "title" : "Obsidianをチームで使えるようにしたいin閉域環境なJTC",
+          "ctime" : 1776495906461,
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/ningensei848\/articles\/obsidian-air-gapped-team-sync"
+        },
+        {
+          "title" : "シンボリックリンクとジャンクション - Obsidian ヘルプ",
+          "ctime" : 1776495923153,
+          "type" : "url",
+          "url" : "https:\/\/obsidian.md\/ja\/help\/symlinks"
+        },
+        {
+          "title" : "Obsidianで最適なPKM環境を考える",
+          "ctime" : 1776495944901,
+          "url" : "https:\/\/zenn.dev\/game8_blog\/articles\/0e50c36cd63b98",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776495999315,
+          "title" : "Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話",
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/stafes_blog\/articles\/d7457519a2daec"
+        },
+        {
+          "ctime" : 1776496054803,
+          "title" : "ぼくがかんがえた最強のObsidian設定｜古村藍",
+          "url" : "https:\/\/note.com\/indigo372\/n\/nae1e72203c5b",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776496074093,
+          "title" : "基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian)",
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/502\/articles\/f8aeaa8057fc49"
+        },
+        {
+          "ctime" : 1776496102915,
+          "title" : "Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix",
+          "type" : "url",
+          "url" : "https:\/\/note.com\/maybefix\/n\/n0adffb4ebfe3"
+        },
+        {
+          "title" : "【Shell Commands】というObsidian プラグインを試してみた｜セカイル",
+          "ctime" : 1776496118929,
+          "type" : "url",
+          "url" : "https:\/\/note.com\/2ndillness\/n\/naebeded17bdd"
+        },
+        {
+          "title" : "ObsidianでZennを書く！git submoduleで一元管理",
+          "ctime" : 1776496165413,
+          "url" : "https:\/\/zenn.dev\/ktr17\/articles\/3505fab842af79",
+          "type" : "url"
+        },
+        {
+          "title" : "Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド #ClaudeCode - Qiita",
+          "ctime" : 1776496186268,
+          "type" : "url",
+          "url" : "https:\/\/qiita.com\/toki_mwc\/items\/c1c448344a2ecb810eb1"
+        },
+        {
+          "title" : "WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata",
+          "ctime" : 1776496200159,
+          "type" : "url",
+          "url" : "https:\/\/note.com\/hinatasatou\/n\/n46af3c6259eb"
+        },
+        {
+          "title" : "ObsidianとCodex CLIの使い道 - シニアオタク",
+          "ctime" : 1776496337990,
+          "url" : "https:\/\/roompine.com\/obsidian-codex-cli-use-cases-1\/",
+          "type" : "url"
+        },
+        {
+          "title" : "ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】 #GitHub - Qiita",
+          "ctime" : 1776497597689,
+          "type" : "url",
+          "url" : "https:\/\/qiita.com\/oga_aiichiro\/items\/1eb903562851f4f4a206"
+        }
+      ],
+      "type" : "group"
+    },
+    {
+      "title" : "AI",
+      "type" : "group",
+      "ctime" : 1776494986571,
+      "items" : [
+        {
+          "title" : "Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口",
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/pepabo\/articles\/claude-code-night-autopilot-kanban-loop",
+          "ctime" : 1776495449573
+        },
+        {
+          "type" : "url",
+          "title" : "hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み #LLM - Qiita",
+          "ctime" : 1776495490221,
+          "url" : "https:\/\/qiita.com\/nogataka\/items\/48328a49ae80dead6174"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/yamapiiii\/items\/cc2450f410b64329d275",
+          "ctime" : 1776495781031,
+          "title" : "Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話 #ClaudeCode - Qiita",
+          "type" : "url"
+        },
+        {
+          "type" : "url",
+          "title" : "Claude Codeの\/loopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】",
+          "ctime" : 1776495828063,
+          "url" : "https:\/\/zenn.dev\/dely_jp\/articles\/3117e590465e38"
+        },
+        {
+          "ctime" : 1776496019537,
+          "url" : "https:\/\/kemasoft.net\/?mr\/tmux%E3%81%A7%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E4%BB%98%E3%81%8D%E3%83%AD%E3%82%B0",
+          "title" : "mr\/tmuxでタイムスタンプ付きログ - KemaSoft",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776496369626,
+          "title" : "Karpathy 氏が言語化した「LLM Knowledge Base」というパターン | DevelopersIO",
+          "type" : "url",
+          "url" : "https:\/\/dev.classmethod.jp\/articles\/karpathy-llm-knowledge-base\/"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/rcomcpgm-cyber\/items\/901344b211a6a3e7dda7",
+          "type" : "url",
+          "title" : "Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法 #ClaudeCode - Qiita",
+          "ctime" : 1776496390026
+        },
+        {
+          "url" : "https:\/\/note.com\/workato\/n\/n4bb1c95a5347",
+          "title" : "「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan",
+          "type" : "url",
+          "ctime" : 1776496411229
+        },
+        {
+          "type" : "url",
+          "ctime" : 1776496462641,
+          "url" : "https:\/\/zenn.dev\/shio_shoppaize\/articles\/shogun-codd-brownfield",
+          "title" : "Harness as Code — CoDD活用ガイド #2 コード → 設計書　「神頼みデプロイ」と「深夜障害連絡電話」からの解放"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/masaozi3\/items\/53b98ea386397ec1ed8f",
+          "type" : "url",
+          "title" : "Amazon Q(Kiro)CLIを起動するとターミナルが激重になるのを解消した話 #AmazonQ - Qiita",
+          "ctime" : 1776496480976
+        },
+        {
+          "type" : "url",
+          "url" : "https:\/\/dev.classmethod.jp\/articles\/skill-seekers-claude-code-skills\/",
+          "title" : "Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる | DevelopersIO",
+          "ctime" : 1776497617678
+        },
+        {
+          "url" : "https:\/\/zenn.dev\/shintaroamaike\/articles\/df3ecc0ddee047",
+          "ctime" : 1776497647165,
+          "type" : "url",
+          "title" : "Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する"
+        },
+        {
+          "type" : "url",
+          "ctime" : 1776497660694,
+          "url" : "https:\/\/zenn.dev\/microsoft\/articles\/50863342150992",
+          "title" : "GitHub Copilot は自ら学ぶ: Copilot Memory 入門"
+        },
+        {
+          "title" : "Agentic Repository",
+          "url" : "https:\/\/zenn.dev\/ishiharu\/scraps\/bdc773cc8e3f79",
+          "ctime" : 1776497683519,
+          "type" : "url"
+        },
+        {
+          "title" : "「Skillsを50個運用して気づいたパラドックス」の続き — Agent SkillsのCI\/テスト\/品質管理を設計した話 #ClaudeCode - Qiita",
+          "ctime" : 1776497707527,
+          "url" : "https:\/\/qiita.com\/nogataka\/items\/61365a15677fb62aa41a",
+          "type" : "url"
+        },
+        {
+          "title" : "AIエージェント開発の新標準 ADLC を読み解く — IBM × Anthropicのガイドへの共感と、本番運用からの実践的フィードバック",
+          "url" : "https:\/\/zenn.dev\/dxclab\/articles\/9f015ee80cd809",
+          "ctime" : 1776497742494,
+          "type" : "url"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/aktsmm\/items\/08eef2cdeeb0a32b69a2",
+          "ctime" : 1776497761700,
+          "title" : "🔥 はじめての Agent Skills 🔥 12 選＆リポジトリ一覧！GitHub Copilot でも使える AI の手順書 #Claude - Qiita",
+          "type" : "url"
+        },
+        {
+          "url" : "https:\/\/zenn.dev\/babyjob\/articles\/claude-code-mcp-error-analyze",
+          "title" : "Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法",
+          "type" : "url",
+          "ctime" : 1776497807092
+        },
+        {
+          "ctime" : 1776497822946,
+          "title" : "GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成 #生成AI - Qiita",
+          "type" : "url",
+          "url" : "https:\/\/qiita.com\/leomarokun\/items\/3040cd6ae4c51b2329f6"
+        },
+        {
+          "type" : "url",
+          "ctime" : 1776497847851,
+          "url" : "https:\/\/zenn.dev\/tokium_dev\/articles\/pr-review-workflow-with-claude-code-skills",
+          "title" : "3人で週30PR、溺れかけた開発チームがClaude Codeスキルでレビューを回した話"
+        },
+        {
+          "type" : "url",
+          "ctime" : 1776497998558,
+          "title" : "Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った",
+          "url" : "https:\/\/zenn.dev\/aoi_umigishi\/articles\/fc877d2d7d3e38"
+        },
+        {
+          "title" : "【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話 #Microsoft - Qiita",
+          "ctime" : 1776498166079,
+          "url" : "https:\/\/qiita.com\/yuyanz\/items\/5d2087dd5500d0689d7e",
+          "type" : "url"
+        },
+        {
+          "title" : "AIエージェントのスキルを自己改善させるOSSを作った",
+          "url" : "https:\/\/zenn.dev\/adalocamp\/articles\/agent-skill-bus",
+          "type" : "url",
+          "ctime" : 1776498311832
+        },
+        {
+          "ctime" : 1776498476166,
+          "url" : "https:\/\/zenn.dev\/levtech\/articles\/3d066a9e59785d",
+          "type" : "url",
+          "title" : "Agent Skillsを行動評価する"
+        },
+        {
+          "type" : "url",
+          "title" : "GitLabと連携するMCP Serverを作った",
+          "url" : "https:\/\/zenn.dev\/owayo\/articles\/e4c4496e6d79e7",
+          "ctime" : 1776498510744
+        },
+        {
+          "url" : "https:\/\/dev.classmethod.jp\/articles\/claude-code-skills-cve-report\/",
+          "type" : "url",
+          "ctime" : 1776498559890,
+          "title" : "Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた | DevelopersIO"
+        },
+        {
+          "ctime" : 1776498612509,
+          "url" : "https:\/\/qiita.com\/Takashi_Masumori\/items\/51e9ae84c0768092122c",
+          "type" : "url",
+          "title" : "Copilot Studio で作成したエージェントを Teams に展開した際の会話セッションのリセットについて #PowerPlatform - Qiita"
+        },
+        {
+          "ctime" : 1776498647419,
+          "title" : "Claude CodeでSkillsを定期実行で自動化する方法",
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/tenormusica\/articles\/claude-code-headless-subscription-discovery-2025"
+        },
+        {
+          "ctime" : 1776498711535,
+          "title" : "コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方 #ClaudeCode - Qiita",
+          "type" : "url",
+          "url" : "https:\/\/qiita.com\/nogataka\/items\/d4ad685c7901f2056c6f"
+        },
+        {
+          "url" : "https:\/\/zenn.dev\/kok1eeeee\/articles\/o-m-cc-takt-inspired-update",
+          "ctime" : 1776498726000,
+          "type" : "url",
+          "title" : "TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/uno_ha07\/items\/5820d195510861b5be71",
+          "ctime" : 1776498756204,
+          "title" : "Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する #AI - Qiita",
+          "type" : "url"
+        },
+        {
+          "url" : "https:\/\/qiita.com\/aktsmm\/items\/28f38fd1edea4edab31b",
+          "type" : "url",
+          "title" : "GitHub リポジトリを掲示板にして GitHub Copilot Agent を複数台で協調させる「なんちゃって Agent Teams」を作った #VSCode - Qiita",
+          "ctime" : 1776498823184
+        },
+        {
+          "type" : "url",
+          "ctime" : 1776498900371,
+          "url" : "https:\/\/qiita.com\/rxg03350\/items\/9bd822a2be5549b17878",
+          "title" : "Claude Code・Codex・Gemini の会話ログを日次Markdownとして自動整理する ― chat_logs から LLM_history を自動生成する仕組み #ClaudeCode - Qiita"
+        },
+        {
+          "type" : "url",
+          "title" : "LLMに長期記憶を実装する",
+          "url" : "https:\/\/zenn.dev\/j_m\/articles\/efcc4f224cc8ca",
+          "ctime" : 1776498921348
+        },
+        {
+          "url" : "https:\/\/zenn.dev\/cureapp\/articles\/c5016035a7d53d",
+          "type" : "url",
+          "ctime" : 1776499021042,
+          "title" : "Claude Code の集中力を保つ Agent Skills を作った"
+        },
+        {
+          "type" : "url",
+          "url" : "https:\/\/github.com\/karaage0703\/ai-assistant-workspace\/blob\/main\/skills\/workspace-rag\/SKILL.md",
+          "title" : "ai-assistant-workspace\/skills\/workspace-rag\/SKILL.md at main · karaage0703\/ai-assistant-workspace",
+          "ctime" : 1776499058198
+        },
+        {
+          "title" : "Skillsで実現する軽量パーソナルRAG",
+          "url" : "https:\/\/zenn.dev\/karaage0703\/articles\/d7eaf62437185d",
+          "type" : "url",
+          "ctime" : 1776499102879
+        },
+        {
+          "ctime" : 1776499120947,
+          "url" : "https:\/\/zenn.dev\/takiko\/articles\/claude-code-skill-from-logs",
+          "title" : "Claude Codeのセッション履歴とCLIの実行履歴から Agent Skill を自動生成する",
+          "type" : "url"
         }
       ]
     },
     {
-      "type" : "group",
-      "title" : "AI",
+      "title" : "tech",
       "items" : [
         {
-          "ctime" : 1776495449573,
+          "title" : "Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？ #Git - Qiita",
+          "ctime" : 1776496287087,
           "type" : "url",
-          "url" : "https:\/\/zenn.dev\/pepabo\/articles\/claude-code-night-autopilot-kanban-loop",
-          "title" : "Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口"
+          "url" : "https:\/\/qiita.com\/softbase\/items\/069c1a1ccdd070e70419"
         },
         {
-          "url" : "https:\/\/qiita.com\/nogataka\/items\/48328a49ae80dead6174",
+          "ctime" : 1776496301209,
+          "title" : "Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜 | ネッコノート | necco inc.（ネッコ）",
           "type" : "url",
-          "ctime" : 1776495490221,
-          "title" : "hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み #LLM - Qiita"
+          "url" : "https:\/\/necco.inc\/note\/49799\/"
+        },
+        {
+          "ctime" : 1776496314486,
+          "title" : "Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選",
+          "url" : "https:\/\/zenn.dev\/yuucu\/articles\/obsidian-plugin",
+          "type" : "url"
+        },
+        {
+          "title" : "PC起動時にWSL2の自動起動【ログインすらしたくない場合】",
+          "ctime" : 1776496440037,
+          "url" : "https:\/\/zenn.dev\/shishimaruwo\/articles\/f106b12896e2ba",
+          "type" : "url"
+        },
+        {
+          "title" : "【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点",
+          "ctime" : 1776497721010,
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/junko_ai\/articles\/721d89181b844f"
+        },
+        {
+          "ctime" : 1776498234311,
+          "title" : "GitLab Issue（イシュー）の使い方！基本から活用方法まで分かりやすく解説 | GitLab入門ガイド 2025年最新版",
+          "type" : "url",
+          "url" : "https:\/\/experts.zyyx.jp\/gitlab\/docs\/how-to-use-gitlab-issue"
+        },
+        {
+          "ctime" : 1776498437892,
+          "title" : "[xlsx2md] Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました #TypeScript - Qiita",
+          "type" : "url",
+          "url" : "https:\/\/qiita.com\/igapyon\/items\/cfbbc0d6112059b26522"
+        },
+        {
+          "ctime" : 1776498626854,
+          "title" : "Design Docの書き方ガイド",
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/baleenstudio\/articles\/120c007876d39d"
+        },
+        {
+          "title" : "セキュアなWebhookのための規格 Standard Webhooksとライブラリを紹介",
+          "ctime" : 1776499082428,
+          "type" : "url",
+          "url" : "https:\/\/zenn.dev\/trusthub\/articles\/f0a90441dda169"
         }
       ],
-      "ctime" : 1776494986571
+      "type" : "group",
+      "ctime" : 1776496257594
+    },
+    {
+      "ctime" : 1776497894993,
+      "title" : "aws",
+      "type" : "group",
+      "items" : [
+        {
+          "title" : "Amazon CloudFront KeyValueStoreを活用した記事のリリース制御 – TechHarmony",
+          "ctime" : 1776497918770,
+          "url" : "https:\/\/blog.usize-tech.com\/cloudfront-keyvaluestore\/",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776497934539,
+          "title" : "describe-key-value-store — AWS CLI 2.34.32 Command Reference",
+          "type" : "url",
+          "url" : "https:\/\/docs.aws.amazon.com\/cli\/latest\/reference\/cloudfront-keyvaluestore\/describe-key-value-store.html"
+        },
+        {
+          "title" : "クォータ - Amazon CloudFront",
+          "ctime" : 1776497953314,
+          "url" : "https:\/\/docs.aws.amazon.com\/ja_jp\/AmazonCloudFront\/latest\/DeveloperGuide\/cloudfront-limits.html",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776497966130,
+          "title" : "信頼は相互に: Amazon CloudFront が mTLS をサポート | Amazon Web Services ブログ",
+          "url" : "https:\/\/aws.amazon.com\/jp\/blogs\/news\/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls\/",
+          "type" : "url"
+        },
+        {
+          "title" : "AWS::CloudFront::TrustStore CaCertificatesBundleS3Location - AWS CloudFormation",
+          "ctime" : 1776497980117,
+          "url" : "https:\/\/docs.aws.amazon.com\/AWSCloudFormation\/latest\/TemplateReference\/aws-properties-cloudfront-truststore-cacertificatesbundles3location.html",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776498194035,
+          "title" : "CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた | DevelopersIO",
+          "url" : "https:\/\/dev.classmethod.jp\/articles\/cfn-coding-guidelines\/",
+          "type" : "url"
+        },
+        {
+          "title" : "API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す - every Tech Blog",
+          "ctime" : 1776498275215,
+          "url" : "https:\/\/tech.every.tv\/entry\/20240611",
+          "type" : "url"
+        },
+        {
+          "title" : "サーバーレスなデータ収集APIを作るときの困りポイント - Fenrir Engineers",
+          "ctime" : 1776498292243,
+          "url" : "https:\/\/engineers.fenrir-inc.com\/entry\/2023\/03\/16\/172808",
+          "type" : "url"
+        },
+        {
+          "ctime" : 1776498456772,
+          "title" : "[小ネタ] S3に保存されているログファイルをAWS CLIでまとめてコピーする | DevelopersIO",
+          "type" : "url",
+          "url" : "https:\/\/dev.classmethod.jp\/articles\/s3-logfile-copy-by-awscli\/"
+        },
+        {
+          "title" : "API GatewayでKinesis Data Firehoseのプロキシを作成する - Techfirm Cloud Architect Blog",
+          "ctime" : 1776498534557,
+          "url" : "https:\/\/techblog.techfirm.co.jp\/entry\/create-kinesis-firehose-proxy-with-api-gateway",
+          "type" : "url"
+        }
+      ]
     }
   ]
 }

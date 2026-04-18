@@ -1,1 +1,0 @@
-[hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み #LLM - Qiita](https://qiita.com/nogataka/items/48328a49ae80dead6174)
