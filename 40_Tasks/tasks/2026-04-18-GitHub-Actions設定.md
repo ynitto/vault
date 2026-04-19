@@ -1,6 +1,6 @@
 ---
 title: "task-07: GitHub Actions × Claude Code Action の設定"
-status: Done
+status: done
 tags:
   - task
   - ai-agent

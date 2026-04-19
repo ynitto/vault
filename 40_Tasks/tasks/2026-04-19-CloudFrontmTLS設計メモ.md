@@ -1,7 +1,7 @@
 ---
 task_id: 2026-04-19-CloudFrontmTLS設計メモ
 created: 2026-04-19T10:51:13+09:00
-status: Proposed
+status: done
 urgency: 中
 priority: 中
 effort: M
@@ -11,6 +11,9 @@ tags:
   - cloudfront
 source_daily:
   - - 10_Daily/2026-04-19
+title: 2026-04-19-CloudFrontmTLS設計メモ
+dateModified: 2026-04-19T15:56:23.640+09:00
+completedDate: 2026-04-19
 ---
 
 # CloudFrontmTLS設計メモ

@@ -67,6 +67,6 @@ views:
     options:
       columnWidth: 280
       hideEmptyColumns: false
-    columnOrder: '{"note.status":["Proposed","Todo","Done","none","done","in-progress","open"]}'
+    columnOrder: '{"note.status":["none","open","in-progress","done"]}'
   - type: table
     name: ビュー

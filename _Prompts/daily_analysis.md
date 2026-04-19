@@ -241,7 +241,7 @@ agent_runs: N ← 実行回数（インクリメント）
 task_id: YYYY-MM-DD-{タスク名}
 title: <% tp.file.title %>
 created: YYYY-MM-DDTHH:MM:SS
-status: Proposed ← Proposed / Todo / In-progress / Done
+status: none ← none / open / in-progress / done
 urgency: 高/中/低
 priority: 高/中/低
 effort: S/M/L

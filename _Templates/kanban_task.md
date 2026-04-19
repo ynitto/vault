@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-status: Proposed
+status: none
 tags:
   - task
 ---

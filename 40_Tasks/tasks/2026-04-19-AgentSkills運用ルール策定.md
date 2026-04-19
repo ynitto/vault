@@ -1,7 +1,7 @@
 ---
 task_id: 2026-04-19-AgentSkills運用ルール策定
 created: 2026-04-19T10:51:13+09:00
-status: Proposed
+status: done
 urgency: 高
 priority: 高
 effort: M
@@ -11,6 +11,9 @@ tags:
   - ci
 source_daily:
   - - 10_Daily/2026-04-19
+title: 2026-04-19-AgentSkills運用ルール策定
+dateModified: 2026-04-19T15:56:12.576+09:00
+completedDate: 2026-04-19
 ---
 
 # AgentSkills運用ルール策定

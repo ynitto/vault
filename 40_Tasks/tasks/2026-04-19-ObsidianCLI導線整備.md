@@ -1,7 +1,7 @@
 ---
 task_id: 2026-04-19-ObsidianCLI導線整備
 created: 2026-04-19T10:51:13+09:00
-status: Proposed
+status: none
 urgency: 高
 priority: 高
 effort: S
@@ -11,6 +11,8 @@ tags:
   - cli
 source_daily:
   - - 10_Daily/2026-04-19
+title: 2026-04-19-ObsidianCLI導線整備
+dateModified: 2026-04-19T15:54:05.558+09:00
 ---
 
 # ObsidianCLI導線整備
