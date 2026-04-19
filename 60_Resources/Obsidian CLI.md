@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidian CLI.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidian CLI"
-source: "https://obsidian.md/ja/help/cli"
-author:
-published:
+title: Obsidian CLI
+source: https://obsidian.md/ja/help/cli
+author: null
+published: null
 created: 2026-04-19
-description: "Obsidian CLI - Obsidian ヘルプ"
+description: Obsidian CLI - Obsidian ヘルプ
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidian CLI.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # Obsidian CLIの概要
 

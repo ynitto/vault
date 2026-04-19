@@ -1,19 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話"
-source: "https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e"
+title: 【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話
+source: https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e
 author:
-  - "[[yuyanz]]"
+- '[[yuyanz]]'
 published: 2026-03-29
 created: 2026-04-19
-description: "この記事はGitHub Copilotと一緒に書きました。 はじめに 普段、Teamsでチームメンバーとやり取りをしていると、チャットの中に色々な情報が散在していきます。「あのタスク完了したよ」「こういう学びがあった」「あの件は解決済み」——こうした断片的な情報が..."
+description: この記事はGitHub Copilotと一緒に書きました。 はじめに 普段、Teamsでチームメンバーとやり取りをしていると、チャットの中に色々な情報が散在していきます。「あのタスク完了したよ」「こういう学びがあった」「あの件は解決済み」——こうした断片的な情報が...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 Teamsのチャット内容をMicrosoft 365 Copilotで分析・整理し、案件の進捗管理を自動化する手法についての技術共有記事です。

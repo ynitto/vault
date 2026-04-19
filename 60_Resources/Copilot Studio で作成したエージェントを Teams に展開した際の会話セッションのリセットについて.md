@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Copilot Studio で作成したエージェントを Teams に展開した際の会話セッションのリセットについて.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Copilot Studio で作成したエージェントを Teams に展開した際の会話セッションのリセットについて"
-source: "https://qiita.com/Takashi_Masumori/items/51e9ae84c0768092122c"
+title: Copilot Studio で作成したエージェントを Teams に展開した際の会話セッションのリセットについて
+source: https://qiita.com/Takashi_Masumori/items/51e9ae84c0768092122c
 author:
-  - "[[Takashi_Masumori]]"
+- '[[Takashi_Masumori]]'
 published: 2026-03-12
 created: 2026-04-19
-description: "はじめに Copilot Studio では、作成したエージェントを様々なチャネルに展開できます。 代表的な展開先としては、Teams と Microsoft 365 Copilot (Chat) があります。 Teams は、Copilot Studio の前身である、..."
+description: はじめに Copilot Studio では、作成したエージェントを様々なチャネルに展開できます。 代表的な展開先としては、Teams と
+  Microsoft 365 Copilot (Chat) があります。 Teams は、Copilot Studio の前身である、...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Copilot Studio で作成したエージェントを Teams に展開した際の会話セッションのリセットについて.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 Copilot Studioで作成したエージェントをTeamsに展開した際、会話セッションが継続しすぎて操作に迷うという課題に対し、効果的なリセット方法やユーザーへの誘導方法を解説しています。

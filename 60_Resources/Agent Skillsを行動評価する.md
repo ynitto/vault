@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Agent Skillsを行動評価する.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Agent Skillsを行動評価する"
-source: "https://zenn.dev/levtech/articles/3d066a9e59785d"
-author:
+title: Agent Skillsを行動評価する
+source: https://zenn.dev/levtech/articles/3d066a9e59785d
+author: null
 published: 2026-03-19
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Agent Skillsを行動評価する.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 AIエージェントの「Agent Skills」において、不安定なアウトプット（成果物）を直接評価するのではなく、**人事評価における「行動評価（コンピテンシー評価）」の概念を導入し、定義された手順（SKILL.md）通りにプロセスが遂行されているかを評価する手法**の提案。

@@ -1,19 +1,21 @@
 ---
-original_source: 00_Inbox/Clippings/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す"
-source: "https://tech.every.tv/entry/20240611"
+title: API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す
+source: https://tech.every.tv/entry/20240611
 author:
-  - "[[bnpb]]"
+- '[[bnpb]]'
 published: 2024-06-11
 created: 2026-04-19
-description: "この記事は every Tech Blog Advent Calendar 2024(夏) 11 日目の記事です。 エブリーで小売業界向き合いの開発を行っている @kosukeohmura といいます。 エブリーでは retail HUB という小売業界向けのサービスを展開しており、その開発を行う中でイベントログを収集する API を作る機会がありました。この記事ではその中でも表題の点にフォーカスして詳細をお伝えできればと思います。 イベントログを収集する API の概観 クライアントからのイベントログを API Gateway で作成した API で受け、Amazon Data Fireho…"
+description: この記事は every Tech Blog Advent Calendar 2024(夏) 11 日目の記事です。 エブリーで小売業界向き合いの開発を行っている
+  @kosukeohmura といいます。 エブリーでは retail HUB という小売業界向けのサービスを展開しており、その開発を行う中でイベントログを収集する
+  API を作る機会がありました。この記事ではその中でも表題の点にフォーカスして詳細をお伝えできればと思います。 イベントログを収集する API の概観 クライアントからのイベントログを
+  API Gateway で作成した API で受け、Amazon Data Fireho…
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 API GatewayからLambdaを使用せずに、直接Amazon Data Firehoseへイベントログを転送し、S3へ保存する構成を実現する方法についての解説記事です。

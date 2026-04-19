@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/AIエージェント開発の新標準 ADLC を読み解く — IBM × Anthropicのガイドへの共感と、本番運用からの実践的フィードバック.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "AIエージェント開発の新標準 ADLC を読み解く — IBM × Anthropicのガイドへの共感と、本番運用からの実践的フィードバック"
-source: "https://zenn.dev/dxclab/articles/9f015ee80cd809"
-author:
+title: AIエージェント開発の新標準 ADLC を読み解く — IBM × Anthropicのガイドへの共感と、本番運用からの実践的フィードバック
+source: https://zenn.dev/dxclab/articles/9f015ee80cd809
+author: null
 published: 2026-04-04
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/AIエージェント開発の新標準 ADLC を読み解く — IBM × Anthropicのガイドへの共感と、本番運用からの実践的フィードバック.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 IBMとAnthropicが提唱する「ADLC（Agent Development Lifecycle）」を軸に、AIエージェントを本番環境で運用するための新しい開発アプローチと実践的な知見を解説した記事です。

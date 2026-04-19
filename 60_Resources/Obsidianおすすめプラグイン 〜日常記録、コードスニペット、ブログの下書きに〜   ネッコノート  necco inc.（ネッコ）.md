@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜   ネッコノート  necco inc.（ネッコ）.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜  | ネッコノート | necco inc.（ネッコ）"
-source: "https://necco.inc/note/49799/"
+title: Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜  | ネッコノート | necco inc.（ネッコ）
+source: https://necco.inc/note/49799/
 author:
-  - "[[佐藤 あゆみ]]"
+- '[[佐藤 あゆみ]]'
 published: 2025-05-09
 created: 2026-04-19
-description: "Obsidian（オブシディアン）は、Markdownベースでテキストを管理できる、テキストエディターです。 私もここ2〜3年ほど、下記のような用途でObsidianを活用しています。 Obsidianといえば「Zett […]"
+description: Obsidian（オブシディアン）は、Markdownベースでテキストを管理できる、テキストエディターです。 私もここ2〜3年ほど、下記のような用途でObsidianを活用しています。
+  Obsidianといえば「Zett […]
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜   ネッコノート  necco
+  inc.（ネッコ）.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の概要
 Obsidianを日常記録や開発・ブログ執筆の効率化に活用する佐藤あゆみ氏による、おすすめのプラグイン紹介記事です。複雑な設定を避け、テキストエディタとして拡張性を活かす運用術が解説されています。

@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Design Docの書き方ガイド.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, design, 2026-04]
----
-
----
-title: "Design Docの書き方ガイド"
-source: "https://zenn.dev/baleenstudio/articles/120c007876d39d"
-author:
+title: Design Docの書き方ガイド
+source: https://zenn.dev/baleenstudio/articles/120c007876d39d
+author: null
 published: 2025-07-29
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- design
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Design Docの書き方ガイド.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 この記事は、チームやAIを活用した開発において重要となる「Design Doc（設計書）」の効果的な書き方を解説したガイドです。個人開発での経験から、文脈（コンテキスト）を言語化し、Googleが提唱するテンプレートをベースにした設計ドキュメントの作成を推奨しています。

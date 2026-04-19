@@ -1,19 +1,22 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, ai-agent, windows, 2026-04]
----
-
----
-title: "Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド"
-source: "https://qiita.com/toki_mwc/items/c1c448344a2ecb810eb1"
+title: Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド
+source: https://qiita.com/toki_mwc/items/c1c448344a2ecb810eb1
 author:
-  - "[[toki_mwc]]"
+- '[[toki_mwc]]'
 published: 2025-07-07
 created: 2026-04-19
-description: "「Obsidianでの知的生産をもっと効率化したい…」 「話題のClaude CodeやGemini CLIを使いたいけど、Windowsだと面倒くさそう…」 そんなお悩みを持つWindowsユーザーのあなたに朗報です！本記事では、**Windows Subsystem f..."
+description: 「Obsidianでの知的生産をもっと効率化したい…」 「話題のClaude CodeやGemini CLIを使いたいけど、Windowsだと面倒くさそう…」
+  そんなお悩みを持つWindowsユーザーのあなたに朗報です！本記事では、**Windows Subsystem f...
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- ai-agent
+- windows
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini
+  CLIを連携させる最強ガイド.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## Qiita記事「Obsidian x AIで執筆革命！」要約
 

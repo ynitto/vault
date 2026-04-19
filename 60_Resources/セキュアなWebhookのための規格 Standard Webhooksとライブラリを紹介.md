@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/セキュアなWebhookのための規格 Standard Webhooksとライブラリを紹介.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "セキュアなWebhookのための規格 Standard Webhooksとライブラリを紹介"
-source: "https://zenn.dev/trusthub/articles/f0a90441dda169"
-author:
+title: セキュアなWebhookのための規格 Standard Webhooksとライブラリを紹介
+source: https://zenn.dev/trusthub/articles/f0a90441dda169
+author: null
 published: 2024-09-02
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/セキュアなWebhookのための規格 Standard Webhooksとライブラリを紹介.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### Standard Webhooksの紹介要約
 

@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/GitHub Copilot は自ら学ぶ Copilot Memory 入門.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, git, 2026-04]
----
-
----
-title: "GitHub Copilot は自ら学ぶ: Copilot Memory 入門"
-source: "https://zenn.dev/microsoft/articles/50863342150992"
-author:
+title: 'GitHub Copilot は自ら学ぶ: Copilot Memory 入門'
+source: https://zenn.dev/microsoft/articles/50863342150992
+author: null
 published: 2026-04-05
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/GitHub Copilot は自ら学ぶ Copilot Memory 入門.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 GitHub Copilotがセッションを跨いで学習・記憶する「メモリ機能」の全体像と仕組みを解説する連載の第1回。メモリの分類（保存場所・共有範囲）を整理し、特にGitHubクラウド上に保存される「Copilot Memory」の重要性と技術的特性（リアルタイム検証機能など）について詳説しています。

@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Harness as Code — CoDD活用ガイド 2 コード → 設計書　「神頼みデプロイ」と「深夜障害連絡電話」からの解放.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, design, 2026-04]
----
-
----
-title: "Harness as Code — CoDD活用ガイド #2 コード → 設計書　「神頼みデプロイ」と「深夜障害連絡電話」からの解放"
-source: "https://zenn.dev/shio_shoppaize/articles/shogun-codd-brownfield"
-author:
+title: 'Harness as Code — CoDD活用ガイド #2 コード → 設計書　「神頼みデプロイ」と「深夜障害連絡電話」からの解放'
+source: https://zenn.dev/shio_shoppaize/articles/shogun-codd-brownfield
+author: null
 published: 2026-04-05
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- design
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Harness as Code — CoDD活用ガイド 2 コード → 設計書　「神頼みデプロイ」と「深夜障害連絡電話」からの解放.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 既存の設計書が存在しないレガシーコード（ブラウンフィールド）に対し、AIを活用して自動で設計書を復元する手法「CoDD（Coherence-Driven Development）」の有効性を検証した記事です。AIにコードベースのみを渡し、6層の構造で設計書を生成させた結果、F1スコア全層0.953以上という極めて高い精度で復元に成功しました。

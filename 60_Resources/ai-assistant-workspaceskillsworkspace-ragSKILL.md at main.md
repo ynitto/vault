@@ -1,18 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/ai-assistant-workspaceskillsworkspace-ragSKILL.md at main.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "ai-assistant-workspace/skills/workspace-rag/SKILL.md at main"
-source: "https://github.com/karaage0703/ai-assistant-workspace/blob/main/skills/workspace-rag/SKILL.md"
-author:
-published:
+title: ai-assistant-workspace/skills/workspace-rag/SKILL.md at main
+source: https://github.com/karaage0703/ai-assistant-workspace/blob/main/skills/workspace-rag/SKILL.md
+author: null
+published: null
 created: 2026-04-19
-description: "Contribute to karaage0703/ai-assistant-workspace development by creating an account on GitHub."
+description: Contribute to karaage0703/ai-assistant-workspace development by creating
+  an account on GitHub.
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/ai-assistant-workspaceskillsworkspace-ragSKILL.md
+  at main.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 `workspace-rag`は、ワークスペース内のファイルをベクトル検索するための軽量なスキルです。SQLiteと`multilingual-e5`モデルを組み合わせ、高速な検索と関連度スコア付きの回答生成（R²AG簡易版）を実現します。

@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選"
-source: "https://zenn.dev/yuucu/articles/obsidian-plugin"
-author:
+title: Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選
+source: https://zenn.dev/yuucu/articles/obsidian-plugin
+author: null
 published: 2025-06-21
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 Obsidianをメインのメモアプリとして活用するための、生産性を向上させる厳選プラグイン10選を紹介しています。

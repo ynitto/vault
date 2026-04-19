@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた"
-source: "https://dev.classmethod.jp/articles/claude-code-skills-cve-report/"
+title: Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた
+source: https://dev.classmethod.jp/articles/claude-code-skills-cve-report/
 author:
-  - "[[かわい]]"
+- '[[かわい]]'
 published: 2026-03-17
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE
+  脆弱性情報収集用の Skill を作ってみた.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## 概要
 Claude Code Skills（AIに繰り返し作業の手順を覚えさせる仕組み）を活用し、NVD（米国脆弱性データベース）から直近の重要脆弱性情報を自動収集・解説する「CVE 脆弱性情報収集くん」を作成した記録です。

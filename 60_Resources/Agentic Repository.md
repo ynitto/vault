@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/Agentic Repository.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, design, 2026-04]
----
-
----
-title: "Agentic Repository"
-source: "https://zenn.dev/ishiharu/scraps/bdc773cc8e3f79"
-author:
+title: Agentic Repository
+source: https://zenn.dev/ishiharu/scraps/bdc773cc8e3f79
+author: null
 published: 14日前にコメント追加
 created: 2026-04-19
-description: "いしはるさんのスクラップ"
+description: いしはるさんのスクラップ
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- design
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Agentic Repository.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 AIエージェントがGitHub上のIssue起票から実装、レビュー、デプロイ、エラー修正までを自律的に行う「Agentic Repository」の概念と、その実践における知見や課題について論じた考察。

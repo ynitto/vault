@@ -1,18 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/describe-key-value-store — AWS CLI 2.34.32 Command Reference.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "describe-key-value-store — AWS CLI 2.34.32 Command Reference"
-source: "https://docs.aws.amazon.com/cli/latest/reference/cloudfront-keyvaluestore/describe-key-value-store.html"
-author:
-published:
+title: describe-key-value-store — AWS CLI 2.34.32 Command Reference
+source: https://docs.aws.amazon.com/cli/latest/reference/cloudfront-keyvaluestore/describe-key-value-store.html
+author: null
+published: null
 created: 2026-04-19
-description: "Use the AWS CLI 2.34.32 to run the cloudfront-keyvaluestore describe-key-value-store command."
+description: Use the AWS CLI 2.34.32 to run the cloudfront-keyvaluestore describe-key-value-store
+  command.
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/describe-key-value-store — AWS CLI 2.34.32 Command
+  Reference.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### AWS CLI: describe-key-value-store
 

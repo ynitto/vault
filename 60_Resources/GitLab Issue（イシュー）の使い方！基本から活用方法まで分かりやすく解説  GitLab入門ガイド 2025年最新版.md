@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/GitLab Issue（イシュー）の使い方！基本から活用方法まで分かりやすく解説  GitLab入門ガイド 2025年最新版.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, git, 2026-04]
----
-
----
-title: "GitLab Issue（イシュー）の使い方！基本から活用方法まで分かりやすく解説 | GitLab入門ガイド 2025年最新版"
-source: "https://experts.zyyx.jp/gitlab/docs/how-to-use-gitlab-issue"
+title: GitLab Issue（イシュー）の使い方！基本から活用方法まで分かりやすく解説 | GitLab入門ガイド 2025年最新版
+source: https://experts.zyyx.jp/gitlab/docs/how-to-use-gitlab-issue
 author:
-  - "[[Studio.Design]]"
+- '[[Studio.Design]]'
 published: 2025-04-01
 created: 2026-04-19
-description: "GitLabイシューの基本的な使い方から実践的な活用方法まで詳しく解説。プロジェクト管理の効率化、チーム連携の改善、進捗の可視化を実現する方法を開発リーダー向けに分かりやすく紹介します。"
+description: GitLabイシューの基本的な使い方から実践的な活用方法まで詳しく解説。プロジェクト管理の効率化、チーム連携の改善、進捗の可視化を実現する方法を開発リーダー向けに分かりやすく紹介します。
 tags:
-  - "clippings"
+- resource/web
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/GitLab Issue（イシュー）の使い方！基本から活用方法まで分かりやすく解説  GitLab入門ガイド
+  2025年最新版.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### GitLab Issue（イシュー）の要約
 GitLab Issueは、プロジェクト内のタスクやバグ、課題を一元管理するツールです。開発の全工程を可視化し、チームの生産性とコミュニケーションを向上させます。

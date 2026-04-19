@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Claude CodeでSkillsを定期実行で自動化する方法.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude CodeでSkillsを定期実行で自動化する方法"
-source: "https://zenn.dev/tenormusica/articles/claude-code-headless-subscription-discovery-2025"
-author:
+title: Claude CodeでSkillsを定期実行で自動化する方法
+source: https://zenn.dev/tenormusica/articles/claude-code-headless-subscription-discovery-2025
+author: null
 published: 2025-12-29
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude CodeでSkillsを定期実行で自動化する方法.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事要約
 Claude Codeの「Skills（カスタムワークフロー）」をヘッドレスモード（`-p`オプション）で実行し、Task Schedulerやcronと組み合わせることで、**AIによる自律的な定期タスク実行を実現する方法**を解説した記事です。

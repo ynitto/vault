@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/PC起動時にWSL2の自動起動【ログインすらしたくない場合】.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, windows, 2026-04]
----
-
----
-title: "PC起動時にWSL2の自動起動【ログインすらしたくない場合】"
-source: "https://zenn.dev/shishimaruwo/articles/f106b12896e2ba"
-author:
+title: PC起動時にWSL2の自動起動【ログインすらしたくない場合】
+source: https://zenn.dev/shishimaruwo/articles/f106b12896e2ba
+author: null
 published: 2024-01-27
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- windows
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/PC起動時にWSL2の自動起動【ログインすらしたくない場合】.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 Windows PCの電源ONのみでWSL2を起動し、ログインなしで外部からSSH接続できるようにするための設定手順のまとめです。

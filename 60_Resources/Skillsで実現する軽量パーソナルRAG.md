@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Skillsで実現する軽量パーソナルRAG.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Skillsで実現する軽量パーソナルRAG"
-source: "https://zenn.dev/karaage0703/articles/d7eaf62437185d"
-author:
+title: Skillsで実現する軽量パーソナルRAG
+source: https://zenn.dev/karaage0703/articles/d7eaf62437185d
+author: null
 published: 2026-03-01
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Skillsで実現する軽量パーソナルRAG.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 軽量パーソナルRAG「workspace-rag」の概要
 PostgreSQLやDockerを必要とせず、SQLiteと`uv`のみで構築可能な軽量RAGシステムの実装解説記事です。

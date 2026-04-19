@@ -1,19 +1,21 @@
 ---
-original_source: 00_Inbox/Clippings/🔥 はじめての Agent Skills 🔥 12 選＆リポジトリ一覧！GitHub Copilot でも使える AI の手順書.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, git, 2026-04]
----
-
----
-title: "🔥 はじめての Agent Skills 🔥 12 選＆リポジトリ一覧！GitHub Copilot でも使える AI の手順書"
-source: "https://qiita.com/aktsmm/items/08eef2cdeeb0a32b69a2"
+title: 🔥 はじめての Agent Skills 🔥 12 選＆リポジトリ一覧！GitHub Copilot でも使える AI の手順書
+source: https://qiita.com/aktsmm/items/08eef2cdeeb0a32b69a2
 author:
-  - "[[aktsmm]]"
+- '[[aktsmm]]'
 published: 2025-12-24
 created: 2026-04-19
-description: "この記事は GitHub Dockyard Advent Calendar 2025🎄 の 25 日目の記事 です。 メリークリスマス 🎄！！ こんにちは、AI エージェントの進化にワクワクが止まらないアーキテクトのやまぱんです。 補足コメントや質問、いいね、拡散、ぜひお..."
+description: この記事は GitHub Dockyard Advent Calendar 2025🎄 の 25 日目の記事 です。 メリークリスマス 🎄！！
+  こんにちは、AI エージェントの進化にワクワクが止まらないアーキテクトのやまぱんです。 補足コメントや質問、いいね、拡散、ぜひお...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/🔥 はじめての Agent Skills 🔥 12 選＆リポジトリ一覧！GitHub Copilot
+  でも使える AI の手順書.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### Agent Skills の要約
 Agent Skills は、AI エージェントに専門知識や特定のワークフローをパッケージ化して教えるためのオープンスタンダードです。

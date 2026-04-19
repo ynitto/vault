@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/「Skillsを50個運用して気づいたパラドックス」の続き — Agent SkillsのCIテスト品質管理を設計した話.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "「Skillsを50個運用して気づいたパラドックス」の続き — Agent SkillsのCI/テスト/品質管理を設計した話"
-source: "https://qiita.com/nogataka/items/61365a15677fb62aa41a"
+title: 「Skillsを50個運用して気づいたパラドックス」の続き — Agent SkillsのCI/テスト/品質管理を設計した話
+source: https://qiita.com/nogataka/items/61365a15677fb62aa41a
 author:
-  - "[[nogataka]]"
+- '[[nogataka]]'
 published: 2026-04-03
 created: 2026-04-19
-description: "はじめに 前回の記事「Skillsを50個運用して気づいた — 増やすほど生産性が下がるパラドックス」では、Agent Skillsが増えるほど管理コストが膨らむ問題を提起しました。同じ課題を抱えている方が想像以上に多いことがわかりました。 ただ、前回は「問題提起」で終わ..."
+description: はじめに 前回の記事「Skillsを50個運用して気づいた — 増やすほど生産性が下がるパラドックス」では、Agent Skillsが増えるほど管理コストが膨らむ問題を提起しました。同じ課題を抱えている方が想像以上に多いことがわかりました。
+  ただ、前回は「問題提起」で終わ...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/「Skillsを50個運用して気づいたパラドックス」の続き — Agent SkillsのCIテスト品質管理を設計した話.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 本記事では、50個以上の「Agent Skills」を運用する中で直面した管理コスト増大の課題に対し、著者が見出した**CI・テスト・品質管理の具体的な設計手法**を解説しています。

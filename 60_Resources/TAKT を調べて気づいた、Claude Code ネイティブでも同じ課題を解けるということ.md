@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ"
-source: "https://zenn.dev/kok1eeeee/articles/o-m-cc-takt-inspired-update"
-author:
+title: TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ
+source: https://zenn.dev/kok1eeeee/articles/o-m-cc-takt-inspired-update
+author: null
 published: 2026-02-18
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 AIエージェントの「指示に従わない」「脱線する」といった課題に対し、外部エンジンを用いたツール「TAKT」と、Claude Codeのプラグインとして独自開発された「o-m-cc」という、異なるアプローチによる解決策を比較した記事。

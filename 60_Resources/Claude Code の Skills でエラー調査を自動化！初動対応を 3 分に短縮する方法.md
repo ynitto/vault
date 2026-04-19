@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法"
-source: "https://zenn.dev/babyjob/articles/claude-code-mcp-error-analyze"
-author:
+title: Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法
+source: https://zenn.dev/babyjob/articles/claude-code-mcp-error-analyze
+author: null
 published: 2026-03-30
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 本記事では、Claude CodeのSkillsとMCP（Model Context Protocol）を組み合わせ、エラー発生時の調査からGitHubへのIssue作成までを自動化し、通常30分かかる作業を3分に短縮する仕組みを紹介しています。

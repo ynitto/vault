@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, design, 2026-04]
----
-
----
-title: "コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方"
-source: "https://qiita.com/nogataka/items/d4ad685c7901f2056c6f"
+title: コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方
+source: https://qiita.com/nogataka/items/d4ad685c7901f2056c6f
 author:
-  - "[[nogataka]]"
+- '[[nogataka]]'
 published: 2026-03-14
 created: 2026-04-19
-description: "はじめに AIエージェントを設計するとき、何を書けばいいのか迷いませんか。 「役割を書いて、指示を並べて……」で終わると、汎用的で個性のないエージェントになりがちです。 agency-agentsはOSSのエージェント集です。2026年3月14日時点で144個のエージェン..."
+description: はじめに AIエージェントを設計するとき、何を書けばいいのか迷いませんか。 「役割を書いて、指示を並べて……」で終わると、汎用的で個性のないエージェントになりがちです。
+  agency-agentsはOSSのエージェント集です。2026年3月14日時点で144個のエージェン...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- design
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 本記事は、OSSプロジェクト「agency-agents」のガイドラインを基に、高品質なAIエージェントを設計するための5つの原則とテンプレートを解説しています。汎用的なアシスタントから脱却し、特定の専門領域に特化させることで、出力品質を高める手法を提唱しています。

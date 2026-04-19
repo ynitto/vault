@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, git, 2026-04]
----
-
----
-title: "GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成"
-source: "https://qiita.com/leomarokun/items/3040cd6ae4c51b2329f6"
+title: GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成
+source: https://qiita.com/leomarokun/items/3040cd6ae4c51b2329f6
 author:
-  - "[[leomarokun]]"
+- '[[leomarokun]]'
 published: 2026-04-03
 created: 2026-04-19
-description: "はじめに 2026年3月リリースの VS Code 1.113 で Nested Subagents - サブエージェントが別のサブエージェントを呼び出せるようになった機能です。 この記事では、Nested Subagents の仕組みと、実際に動かして検証した結果をお伝..."
+description: はじめに 2026年3月リリースの VS Code 1.113 で Nested Subagents - サブエージェントが別のサブエージェントを呼び出せるようになった機能です。
+  この記事では、Nested Subagents の仕組みと、実際に動かして検証した結果をお伝...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 2026年3月にリリースされたVS Code v1.113の新機能「Nested Subagents（サブエージェントの入れ子呼び出し）」を活用し、TDD（テスト駆動開発）の自動化ワークフローを構築する手法の解説です。

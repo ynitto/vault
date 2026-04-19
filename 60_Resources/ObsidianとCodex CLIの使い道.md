@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/ObsidianとCodex CLIの使い道.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, ai-agent, 2026-04]
----
-
----
-title: "ObsidianとCodex CLIの使い道"
-source: "https://roompine.com/obsidian-codex-cli-use-cases-1/"
+title: ObsidianとCodex CLIの使い道
+source: https://roompine.com/obsidian-codex-cli-use-cases-1/
 author:
-  - "[[pineroom]]"
+- '[[pineroom]]'
 published: 2025-09-14
 created: 2026-04-19
-description: "ObsidianとCodex CLIを組み合わせて作成できるレポートについて調べた"
+description: ObsidianとCodex CLIを組み合わせて作成できるレポートについて調べた
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/ObsidianとCodex CLIの使い道.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## ObsidianとCodex CLIの活用法
 
