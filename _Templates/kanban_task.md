@@ -1,8 +1,9 @@
 ---
 title: <% tp.file.title %>
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-status: Todo
-tags: [task]
+status: Proposed
+tags:
+  - task
 ---
 ```button
 name 🤖 Send to Kiro

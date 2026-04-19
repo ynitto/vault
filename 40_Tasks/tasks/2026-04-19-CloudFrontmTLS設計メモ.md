@@ -1,12 +1,16 @@
 ---
 task_id: 2026-04-19-CloudFrontmTLS設計メモ
 created: 2026-04-19T10:51:13+09:00
-status: proposed
+status: Proposed
 urgency: 中
 priority: 中
 effort: M
-tags: [task, aws, cloudfront]
-source_daily: [[10_Daily/2026-04-19]]
+tags:
+  - task
+  - aws
+  - cloudfront
+source_daily:
+  - - 10_Daily/2026-04-19
 ---
 
 # CloudFrontmTLS設計メモ

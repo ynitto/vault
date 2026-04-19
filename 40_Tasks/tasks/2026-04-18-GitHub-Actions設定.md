@@ -1,17 +1,21 @@
 ---
 title: "task-07: GitHub Actions × Claude Code Action の設定"
 status: Todo
-tags: [task, ai-agent, github-actions, ci-cd]
+tags:
+  - task
+  - ai-agent
+  - github-actions
+  - ci-cd
 related:
-  - "[[AI分析/AI活用事例まとめ]]"
-  - "[[AI分析/改善案・拡張要件リスト]]"
-  - "[[AI分析/タスク/task-01-夜間自動化基盤]]"
-  - "[[AI分析/タスク/task-02-SQLiteタスクキュー]]"
+  - "[[AI活用事例まとめ]]"
+  - "[[改善案・拡張要件リスト]]"
+  - "[[2026-04-18-夜間自動化基盤]]"
+  - "[[2026-04-18-SQLiteタスクキュー]]"
 ---
 
 # task-07: GitHub Actions × Claude Code Action の設定
 
-> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-07]]
+> **対応要件**: [[改善案・拡張要件リスト#REQ-07]]
 
 ---
 
@@ -168,5 +172,5 @@ NIGHTLY_TASKS = [
 - [Claude Code を夜間に走らせ、朝カンバンで拾う](https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop)
 - [Claude Code Action v1 移行ガイド](https://zenn.dev/pepabo/articles/eccb58b794176f)
 - [Claude Code Action GitHub](https://github.com/anthropics/claude-code-action)
-- [[AI分析/タスク/task-01-夜間自動化基盤]]
-- [[AI分析/タスク/task-02-SQLiteタスクキュー]]
+- [[2026-04-18-夜間自動化基盤]]
+- [[2026-04-18-SQLiteタスクキュー]]

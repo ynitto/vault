@@ -1,17 +1,22 @@
 ---
 title: "task-06: Obsidian ↔ Kiro 連携の強化"
 status: Todo
-tags: [task, ai-agent, obsidian, kiro, integration]
+tags:
+  - task
+  - ai-agent
+  - obsidian
+  - kiro
+  - integration
 related:
-  - "[[AI分析/AI活用事例まとめ]]"
-  - "[[AI分析/改善案・拡張要件リスト]]"
-  - "[[AI分析/タスク/task-02-SQLiteタスクキュー]]"
-  - "[[AI分析/タスク/task-04-スキル記憶システム]]"
+  - "[[AI活用事例まとめ]]"
+  - "[[改善案・拡張要件リスト]]"
+  - "[[2026-04-18-SQLiteタスクキュー]]"
+  - "[[2026-04-18-スキル記憶システム]]"
 ---
 
 # task-06: Obsidian ↔ Kiro 連携の強化
 
-> **対応要件**: [[AI分析/改善案・拡張要件リスト#REQ-06]]
+> **対応要件**: [[改善案・拡張要件リスト#REQ-06]]
 
 ---
 
@@ -26,7 +31,7 @@ related:
 - 現状: Obsidian の Shell コマンドで Kiro にタスクを手動送信するだけ
 - 参照: vault の `_Templates/kanban_task.md`（Kiro 送信ボタン実装済み）
 - 目標: タスク作成 → 自動分類 → Kiro 実行 → 結果書き戻し → スキルリンク追加の自動化
-- 前提: [[AI分析/タスク/task-02-SQLiteタスクキュー]] の TaskQueue が利用可能であること
+- 前提: [[2026-04-18-SQLiteタスクキュー]] の TaskQueue が利用可能であること
 
 ---
 
@@ -160,5 +165,5 @@ python /path/to/sandbox/obsidian/write_back_result.py "{{frontmatter:task_id}}" 
 
 - [ぼくの Obsidian](https://qiita.com/yaskitie/items/b48a064cb0c6e673bd42)
 - [Kiro Autonomous Agent](https://kiro.dev/docs/autonomous-agent/github/)
-- [[AI分析/タスク/task-02-SQLiteタスクキュー]]
-- [[AI分析/タスク/task-04-スキル記憶システム]]
+- [[2026-04-18-SQLiteタスクキュー]]
+- [[2026-04-18-スキル記憶システム]]
