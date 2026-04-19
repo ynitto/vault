@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, misc, 2026-04]
----
-
----
-title: "Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する"
-source: "https://qiita.com/uno_ha07/items/5820d195510861b5be71"
+title: Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する
+source: https://qiita.com/uno_ha07/items/5820d195510861b5be71
 author:
-  - "[[uno_ha07]]"
+- '[[uno_ha07]]'
 published: 2026-02-23
 created: 2026-04-19
-description: "【更新履歴：2026年2月27日】 投稿時、本ファイルの作成者を「Boris Cherny氏本人」として紹介しておりましたが、正しくは「同氏がSNSで公開した知見を有志が構造化したもの」でした。内容の正確性を期すため、該当箇所を修正いたしました。 はじめに Cla..."
+description: 【更新履歴：2026年2月27日】 投稿時、本ファイルの作成者を「Boris Cherny氏本人」として紹介しておりましたが、正しくは「同氏がSNSで公開した知見を有志が構造化したもの」でした。内容の正確性を期すため、該当箇所を修正いたしました。
+  はじめに Cla...
 tags:
-  - "clippings"
+- resource/web
+- misc
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### CLAUDE.mdの概要と目的
 `CLAUDE.md`は、Claude Codeがセッション開始時に読み込む設定ファイルです。プロジェクトルートに配置することで、AIにチームのルールや作業方針を事前に伝え、AIを外部メモリのように活用するための仕組みです。

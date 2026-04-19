@@ -1,19 +1,21 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Code・Codex・Gemini の会話ログを日次Markdownとして自動整理する ― chat_logs から LLM_history を自動生成する仕組み.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude Code・Codex・Gemini の会話ログを日次Markdownとして自動整理する ― chat_logs から LLM_history を自動生成する仕組み"
-source: "https://qiita.com/rxg03350/items/9bd822a2be5549b17878"
+title: Claude Code・Codex・Gemini の会話ログを日次Markdownとして自動整理する ― chat_logs から LLM_history
+  を自動生成する仕組み
+source: https://qiita.com/rxg03350/items/9bd822a2be5549b17878
 author:
-  - "[[rxg03350]]"
+- '[[rxg03350]]'
 published: 2026-03-08
 created: 2026-04-19
-description: "はじめに Claude Code、Codex、Gemini を併用していると、あとから「あの日どのツールで何を相談したか」を追いたくなる場面が増えます。 ただし実際のログは、ツールごとに保存形式も保存場所も違います。 Codex は JSONL ベース Claude C..."
+description: はじめに Claude Code、Codex、Gemini を併用していると、あとから「あの日どのツールで何を相談したか」を追いたくなる場面が増えます。
+  ただし実際のログは、ツールごとに保存形式も保存場所も違います。 Codex は JSONL ベース Claude C...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Code・Codex・Gemini の会話ログを日次Markdownとして自動整理する
+  ― chat_logs から LLM_history を自動生成する仕組み.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 本記事は、Claude Code、Codex、Geminiといった複数のAIツールの会話ログを自動的に集約・整形し、振り返りやすいMarkdown形式で保存する運用手法の解説です。ログの散逸を防ぎ、日次での可読性を高めるための自動化システムを紹介しています。

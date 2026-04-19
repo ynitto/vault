@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた"
-source: "https://dev.classmethod.jp/articles/cfn-coding-guidelines/"
+title: CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた
+source: https://dev.classmethod.jp/articles/cfn-coding-guidelines/
 author:
-  - "[[桑野翔]]"
+- '[[桑野翔]]'
 published: 2026-03-24
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/CloudFormation コーディング規約を策定し、rain fmt + cfn-lint
+  + Claude Code skillsで担保する仕組みを整備してみた.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 AWS CloudFormationテンプレートの品質担保に向け、コーディング規約の策定と、それを自動的に守るためのツール環境（rain, cfn-lint, Claude Code skills）を整備した取り組みの紹介。

@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない"
-source: "https://zenn.dev/2rezure/articles/e662f43ad9ea35"
-author:
+title: Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない
+source: https://zenn.dev/2rezure/articles/e662f43ad9ea35
+author: null
 published: 2025-03-13
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### Obsidian Web ClipperでのAI要約問題解決
 Obsidian Web ClipperでGeminiやGPT-4oがWebページをうまく要約しない、またはコンテキストが渡されない問題の解決策。

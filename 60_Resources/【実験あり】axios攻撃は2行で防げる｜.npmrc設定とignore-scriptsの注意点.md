@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点"
-source: "https://zenn.dev/junko_ai/articles/721d89181b844f"
-author:
+title: 【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点
+source: https://zenn.dev/junko_ai/articles/721d89181b844f
+author: null
 published: 2026-04-05
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 2026年3月31日に発生した axios を悪用したサプライチェーン攻撃に対し、個人の開発環境を守るための具体的な設定方法を解説しています。

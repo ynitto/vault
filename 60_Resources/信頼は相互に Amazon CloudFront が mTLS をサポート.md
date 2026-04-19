@@ -1,21 +1,22 @@
 ---
-original_source: 00_Inbox/Clippings/信頼は相互に Amazon CloudFront が mTLS をサポート.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "信頼は相互に: Amazon CloudFront が mTLS をサポート"
-source: "https://aws.amazon.com/jp/blogs/news/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/"
+title: '信頼は相互に: Amazon CloudFront が mTLS をサポート'
+source: https://aws.amazon.com/jp/blogs/news/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/
 author:
-  - "[[Yutaka Oka]]"
-  - "[[Tomoya Kudo]]"
-  - "[[and Sagar Desarda]]"
+- '[[Yutaka Oka]]'
+- '[[Tomoya Kudo]]'
+- '[[and Sagar Desarda]]'
 published: 2025-12-04
 created: 2026-04-19
-description: "本日より、Amazon CloudFront はエンドユーザーから CloudFront への相互 TLS 認証 (mTLS) をサポートし、高度に分散された機密性の高いアプリケーションのセキュリティを強化します。現代のアーキテクチャでは、クライアント・サーバー間の通信を保護するには標準的な TLS 以上のものが必要であり、mTLS は相互の認証を強制することでこのモデルを拡張します。これにより、データが交換される前にクライアントとサーバーの両方が互いの身元を検証することが保証されます。さらに、この新機能はプロトコルレベルできめ細かなアクセス制御と ID 検証を強制し、規制環境における監査とコンプライアンスを合理化します。"
+description: 本日より、Amazon CloudFront はエンドユーザーから CloudFront への相互 TLS 認証 (mTLS) をサポートし、高度に分散された機密性の高いアプリケーションのセキュリティを強化します。現代のアーキテクチャでは、クライアント・サーバー間の通信を保護するには標準的な
+  TLS 以上のものが必要であり、mTLS は相互の認証を強制することでこのモデルを拡張します。これにより、データが交換される前にクライアントとサーバーの両方が互いの身元を検証することが保証されます。さらに、この新機能はプロトコルレベルできめ細かなアクセス制御と
+  ID 検証を強制し、規制環境における監査とコンプライアンスを合理化します。
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/信頼は相互に Amazon CloudFront が mTLS をサポート.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### Amazon CloudFront が mTLS をサポート
 Amazon CloudFront は、エンドユーザーと CloudFront 間の相互 TLS 認証 (mTLS) をサポートしました。これにより、アプリケーションのセキュリティ強化とアクセス制御の最適化が可能になります。

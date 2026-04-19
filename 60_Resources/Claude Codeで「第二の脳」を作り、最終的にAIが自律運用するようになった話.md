@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話"
-source: "https://qiita.com/yamapiiii/items/cc2450f410b64329d275"
+title: Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話
+source: https://qiita.com/yamapiiii/items/cc2450f410b64329d275
 author:
-  - "[[yamapiiii]]"
+- '[[yamapiiii]]'
 published: 2026-03-01
 created: 2026-04-19
-description: "はじめに 自分の思考・知識・アイデアを全て外部に書き出し、検索可能にする——いわゆる「第二の脳（Second Brain）」。 Notion、Obsidianで実践している人は多いと思います。私はこれをGitリポジトリ + Claude Codeで構築しました。 最初は「..."
+description: はじめに 自分の思考・知識・アイデアを全て外部に書き出し、検索可能にする——いわゆる「第二の脳（Second Brain）」。 Notion、Obsidianで実践している人は多いと思います。私はこれをGitリポジトリ
+  + Claude Codeで構築しました。 最初は「...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事要約
 GitリポジトリとClaude Codeを組み合わせ、自身の思考やプロジェクト管理を「第二の脳（Second Brain）」として構築・自動運用する方法を解説した実践録です。Notion等の既存ツールを超え、AIが自律的に整理・判断・実行を行う仕組みを構築しています。

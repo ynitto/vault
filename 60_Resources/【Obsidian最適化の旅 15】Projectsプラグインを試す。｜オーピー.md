@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/【Obsidian最適化の旅 15】Projectsプラグインを試す。｜オーピー.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, git, 2026-04]
----
-
----
-title: "【Obsidian最適化の旅 #15】Projectsプラグインを試す。｜オーピー"
-source: "https://note.com/ordinary_people/n/n5eb5121f4604"
+title: '【Obsidian最適化の旅 #15】Projectsプラグインを試す。｜オーピー'
+source: https://note.com/ordinary_people/n/n5eb5121f4604
 author:
-  - "[[オーピー]]"
+- '[[オーピー]]'
 published: 2024-01-25
 created: 2026-04-19
-description: "どうも。趣味でObsidianを使っている者です。  このnoteを含む一連の記事は、私が新しいVaultに求めるものを明確にし、Obsidianの機能を改めて深掘りした上で、私のためだけに存在するObsidian環境を作り上げるまでの旅の記録になります。  本記事は第15弾です。 興味のある方はぜひ連載を順に読んでみてください。思考と試行の記録です。  Obsidian最適化の旅｜オーピー｜noteObsidianを2年使った男がVaultを再建するまでの旅路。note.com  Obsidianで自分がしたいと思っていた「プロジェクトマネジメント」をプラ"
+description: どうも。趣味でObsidianを使っている者です。  このnoteを含む一連の記事は、私が新しいVaultに求めるものを明確にし、Obsidianの機能を改めて深掘りした上で、私のためだけに存在するObsidian環境を作り上げるまでの旅の記録になります。  本記事は第15弾です。
+  興味のある方はぜひ連載を順に読んでみてください。思考と試行の記録です。  Obsidian最適化の旅｜オーピー｜noteObsidianを2年使った男がVaultを再建するまでの旅路。note.com  Obsidianで自分がしたいと思っていた「プロジェクトマネジメント」をプラ
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/【Obsidian最適化の旅 15】Projectsプラグインを試す。｜オーピー.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # Obsidian Projectsプラグインの概要
 

@@ -1,19 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる"
-source: "https://dev.classmethod.jp/articles/skill-seekers-claude-code-skills/"
+title: Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる
+source: https://dev.classmethod.jp/articles/skill-seekers-claude-code-skills/
 author:
-  - "[[kobayashi.m]]"
+- '[[kobayashi.m]]'
 published: 2026-04-07
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 「Skill Seekers」は、URL、GitHubリポジトリ、ローカルファイルなど多様なソースから「Claude Code Skills」を自動生成・管理するPythonツールです。手動でのスキル作成コストを大幅に削減し、効率的なAIエージェントの構築を支援します。

@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口"
-source: "https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop"
-author:
+title: Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口
+source: https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop
+author: null
 published: 2026-04-16
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 Claude Codeを夜間に自走させ、朝に効率よく成果を確認するための「入口（自動化・実行）」と「出口（カンバンによる可視化・管理）」を統合した運用設計について解説しています。

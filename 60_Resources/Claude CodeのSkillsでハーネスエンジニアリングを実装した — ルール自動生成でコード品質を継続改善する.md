@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, design, 2026-04]
----
-
----
-title: "Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する"
-source: "https://zenn.dev/shintaroamaike/articles/df3ecc0ddee047"
-author:
+title: Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する
+source: https://zenn.dev/shintaroamaike/articles/df3ecc0ddee047
+author: null
 published: 2026-04-01
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- design
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 Claude Codeのコーディングルール管理を自動化するスキル「AutoHarness」の紹介記事です。プロジェクト固有の規約を自動生成・適用することで、AIによるコード品質の継続的な改善を実現します。

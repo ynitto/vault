@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, git, 2026-04]
----
-
----
-title: "hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み"
-source: "https://qiita.com/nogataka/items/48328a49ae80dead6174"
+title: hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み
+source: https://qiita.com/nogataka/items/48328a49ae80dead6174
 author:
-  - "[[nogataka]]"
+- '[[nogataka]]'
 published: 2026-04-13
 created: 2026-04-19
-description: "はじめに 2026年4月現在、GitHub Trendingで圧倒的な存在感を放っているリポジトリがあります。Nous Researchが開発したhermes-agentです。2026年2月の本格公開から2ヶ月で累計67,000 Starを超える急成長を見せており、202..."
+description: はじめに 2026年4月現在、GitHub Trendingで圧倒的な存在感を放っているリポジトリがあります。Nous Researchが開発したhermes-agentです。2026年2月の本格公開から2ヶ月で累計67,000
+  Starを超える急成長を見せており、202...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 『hermes-agent』は、Nous Researchが開発したOSSの「自己成長型AIエージェント」です。2026年2月の公開から短期間で6.7万Starを超え、単なるタスク処理を超えて「自ら学習・改善する」設計で大きな注目を集めています。

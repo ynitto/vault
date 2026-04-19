@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた"
-source: "https://zenn.dev/moneyforward/articles/94d5a22f3ab4f1"
-author:
+title: Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた
+source: https://zenn.dev/moneyforward/articles/94d5a22f3ab4f1
+author: null
 published: 2025-09-15
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## 概要
 Neovimで実現していたタスク管理方法（タスクのファイル化・アーカイブ）を、ObsidianのQuickAddプラグインとJavaScriptを活用して再現する手順を解説します。

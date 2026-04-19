@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix"
-source: "https://note.com/maybefix/n/n0adffb4ebfe3"
+title: Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix
+source: https://note.com/maybefix/n/n0adffb4ebfe3
 author:
-  - "[[MaybeFix]]"
+- '[[MaybeFix]]'
 published: 2024-11-17
 created: 2026-04-19
-description: "Obsidian 関連のプラグインで面白そうなものを見つけたのでシェアします。それがこの「Modal Opener」  New Plguin: Obsidian Modal OpenerHere is a simple exampleforum.obsidian.md  　モーダルウィンドウで入力／閲覧ができるプラグインです。  使い方  　モーダルウィンドウで開きたいリンクを、以下の要領で操作します。    Alt＋左クリック＝編集状態で開く    Alt＋右クリック＝プレビュー状態で開く    　たったこれだけのプラグインです。ただし新規リンク（まだペ"
+description: 'Obsidian 関連のプラグインで面白そうなものを見つけたのでシェアします。それがこの「Modal Opener」  New Plguin:
+  Obsidian Modal OpenerHere is a simple exampleforum.obsidian.md  　モーダルウィンドウで入力／閲覧ができるプラグインです。  使い方  　モーダルウィンドウで開きたいリンクを、以下の要領で操作します。    Alt＋左クリック＝編集状態で開く    Alt＋右クリック＝プレビュー状態で開く    　たったこれだけのプラグインです。ただし新規リンク（まだペ'
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## Obsidian プラグイン「Modal Opener」
 

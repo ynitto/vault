@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法"
-source: "https://qiita.com/rcomcpgm-cyber/items/901344b211a6a3e7dda7"
+title: Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法
+source: https://qiita.com/rcomcpgm-cyber/items/901344b211a6a3e7dda7
 author:
-  - "[[rcomcpgm-cyber]]"
+- '[[rcomcpgm-cyber]]'
 published: 2026-04-10
 created: 2026-04-19
-description: "この記事でわかること Claude Codeの「エージェント機能」を使った専門家エージェントの構築方法 McKinsey/BCG流分析フレームワーク（空雨傘）をAIに組み込む手順 実際のSaaS事業分析の事例と精度評価 AIコンサルタントが活躍する場面と限界 Cl..."
+description: この記事でわかること Claude Codeの「エージェント機能」を使った専門家エージェントの構築方法 McKinsey/BCG流分析フレームワーク（空雨傘）をAIに組み込む手順
+  実際のSaaS事業分析の事例と精度評価 AIコンサルタントが活躍する場面と限界 Cl...
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 Claude Codeのエージェント機能を活用し、McKinsey/BCG流の思考フレームワーク（空・雨・傘）を組み込んだ「AIコンサルタント」の構築・運用方法を解説する記事です。

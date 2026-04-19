@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/ObsidianでZennを書く！git submoduleで一元管理.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, git, 2026-04]
----
-
----
-title: "ObsidianでZennを書く！git submoduleで一元管理"
-source: "https://zenn.dev/ktr17/articles/3505fab842af79"
-author:
+title: ObsidianでZennを書く！git submoduleで一元管理
+source: https://zenn.dev/ktr17/articles/3505fab842af79
+author: null
 published: 2025-11-26
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/ObsidianでZennを書く！git submoduleで一元管理.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## ObsidianとZennの連携：git submoduleによる一元管理
 

@@ -1,19 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/小ネタ S3に保存されているログファイルをAWS CLIでまとめてコピーする.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "[小ネタ] S3に保存されているログファイルをAWS CLIでまとめてコピーする"
-source: "https://dev.classmethod.jp/articles/s3-logfile-copy-by-awscli/"
+title: '[小ネタ] S3に保存されているログファイルをAWS CLIでまとめてコピーする'
+source: https://dev.classmethod.jp/articles/s3-logfile-copy-by-awscli/
 author:
-  - "[[清水俊也]]"
+- '[[清水俊也]]'
 published: 2016-09-24
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/小ネタ S3に保存されているログファイルをAWS CLIでまとめてコピーする.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 AWS CLIを使用して、S3上の大量のログファイルから特定の日付・条件のファイルをローカルへ効率的にコピーする方法の解説。

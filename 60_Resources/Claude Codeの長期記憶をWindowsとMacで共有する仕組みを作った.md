@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, windows, 2026-04]
----
-
----
-title: "Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った"
-source: "https://zenn.dev/aoi_umigishi/articles/fc877d2d7d3e38"
-author:
+title: Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った
+source: https://zenn.dev/aoi_umigishi/articles/fc877d2d7d3e38
+author: null
 published: 2026-03-24
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- windows
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 本記事は、マルチデバイス（Windows/Mac）環境でClaude Codeの「長期記憶」を同期するための自作システムについての解説です。SQLiteをローカルキャッシュ、JSONLをGit管理の正本とすることで、マシン間でのメモリ同期と競合回避を実現しています。

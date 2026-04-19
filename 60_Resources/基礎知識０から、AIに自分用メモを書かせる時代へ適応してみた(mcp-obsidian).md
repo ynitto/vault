@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian)"
-source: "https://zenn.dev/502/articles/f8aeaa8057fc49"
-author:
+title: 基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian)
+source: https://zenn.dev/502/articles/f8aeaa8057fc49
+author: null
 published: 2025-05-05
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## AIメモ書き環境構築ガイド
 

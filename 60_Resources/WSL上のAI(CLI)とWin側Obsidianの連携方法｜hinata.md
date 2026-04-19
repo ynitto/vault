@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, windows, 2026-04]
----
-
----
-title: "WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata"
-source: "https://note.com/hinatasatou/n/n46af3c6259eb"
+title: WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata
+source: https://note.com/hinatasatou/n/n46af3c6259eb
 author:
-  - "[[hinata]]"
+- '[[hinata]]'
 published: 2025-08-30
 created: 2026-04-19
-description: "(注釈：作業工程だけ見たい人、区切り線まで飛ばしてください)  Obsidian、流行ってますね（今更） ちょっと時間ができたので、導入してみようと思ったのが3日前。現時点で「あ、もうこれは革命だ」って気持ちになってます。  主にCLI系ツールとのコラボによって無二のツールになりつつある気がします。今回、WSL(WSL2)側の各種AIのCLIとWindows側のObsidianを連携させることで、超快適な作業環境を手に入れたので、ご紹介いたします。  まず、自分のPC周りについてですが、基本的にはwin 11を使っているものの、株の解析であったり、副業でやっているプログラム系業務（サー"
+description: (注釈：作業工程だけ見たい人、区切り線まで飛ばしてください)  Obsidian、流行ってますね（今更） ちょっと時間ができたので、導入してみようと思ったのが3日前。現時点で「あ、もうこれは革命だ」って気持ちになってます。  主にCLI系ツールとのコラボによって無二のツールになりつつある気がします。今回、WSL(WSL2)側の各種AIのCLIとWindows側のObsidianを連携させることで、超快適な作業環境を手に入れたので、ご紹介いたします。  まず、自分のPC周りについてですが、基本的にはwin
+  11を使っているものの、株の解析であったり、副業でやっているプログラム系業務（サー
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- windows
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## WSL上のAI(CLI)とWindows側Obsidianの連携方法
 

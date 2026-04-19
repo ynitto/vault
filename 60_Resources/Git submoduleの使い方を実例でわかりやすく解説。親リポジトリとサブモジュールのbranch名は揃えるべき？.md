@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, git, 2026-04]
----
-
----
-title: "Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？"
-source: "https://qiita.com/softbase/items/069c1a1ccdd070e70419"
+title: Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？
+source: https://qiita.com/softbase/items/069c1a1ccdd070e70419
 author:
-  - "[[softbase]]"
+- '[[softbase]]'
 published: 2026-04-11
 created: 2026-04-19
-description: "Gitで複数のリポジトリをまたいで開発していると、次のような要件が出てくることがあります。 共通ライブラリを別リポジトリとして管理したい フロントとバックエンドで一部のコードを共有したい 外部のライブラリや社内共通モジュールを、特定バージョンで固定して使いたい こうした..."
+description: Gitで複数のリポジトリをまたいで開発していると、次のような要件が出てくることがあります。 共通ライブラリを別リポジトリとして管理したい
+  フロントとバックエンドで一部のコードを共有したい 外部のライブラリや社内共通モジュールを、特定バージョンで固定して使いたい こうした...
 tags:
-  - "clippings"
+- resource/web
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事の要約
 Git submoduleは、外部リポジトリをプロジェクト内で参照・固定するための仕組みです。親リポジトリはサブモジュールのコード本体ではなく「特定のコミットハッシュ」を管理するため、運用時にはサブモジュールと親リポジトリの両方で適切なコミット操作が求められます。

@@ -1,18 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応).md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, ai-agent, 2026-04]
----
-
----
-title: "ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応)"
-source: "https://zenn.dev/tokium_dev/articles/2fc1fa15407efe"
-author:
+title: ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応)
+source: https://zenn.dev/tokium_dev/articles/2fc1fa15407efe
+author: null
 published: 2026-02-25
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini
+  CLI対応).md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # Obsidian Agent Client Plugin: AIエージェントとチャット
 

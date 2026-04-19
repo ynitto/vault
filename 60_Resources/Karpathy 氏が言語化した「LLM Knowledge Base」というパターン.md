@@ -1,19 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/Karpathy 氏が言語化した「LLM Knowledge Base」というパターン.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Karpathy 氏が言語化した「LLM Knowledge Base」というパターン"
-source: "https://dev.classmethod.jp/articles/karpathy-llm-knowledge-base/"
+title: Karpathy 氏が言語化した「LLM Knowledge Base」というパターン
+source: https://dev.classmethod.jp/articles/karpathy-llm-knowledge-base/
 author:
-  - "[[森茂洋]]"
+- '[[森茂洋]]'
 published: 2026-04-05
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Karpathy 氏が言語化した「LLM Knowledge Base」というパターン.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 Andrej Karpathy氏が提唱した「LLM Knowledge Base」という概念を紹介し、生のドキュメントをLLMに構造化・コンパイルさせることで、永続的なナレッジベースを構築する手法と自身の運用事例を解説しています。

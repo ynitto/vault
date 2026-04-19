@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/LLMに長期記憶を実装する.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "LLMに長期記憶を実装する"
-source: "https://zenn.dev/j_m/articles/efcc4f224cc8ca"
-author:
+title: LLMに長期記憶を実装する
+source: https://zenn.dev/j_m/articles/efcc4f224cc8ca
+author: null
 published: 2026-03-10
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/LLMに長期記憶を実装する.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 要約
 Claude Codeに、人間の脳の仕組み（情動、忘却、再構成など）を模倣した長期記憶システムをPythonで実装した事例。単なるデータベース検索ではなく、時間帯や気分、文脈に応じて結果が動的に変化する記憶の「プロセス」を再現しています。

@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/AIエージェントのスキルを自己改善させるOSSを作った.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, misc, 2026-04]
----
-
----
-title: "AIエージェントのスキルを自己改善させるOSSを作った"
-source: "https://zenn.dev/adalocamp/articles/agent-skill-bus"
-author:
+title: AIエージェントのスキルを自己改善させるOSSを作った
+source: https://zenn.dev/adalocamp/articles/agent-skill-bus
+author: null
 published: 2026-03-20
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- misc
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/AIエージェントのスキルを自己改善させるOSSを作った.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 AIエージェントの運用現場で直面する「スキルの劣化」「タスク競合」「自己改善の欠如」という課題を解決するため、開発者が作成したOSS『**agent-skill-bus**』の紹介記事。

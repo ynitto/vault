@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidianで最適なPKM環境を考える.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidianで最適なPKM環境を考える"
-source: "https://zenn.dev/game8_blog/articles/0e50c36cd63b98"
-author:
+title: Obsidianで最適なPKM環境を考える
+source: https://zenn.dev/game8_blog/articles/0e50c36cd63b98
+author: null
 published: 2023-12-20
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidianで最適なPKM環境を考える.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # Obsidianで最適なPKM環境を構築する
 

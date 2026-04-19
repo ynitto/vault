@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidianをチームで使えるようにしたいin閉域環境なJTC.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "Obsidianをチームで使えるようにしたいin閉域環境なJTC"
-source: "https://zenn.dev/ningensei848/articles/obsidian-air-gapped-team-sync"
-author:
+title: Obsidianをチームで使えるようにしたいin閉域環境なJTC
+source: https://zenn.dev/ningensei848/articles/obsidian-air-gapped-team-sync
+author: null
 published: 2025-12-06
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidianをチームで使えるようにしたいin閉域環境なJTC.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # Obsidianの閉域環境チーム同期
 

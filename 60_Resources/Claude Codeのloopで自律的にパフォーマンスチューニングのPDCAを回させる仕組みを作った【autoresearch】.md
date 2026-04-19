@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Codeのloopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude Codeの/loopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】"
-source: "https://zenn.dev/dely_jp/articles/3117e590465e38"
-author:
+title: Claude Codeの/loopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】
+source: https://zenn.dev/dely_jp/articles/3117e590465e38
+author: null
 published: 2026-03-30
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Codeのloopで自律的にパフォーマンスチューニングのPDCAを回させる仕組みを作った【autoresearch】.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 Andre Karpathy氏が公開したAI自律改善リポジトリ「autoresearch」の概念を応用し、RailsコントローラーのパフォーマンスチューニングをAIが自律的に行う仕組み「autoresearch-controller」を構築した事例紹介記事です。

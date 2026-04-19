@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, aws, 2026-04]
----
-
----
-title: "AWS::CloudFront::TrustStore CaCertificatesBundleS3Location - AWS CloudFormation"
-source: "https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-properties-cloudfront-truststore-cacertificatesbundles3location.html"
-author:
-published:
+title: AWS::CloudFront::TrustStore CaCertificatesBundleS3Location - AWS CloudFormation
+source: https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-properties-cloudfront-truststore-cacertificatesbundles3location.html
+author: null
+published: null
 created: 2026-04-19
-description: "The CA certificates bundle location in Amazon S3."
+description: The CA certificates bundle location in Amazon S3.
 tags:
-  - "clippings"
+- resource/web
+- aws
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/AWSCloudFrontTrustStore CaCertificatesBundleS3Location
+  - AWS CloudFormation.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 本ドキュメントは、AWS CloudFormation における `AWS::CloudFront::TrustStore` のプロパティである `CaCertificatesBundleS3Location` の仕様を定義しています。これは、CloudFront トラストストアで使用する CA 証明書バンドルを S3 バケットから指定するための設定です。

@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, git, 2026-04]
----
-
----
-title: "ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】"
-source: "https://qiita.com/oga_aiichiro/items/1eb903562851f4f4a206"
+title: ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】
+source: https://qiita.com/oga_aiichiro/items/1eb903562851f4f4a206
 author:
-  - "[[oga_aiichiro]]"
+- '[[oga_aiichiro]]'
 published: 2025-09-01
 created: 2026-04-19
-description: "1. よくあるPJドキュメント管理の手法とその問題 プロジェクトを進める上で、議事録や相談内容、決定事項といった情報は、メンバー全員がいつでも確認できる場所にまとめるのが理想です。 しかし、その「場所」をどこにするかで、悩んだ経験はないでしょうか？ 例えば、弊社では社..."
+description: 1. よくあるPJドキュメント管理の手法とその問題 プロジェクトを進める上で、議事録や相談内容、決定事項といった情報は、メンバー全員がいつでも確認できる場所にまとめるのが理想です。
+  しかし、その「場所」をどこにするかで、悩んだ経験はないでしょうか？ 例えば、弊社では社...
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## Qiita記事要約：Git×Obsidianによるドキュメント管理
 

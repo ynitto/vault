@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/Claude Code の集中力を保つ Agent Skills を作った.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, ai-agent, 2026-04]
----
-
----
-title: "Claude Code の集中力を保つ Agent Skills を作った"
-source: "https://zenn.dev/cureapp/articles/c5016035a7d53d"
-author:
+title: Claude Code の集中力を保つ Agent Skills を作った
+source: https://zenn.dev/cureapp/articles/c5016035a7d53d
+author: null
 published: 2026-01-13
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Claude Code の集中力を保つ Agent Skills を作った.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ## 記事の要約
 Claude Code の Agent Skills として「Progressive Workflow」が公開されました。LLMの注意力分散による回答精度の低下を解決するため、複雑なタスクをステップごとに分割して順次実行する仕組みです。

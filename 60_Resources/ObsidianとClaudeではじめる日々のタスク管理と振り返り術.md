@@ -1,19 +1,19 @@
 ---
-original_source: 00_Inbox/Clippings/ObsidianとClaudeではじめる日々のタスク管理と振り返り術.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "ObsidianとClaudeではじめる日々のタスク管理と振り返り術"
-source: "https://qiita.com/inamuu/items/d9b013b54a31a78e9c13"
+title: ObsidianとClaudeではじめる日々のタスク管理と振り返り術
+source: https://qiita.com/inamuu/items/d9b013b54a31a78e9c13
 author:
-  - "[[inamuu]]"
+- '[[inamuu]]'
 published: 2025-12-20
 created: 2026-04-19
-description: "はじめに みなさん、生成AI使ってますか？ 私ももちろん使っています。 コードの調査やちょっとしたサマリーを出して概要を掴んだり、今までネットサーフィンして培ってきたあのGoogle先生との対話力が今や不要な能力となりつつあります。 そんななか、生成AIはとても便利ですが..."
+description: はじめに みなさん、生成AI使ってますか？ 私ももちろん使っています。 コードの調査やちょっとしたサマリーを出して概要を掴んだり、今までネットサーフィンして培ってきたあのGoogle先生との対話力が今や不要な能力となりつつあります。
+  そんななか、生成AIはとても便利ですが...
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/ObsidianとClaudeではじめる日々のタスク管理と振り返り術.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # ObsidianとClaudeCodeによるタスク管理・振り返り術
 

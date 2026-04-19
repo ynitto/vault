@@ -1,19 +1,21 @@
 ---
-original_source: 00_Inbox/Clippings/サーバーレスなデータ収集APIを作るときの困りポイント.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, misc, 2026-04]
----
-
----
-title: "サーバーレスなデータ収集APIを作るときの困りポイント"
-source: "https://engineers.fenrir-inc.com/entry/2023/03/16/172808"
+title: サーバーレスなデータ収集APIを作るときの困りポイント
+source: https://engineers.fenrir-inc.com/entry/2023/03/16/172808
 author:
-  - "[[khmoryz]]"
+- '[[khmoryz]]'
 published: 2023-03-16
 created: 2026-04-19
-description: "はじめに インフラ/バックエンド担当の森井です。 API Gateway、Kinesis、S3を組み合わせることで、データ収集APIを簡単に作成することができます。 POSTされたデータをシンプルに保存したり、そこからDBにロードして分析したり、といったときには便利な構成です。 構成図 構築手順については様々なブログで紹介されているので、実際に構築する上で困った部分とその解決策を紹介します。 少々ニッチな内容となりますが、お困りの方に届けば嬉しいです。 構築の参考になる資料 チュートリアル: API Gateway で REST API を Amazon Kinesis のプロキシとして作成す…"
+description: 'はじめに インフラ/バックエンド担当の森井です。 API Gateway、Kinesis、S3を組み合わせることで、データ収集APIを簡単に作成することができます。
+  POSTされたデータをシンプルに保存したり、そこからDBにロードして分析したり、といったときには便利な構成です。 構成図 構築手順については様々なブログで紹介されているので、実際に構築する上で困った部分とその解決策を紹介します。
+  少々ニッチな内容となりますが、お困りの方に届けば嬉しいです。 構築の参考になる資料 チュートリアル: API Gateway で REST API を Amazon
+  Kinesis のプロキシとして作成す…'
 tags:
-  - "clippings"
+- resource/web
+- misc
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/サーバーレスなデータ収集APIを作るときの困りポイント.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 AWS API Gateway、Kinesis、S3を組み合わせたデータ収集APIの構築において、実務で発生しやすい課題とその解決策を解説した記事です。

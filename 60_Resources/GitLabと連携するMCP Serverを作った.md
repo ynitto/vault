@@ -1,18 +1,17 @@
 ---
-original_source: 00_Inbox/Clippings/GitLabと連携するMCP Serverを作った.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, git, 2026-04]
----
-
----
-title: "GitLabと連携するMCP Serverを作った"
-source: "https://zenn.dev/owayo/articles/e4c4496e6d79e7"
-author:
+title: GitLabと連携するMCP Serverを作った
+source: https://zenn.dev/owayo/articles/e4c4496e6d79e7
+author: null
 published: 2025-03-20
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- git
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/GitLabと連携するMCP Serverを作った.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 概要
 GitLabとAIアシスタント（Cursor/Claude）を連携させ、開発効率を向上させるための「GitLab MCP Server」の開発・導入方法を紹介する記事です。

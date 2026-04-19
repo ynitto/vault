@@ -1,18 +1,18 @@
 ---
-original_source: 00_Inbox/Clippings/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, ai-agent, 2026-04]
----
-
----
-title: "Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話"
-source: "https://zenn.dev/stafes_blog/articles/d7457519a2daec"
-author:
+title: Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話
+source: https://zenn.dev/stafes_blog/articles/d7457519a2daec
+author: null
 published: 2025-12-11
 created: 2026-04-19
-description:
+description: null
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- ai-agent
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 # Obsidian × Claude Code による情報整理
 

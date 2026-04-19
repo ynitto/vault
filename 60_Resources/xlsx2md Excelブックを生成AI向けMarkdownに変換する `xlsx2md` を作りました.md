@@ -1,19 +1,20 @@
 ---
-original_source: 00_Inbox/Clippings/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, misc, 2026-04]
----
-
----
-title: "[xlsx2md] Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました"
-source: "https://qiita.com/igapyon/items/cfbbc0d6112059b26522"
+title: '[xlsx2md] Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました'
+source: https://qiita.com/igapyon/items/cfbbc0d6112059b26522
 author:
-  - "[[igapyon]]"
+- '[[igapyon]]'
 published: 2026-03-20
 created: 2026-04-19
-description: "Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。 そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。 xls..."
+description: Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。 そこで、Excel ブックを生成
+  AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。 xls...
 tags:
-  - "clippings"
+- resource/web
+- misc
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md`
+  を作りました.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 ### 記事要約
 本記事は、Excelブックを生成AIに適した構造化テキスト（Markdown）へ変換する、ローカル完結型Webツール「xlsx2md」の紹介です。機密情報を外部に送信せず、ブラウザ上で安全かつ効率的にExcel内の情報を抽出できます。

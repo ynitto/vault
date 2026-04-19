@@ -1,19 +1,21 @@
 ---
-original_source: 00_Inbox/Clippings/【Shell Commands】というObsidian プラグインを試してみた｜セカイル.md
-copied_at: 2026-04-19T10:51:13+09:00
-tags: [resource/web, obsidian, 2026-04]
----
-
----
-title: "【Shell Commands】というObsidian プラグインを試してみた｜セカイル"
-source: "https://note.com/2ndillness/n/naebeded17bdd"
+title: 【Shell Commands】というObsidian プラグインを試してみた｜セカイル
+source: https://note.com/2ndillness/n/naebeded17bdd
 author:
-  - "[[セカイル]]"
+- '[[セカイル]]'
 published: 2026-02-04
 created: 2026-04-19
-description: "前置き  「Shell Commands」って何？を一言で言うと、シェルコマンドを「Obsidian」上から実行できるようにするプラグインです。  Index - Shell commands documentation - Obsidian PublishShell commands - Documentation Shell commands is a communitypublish.obsidian.md  「Obsidian」ってなんぞ?って言う方はとりまググってもろて。  Obsidian - Sharpen your thinking"
+description: 前置き  「Shell Commands」って何？を一言で言うと、シェルコマンドを「Obsidian」上から実行できるようにするプラグインです。  Index
+  - Shell commands documentation - Obsidian PublishShell commands - Documentation
+  Shell commands is a communitypublish.obsidian.md  「Obsidian」ってなんぞ?って言う方はとりまググってもろて。  Obsidian
+  - Sharpen your thinking
 tags:
-  - "clippings"
+- resource/web
+- obsidian
+- 2026-04
+- clippings
+original_source: 00_Inbox/Clippings/【Shell Commands】というObsidian プラグインを試してみた｜セカイル.md
+copied_at: 2026-04-19 10:51:13+09:00
 ---
 Obsidianのコミュニティプラグイン「Shell Commands」の導入と設定方法について解説した記事。
 
