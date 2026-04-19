@@ -164,8 +164,8 @@ agent_runs: N ← 実行回数（インクリメント）
 ## ✅ 今日やること
 <!-- 未完了キャリーオーバー + 新規タスク候補 -->
 
-- [ ] タスク名 #priority/high #urgent [[40_Tasks/tasks/YYYY-MM-DD-タスク名|📋 詳細]] [[40_Tasks/Kanban#Todo|📌 Kanban]]
-- [ ] タスク名 #priority/medium [[40_Tasks/tasks/YYYY-MM-DD-タスク名|📋 詳細]] [[40_Tasks/Kanban#Todo|📌 Kanban]]
+- [ ] タスク名 #priority/high #urgent [[40_Tasks/Tasks/YYYY-MM-DD-タスク名|📋 詳細]]
+- [ ] タスク名 #priority/medium [[40_Tasks/Tasks/YYYY-MM-DD-タスク名|📋 詳細]]
 
 ## 📋 新規タスク提案
 <!-- Inbox・分析から抽出した新規アクション候補（複数案） -->
@@ -174,8 +174,7 @@ agent_runs: N ← 実行回数（インクリメント）
 ### 案1: タスク名
 - 緊急度: 🔴 高 / 優先度: ⭐⭐⭐ / 工数: M
 - 背景: （なぜ今やるべきか）
-- 詳細: [[40_Tasks/tasks/YYYY-MM-DD-タスク名|📋 タスク詳細を見る]]
-- [ ] [[40_Tasks/Kanban#Todo|📌 Kanban に追加]]
+- 詳細: [[40_Tasks/Tasks/YYYY-MM-DD-タスク名|📋 タスク詳細を見る]]
 
 ### 案2: タスク名
 （同様のフォーマット）
@@ -196,7 +195,7 @@ agent_runs: N ← 実行回数（インクリメント）
 タスク詳細ファイル（`40_Tasks/tasks/`）へのリンクと、Kanban 追加リンクを**セットで**埋め込む：
 
 ```markdown
-- [ ] タスク名 [[40_Tasks/tasks/YYYY-MM-DD-タスク名|📋 詳細]] [[40_Tasks/Kanban#Todo|📌 Kanban]]
+- [ ] タスク名 [[40_Tasks/Tasks/YYYY-MM-DD-タスク名|📋 詳細]]
 ```
 
 - `📋 詳細` リンク：タスクの背景・手順・参考情報が記載された詳細ファイルを開く
@@ -211,7 +210,7 @@ agent_runs: N ← 実行回数（インクリメント）
 ### 3-2. タスク詳細ファイルの生成
 
 ```
-出力先: 40_Tasks/tasks/YYYY-MM-DD-{タスク名（スペースなし）}.md
+出力先: 40_Tasks/Tasks/YYYY-MM-DD-{タスク名（スペースなし）}.md
 ```
 
 > - **新規タスク提案ごとに1ファイル**作成する
@@ -225,7 +224,7 @@ agent_runs: N ← 実行回数（インクリメント）
 task_id: YYYY-MM-DD-{タスク名}
 title: <% tp.file.title %>
 created: YYYY-MM-DDTHH:MM:SS
-status: proposed ← proposed / todo / in-progress / done
+status: Proposed ← Proposed / Todo / In-progress / Done
 urgency: 高/中/低
 priority: 高/中/低
 effort: S/M/L
@@ -250,19 +249,21 @@ color blue
 - [ ] ステップ2
 - [ ] ステップ3
 
-## Git情報
+## リポジトリ
 ```git-manager
 show: all
 ```
+
+## 完了条件
+<!-- どうなれば完了とみなすか -->
+- [ ] 完了条件1
+- [ ] 完了条件2
+- [ ] 完了条件3
 
 ## 参考情報・出典
 <!-- 関連する 60_Resources/ のリンクや外部情報 -->
 - [[60_Resources/YYYY-MM-DD-ファイル名]]
 
-## 完了条件
-<!-- どうなれば完了とみなすか -->
-- [ ] 
-  
 ## メモ・懸念点
 <!-- 特記事項 -->
 ```

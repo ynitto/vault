@@ -1,6 +1,6 @@
 ---
 title: "task-06: Obsidian ↔ Kiro 連携の強化"
-status: Todo
+status: Done
 tags:
   - task
   - ai-agent
