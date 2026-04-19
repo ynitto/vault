@@ -4,7 +4,6 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 status: Todo
 tags: [task]
 ---
-
 ```button
 name 🤖 Send to Kiro
 type command
@@ -12,15 +11,29 @@ action Shell commands: Send to Kiro
 color blue
 ```
 
-## タスク概要
-<% tp.system.prompt("タスク内容を入力") %>
+# {タスク名}
 
-## 受け入れ条件
-- [ ] 
+## 背景・目的
+<!-- なぜこのタスクが必要か、どんな問題を解決するか -->
 
-## メモ
+## やること（ステップ）
+
+- [ ] ステップ1
+- [ ] ステップ2
+- [ ] ステップ3
 
 ## Git情報
 ```git-manager
 show: all
 ```
+
+## 参考情報・出典
+<!-- 関連する 60_Resources/ のリンクや外部情報 -->
+- [[60_Resources/YYYY-MM-DD-ファイル名]]
+
+## 完了条件
+<!-- どうなれば完了とみなすか -->
+- [ ] 
+  
+## メモ・懸念点
+<!-- 特記事項 -->

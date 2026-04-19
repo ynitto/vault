@@ -1,6 +1,6 @@
 ---
 created: 2026-04-19T10:05:19+09:00
-source: 00_Inbox/Clippings/信頼は相互に Amazon CloudFront が mTLS をサポート.md
+source: "[[60_Resources/信頼は相互に Amazon CloudFront が mTLS をサポート]]"
 tags: [ナレッジ, AWS, CloudFront, Security]
 ---
 
@@ -24,13 +24,18 @@ CloudFront の mTLS 対応により、エッジでの認証・失効管理・リ
 - デバイス証明書を使う IoT 系アクセス制御
 - 段階リリースや緊急停止フラグのエッジ判定
 
+<!-- updated: 2026-04-19 -->
+### PoC の切り出し方
+- まずは TrustStore と mTLS Required / Optional の判断を先に固め、KVS 連携は第 2 段階に分けると検証しやすい
+- 案件適用を考えると、運用負荷よりも「どのクライアントに証明書を配るか」の整理が先行課題になる
+
 ## 関連リンク
 - [[10_Daily/2026-04-19]]
 - [[11_Weekly/2026-W16]]
 
 ## 出典・参照
-- `00_Inbox/Clippings/信頼は相互に Amazon CloudFront が mTLS をサポート.md`
-- `00_Inbox/Clippings/Amazon CloudFront KeyValueStoreを活用した記事のリリース制御.md`
-- `00_Inbox/Clippings/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md`
-- `00_Inbox/Clippings/describe-key-value-store — AWS CLI 2.34.32 Command Reference.md`
-- `00_Inbox/Clippings/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md`
+- [[60_Resources/信頼は相互に Amazon CloudFront が mTLS をサポート]]
+- [[60_Resources/Amazon CloudFront KeyValueStoreを活用した記事のリリース制御]]
+- [[60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation]]
+- [[60_Resources/describe-key-value-store — AWS CLI 2.34.32 Command Reference]]
+- [[60_Resources/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点]]

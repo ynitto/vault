@@ -1,0 +1,31 @@
+---
+original_source: 00_Inbox/Clippings/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました.md
+copied_at: 2026-04-19T10:51:13+09:00
+tags: [resource/web, misc, 2026-04]
+---
+
+---
+title: "[xlsx2md] Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました"
+source: "https://qiita.com/igapyon/items/cfbbc0d6112059b26522"
+author:
+  - "[[igapyon]]"
+published: 2026-03-20
+created: 2026-04-19
+description: "Excel ブックは情報の入れ物としては便利ですが、生成 AI にそのまま渡すには扱いづらいことがあります。 そこで、Excel ブックを生成 AI に食べさせやすい形へローカル変換する Single-file Web App として xlsx2md を作りました。 xls..."
+tags:
+  - "clippings"
+---
+### 記事要約
+本記事は、Excelブックを生成AIに適した構造化テキスト（Markdown）へ変換する、ローカル完結型Webツール「xlsx2md」の紹介です。機密情報を外部に送信せず、ブラウザ上で安全かつ効率的にExcel内の情報を抽出できます。
+
+### 主なポイント
+- **ツール概要**: .xlsxファイルを読み込み、地の文、表、画像などをMarkdown形式で抽出・保存するSingle-file Web App。
+- **主な特徴**:
+    - **ローカル完結**: サーバー通信が発生しないため、機密情報を扱う業務資料に最適。
+    - **AIフレンドリー**: 見た目の再現よりも、意味の通る構造化を優先し、生成AIの入力負荷を軽減。
+    - **柔軟な解析**: 表定義だけでなく、罫線やセル配置から表領域を推定する独自ロジックを搭載。
+- **対応機能**:
+    - 地の文、表、画像、数式値、グラフ設定、一部図形の抽出に対応。
+    - Markdown/ZIP形式での出力。
+    - CLIバッチ処理にも対応。
+- **背景**: 開発にはVS CodeとGPT-5.4を使用し、設計から実装までほぼ対話ベースで完結させたという背景があります。
