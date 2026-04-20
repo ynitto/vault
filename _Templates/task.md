@@ -1,17 +1,32 @@
 ---
-title: <% tp.file.title %>
+type: gitlab-issue
+id: {{iid}}
+project: {{project_id}}
+title: "{{title}}"
+state: {{state}}
+author: {{author.username}}
+assignees: [{{#each assignees}}{{username}}{{#unless @last}}, {{/unless}}{{/each}}]
+labels: [{{#each labels}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}]
+milestone: {{milestone.title}}
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-status: none
+updated: {{updated_at}}
+due: {{due_date}}
+web_url: {{web_url}}
 tags:
   - task
 ---
+```button
+name 📝 Post Issue
+type command
+action Shell commands: Post Issue
+color blue
+```
 ```button
 name 🤖 Send to Kiro
 type command
 action Shell commands: Send to Kiro
 color blue
 ```
-
 # {タスク名}
 
 ## 背景・目的
