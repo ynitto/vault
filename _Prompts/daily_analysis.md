@@ -226,64 +226,13 @@ agent_runs: N ← 実行回数（インクリメント）
 
 ### 3-2. タスク詳細ファイルの生成
 
-```
-出力先: 40_Tasks/Tasks/YYYY-MM-DD-{タスク名（スペースなし）}.md
-```
+> 詳細な指示・フォーマットの仕様は **`_Prompts/task_breakdown.md`** を参照してください。
+> このセクションでは呼び出し条件のみ定義します。
 
-> - **新規タスク提案ごとに1ファイル**作成する
-> - 既に同名ファイルが存在する場合はスキップ（上書きしない）
-> - ユーザが `📌 Kanban` リンクを押してカンバンに追加する際、このファイルへのリンクがカードの本体となる
-
-#### タスク詳細ファイルのフォーマット
-
-```markdown
----
-task_id: YYYY-MM-DD-{タスク名}
-title: <% tp.file.title %>
-created: YYYY-MM-DDTHH:MM:SS
-status: none ← none / open / in-progress / done
-urgency: 高/中/低
-priority: 高/中/低
-effort: S/M/L
-tags: [task, {トピックタグ}]
-source_daily: [[10_Daily/YYYY-MM-DD]]
----
-```button
-name 🤖 Send to Kiro
-type command
-action Shell commands: Send to Kiro
-color blue
-```
-
-# {タスク名}
-
-## 背景・目的
-<!-- なぜこのタスクが必要か、どんな問題を解決するか -->
-
-## やること（ステップ）
-
-- [ ] ステップ1
-- [ ] ステップ2
-- [ ] ステップ3
-
-## リポジトリ
-```git-manager
-show: all
-```
-
-## 完了条件
-<!-- どうなれば完了とみなすか -->
-- [ ] 完了条件1
-- [ ] 完了条件2
-- [ ] 完了条件3
-
-## 参考情報・出典
-<!-- 関連する 60_Resources/ のリンクや外部情報 -->
-- [[60_Resources/YYYY-MM-DD-ファイル名]]
-
-## メモ・懸念点
-<!-- 特記事項 -->
-```
+**呼び出し条件:**
+- 新規タスク提案が1件以上ある場合、各タスクについて `task_breakdown.md` の処理フローを実行する
+- 既に同名ファイル（`40_Tasks/Tasks/YYYY-MM-DD-{タスク名}.md`）が存在する場合はスキップ（上書きしない）
+- Phase 1・2 で収集・分析した情報を `task_breakdown.md` の入力に活用する
 
 ### 3-3. 週次ノートの生成・更新
 

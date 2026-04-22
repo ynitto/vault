@@ -1,36 +1,41 @@
 ---
-type: gitlab-issue
-id: {{iid}}
-project: {{project_id}}
-title: "{{title}}"
-state: {{state}}
-author: {{author.username}}
-assignees: [{{#each assignees}}{{username}}{{#unless @last}}, {{/unless}}{{/each}}]
-labels: [{{#each labels}}{{this}}{{#unless @last}}, {{/unless}}{{/each}}]
-milestone: {{milestone.title}}
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-updated: {{updated_at}}
-due: {{due_date}}
-web_url: {{web_url}}
-tags:
-  - task
+task_id: YYYY-MM-DD-{タスク名}
+title: <% tp.file.title %>
+created: YYYY-MM-DDTHH:MM:SS
+status: none ← none / open / in-progress / done
+urgency: 高/中/低
+priority: 高/中/低
+effort: S/M/L
+tags: [task, {トピックタグ}]
+source_daily: [[10_Daily/YYYY-MM-DD]]
 ---
+```button
+name 🤵 Task Assistant
+type command
+action Shell commands: Execute: Breakdown Task
+color blue
+```
 ```button
 name 📝 Post Issue
 type command
-action Shell commands: Post Issue
+action Shell commands: Execute: Post Issue
 color blue
 ```
 ```button
 name 🤖 Send to Kiro
 type command
-action Shell commands: Send to Kiro
+action Shell commands: Execute: Send to Kiro
 color blue
 ```
 # {タスク名}
 
 ## 背景・目的
 <!-- なぜこのタスクが必要か、どんな問題を解決するか -->
+
+## 条件
+### 前提条件
+
+### 制約条件
 
 ## やること（ステップ）
 

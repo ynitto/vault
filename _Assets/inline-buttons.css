@@ -1,0 +1,9 @@
+.buttons-inline {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.buttons-inline .button-item {
+  margin: 0;
+}
