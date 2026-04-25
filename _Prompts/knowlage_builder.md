@@ -1,4 +1,4 @@
-# Knowledge Builder Agent Prompt
+# Obsidian Knowledge Builder Agent Prompt
 
 ## Role
 
