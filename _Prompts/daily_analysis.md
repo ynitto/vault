@@ -299,7 +299,66 @@ tags: [ナレッジ, {トピックタグ}]
 - 重複する内容は追記しない
 - 出典リンクは `60_Resources/` を参照すること（`00_Inbox/` への直接リンクは使用しない）
 
-### 3-5. Persona 観察ログの出力
+### 3-5. 60_Wiki の構築・更新
+
+```
+出力先: 60_Wiki/ 以下（wiki-use スキルで管理）
+```
+
+`wiki-use` スキルを呼び出して以下を実行する：
+
+```
+実行操作:
+1. ingest: 今回取り込んだ情報（30_Notes/ ・60_Resources/ の更新内容）を Wiki に反映
+   - 既存 Wiki ページの更新（関連情報の追記・要約の最新化）
+   - 新規トピックのページ作成
+   - ページ間の相互参照・リンクの確立
+2. lint: Wiki の整合性チェック（孤立ページ・矛盾・不足概念の検出と修正）
+3. index 更新: 60_Wiki/_index.md と操作ログを最新状態に更新
+```
+
+#### 60_Wiki のページ構造（標準フォーマット）
+
+```markdown
+---
+wiki_created: YYYY-MM-DDTHH:MM:SS
+wiki_updated: YYYY-MM-DDTHH:MM:SS
+tags: [wiki, {トピックタグ}]
+---
+
+# {トピック名}
+
+## 概要
+<!-- LLM が参照しやすい簡潔なサマリー -->
+
+## 詳細
+
+## 関連概念
+<!-- [[60_Wiki/関連ページ]] へのリンク -->
+
+## 出典
+<!-- [[60_Resources/ファイル名]] or [[30_Notes/ファイル名]] -->
+```
+
+#### 60_Wiki/_index.md（全体カタログ）
+
+```markdown
+---
+updated: YYYY-MM-DDTHH:MM:SS
+---
+
+# Wiki Index
+
+## トピック一覧
+- [[60_Wiki/トピック名|トピック名]]: 概要一行説明
+
+## 操作ログ
+| 日時 | 操作 | 対象ページ | 内容 |
+|---|---|---|---|
+| YYYY-MM-DDTHH:MM:SS | ingest/update/create | ページ名 | 変更内容 |
+```
+
+### 3-6. Persona 観察ログの出力
 
 ```
 出力先: _Persona/YYYY-MM-DD-update.md（毎回新規作成）
@@ -353,6 +412,8 @@ tags: [persona, observation]
 □ 新規タスク提案ごとに 40_Tasks/tasks/ の詳細ファイルが作成されているか
 □ タスク詳細ファイルに 📋 詳細 と 📌 Kanban のリンクが両方埋め込まれているか
 □ 新規タスク提案に緊急度・優先度・工数が全て付与されているか
+□ 60_Wiki が wiki-use スキルで更新され、_index.md が最新化されているか
+□ 60_Wiki のページ間リンクが正しく確立されているか
 □ Persona 観察ログが _Persona/ に出力されているか
 □ Persona の思考スタイルに合ったトーンで出力されているか
 □ agent_runs カウントが正しくインクリメントされているか
@@ -373,6 +434,7 @@ tags: [persona, observation]
 - 検出タスク（未完了）: N件
 - 新規タスク提案: N案 → 40_Tasks/tasks/ に N件生成
 - 生成・更新ノート: N件
+- 60_Wiki 更新: N件（新規: N / 更新: N）
 - Persona 観察ログ: 出力済み
 - 出力ファイル:
   - [x] 10_Daily/YYYY-MM-DD.md（新規作成 / 差分更新）
@@ -380,5 +442,7 @@ tags: [persona, observation]
   - [x] 30_Notes/{ファイル名}.md × N件
   - [x] 40_Tasks/tasks/{タスク名}.md × N件
   - [x] 60_Resources/{ファイル名}.md × N件
+  - [x] 60_Wiki/{ファイル名}.md × N件
+  - [x] 60_Wiki/_index.md（更新）
   - [x] _Persona/YYYY-MM-DD-update.md
 ```
