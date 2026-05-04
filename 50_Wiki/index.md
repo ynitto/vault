@@ -1,8 +1,10 @@
 # Wiki インデックス
 
-最終更新: 2026-05-04
+最終更新: 2026-05-05
 
 ## atoms
+- [[kiro-stop-hook]] — Kiro CLIのhooks.stopを使ったエージェント完了通知の実装パターン。（"concept", 1 source）
+- [[ai-presentation]] — 生成AIによるPPTX作成手法の比較。編集可能性を重視した手法選択の指針。（"concept", 1 source）
 - [[autonomous-cli-orchestrator]] — 仕様優先アプローチとLLMの自律実行を組み合わせたCLIエージェント設計パターン。（"concept", 1 source）
 - [[bob-the-builder]] — Kiro CLI向けの自律的オーケストレーターOSS。（"product", 1 source）
 - [[javascript]] — JavaScript 言語仕様と実装実務を整理するページ。（"product", 2 sources）

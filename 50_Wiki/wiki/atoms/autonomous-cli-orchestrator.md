@@ -35,4 +35,4 @@ summary: "仕様優先アプローチとLLMの自律実行を組み合わせたC
 
 ## 出典
 
-- [[00_Inbox/Clippings/自律的Kiro CLIオーケストレーター]]（Reddit r/kiroIDE, 2026-02-15）
+- [[60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）]]（Reddit r/kiroIDE, 2026-02-15）

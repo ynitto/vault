@@ -3868,3 +3868,31 @@
 - wiki_root: /Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/50_Wiki
 
 ---
+
+---
+
+## 2026-05-05 08:12 — ingest (再取り込みモード: 60_Resources)
+
+- ソース: `60_Resources/Kiro CLIのstopフックで作業完了時に通知音を鳴らす.md`
+- 作成: 1ページ（`atoms/kiro-stop-hook.md`）
+
+---
+
+## 2026-05-05 08:12 — ingest (再取り込みモード: 60_Resources)
+
+- ソース: `60_Resources/生成AIでパワポを作る方法一覧【2026年3月版】.md`
+- 作成: 1ページ（`atoms/ai-presentation.md`）
+
+---
+
+## 2026-05-05 08:12 — update
+
+- 対象: `atoms/autonomous-cli-orchestrator.md`
+- 変更: 出典リンクを `00_Inbox/Clippings/` → `60_Resources/` に更新
+
+---
+
+## 2026-05-05 08:12 — index更新
+
+- 新規atom追加: kiro-stop-hook, ai-presentation
+- index.md 最終更新日を 2026-05-05 に更新
