@@ -247,85 +247,16 @@ tags: [ナレッジ, {トピックタグ}]
 3. index 更新: 50_Wiki/_index.md と操作ログを最新状態に更新
 ```
 
-#### 50_Wiki のページ構造（標準フォーマット）
-
-```markdown
----
-wiki_created: YYYY-MM-DDTHH:MM:SS
-wiki_updated: YYYY-MM-DDTHH:MM:SS
-tags: [wiki, {トピックタグ}]
----
-
-# {トピック名}
-
-## 概要
-<!-- LLM が参照しやすい簡潔なサマリー -->
-
-## 詳細
-
-## 関連概念
-<!-- [[50_Wiki/関連ページ]] へのリンク -->
-
-## 出典
-<!-- [[60_Resources/ファイル名]] or [[30_Notes/ファイル名]] -->
-```
-
-#### 50_Wiki/_index.md（全体カタログ）
-
-```markdown
----
-updated: YYYY-MM-DDTHH:MM:SS
----
-
-# Wiki Index
-
-## トピック一覧
-- [[50_Wiki/トピック名|トピック名]]: 概要一行説明
-
-## 操作ログ
-| 日時 | 操作 | 対象ページ | 内容 |
-|---|---|---|---|
-| YYYY-MM-DDTHH:MM:SS | ingest/update/create | ページ名 | 変更内容 |
-```
-
-### 3-4. Persona 観察ログの出力
+### 3-4. Persona の生成・更新
 
 ```
-出力先: _Persona/YYYY-MM-DD-update.md（毎回新規作成）
+出力先: _Persona/ 以下（persona-use スキルで管理）
 ```
+
+`persona-use` スキル update 操作を呼び出して実行する
 
 > - **毎回実行の最後に必ず実行する**
-> - Phase 2-5 の分析結果をもとに、ユーザの Persona 情報を更新・補完する
-> - 既存 Persona の記述と矛盾する観察がある場合は「変化・例外」として記録し、既存 profile を安易に上書きしない
-> - `_Persona/profile.md`（メインのペルソナファイル）への**直接更新は行わない**
-> → 観察ログを積み上げ、定期的にユーザが `profile.md` に統合する運用とする
-
-#### Persona 観察ログのフォーマット
-
-```markdown
----
-observed_date: YYYY-MM-DD
-agent_run: YYYY-MM-DDTHH:MM:SS
-tags: [persona, observation]
----
-
-# Persona 観察ログ: YYYY-MM-DD
-
-## 行動・判断パターン
-<!-- 今回の実行で観察された行動傾向・意思決定パターン -->
-
-## 関心領域・優先軸
-<!-- 新たに浮かび上がった、または強化された関心トピック -->
-
-## 情報収集・整理スタイル
-<!-- Ingest データの性質・構成から読み取れる収集・整理の傾向 -->
-
-## 状況・コンテキスト
-<!-- 今日の体調・気分・集中度・外部状況などの推測 -->
-
-## profile.md への反映提案
-<!-- _Persona/profile.md に統合すべき更新内容の提案（ユーザが判断して手動マージ） -->
-```
+> 更新は必ず `persona-use` スキル経由で行い、`_Persona` 配下のファイルを直接編集しない
 
 ---
 
