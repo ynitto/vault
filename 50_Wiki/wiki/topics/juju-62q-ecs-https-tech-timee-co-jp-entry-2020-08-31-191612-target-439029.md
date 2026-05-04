@@ -1,0 +1,47 @@
+---
+title: "ECSで通常時とスパイク時のオートスケールを運用する"
+type: "topic"
+tags:
+  - "juju-62q"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSで通常時とスパイク時のオートスケールを運用する.md"
+summary: "タイミーでは、通常の負荷変動に対応する「Target Tracking Scaling」と、突発的なアクセス急増（スパイク）に即応するための「Step S…"
+---
+
+# ECSで通常時とスパイク時のオートスケールを運用する
+
+## 概要
+
+タイミーでは、通常の負荷変動に対応する「Target Tracking Scaling」と、突発的なアクセス急増（スパイク）に即応するための「Step Scaling」を組み合わせたハイブリッドなオートスケール戦略を採用しています。これにより、コスト効率を維持しながらサービス品質の低下を防いでいます。
+
+*発行: 2020-08-31 / [[juju-62q-ecs-https-tech-timee-co-jp-entry-2020-08-31-191612-target-439029]]*
+
+## 主要なトピック
+
+- [[juju-62q]]
+
+## 詳細
+
+- タイミーでは、通常の負荷変動に対応する「Target Tracking Scaling」と、突発的なアクセス急増（スパイク）に即応するための「Step Scaling」を組み合わせたハイブリッドなオートスケール戦略を採用しています。これにより、コスト効率を維持しながらサービス品質の低下を防いでいます。
+- 主な要点
+- **課題**: マーケティング施策等の急激なアクセス増加に対し、従来のオートスケールではサーバ増強までにタイムラグが発生し、ユーザ体験を損なっていた。
+- **導入したアプローチ**:
+- **Target Tracking Scaling**: CPU使用率を一定に保つよう動作させ、滑らかなアクセス増減に最適化。
+- **Step Scaling**: CPU使用率の閾値に応じて段階的にコンテナ数を増やす設定で、急激なスパイク時に迅速なリソース確保を実現。
+- **運用の工夫**:
+- Step Scalingで増分を制御し、Target Tracking Scalingの特性を活かしてスケールインは自動で管理。
+- Terraformを活用し、環境に応じたスケーリングポリシーを定義。
+
+*発行: 2020-08-31 / [[juju-62q-ecs-https-tech-timee-co-jp-entry-2020-08-31-191612-target-439029]]*
+
+## 関連テーマ
+
+- [[juju-62q]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSで通常時とスパイク時のオートスケールを運用する.md`
+- https://tech.timee.co.jp/entry/2020/08/31/191612

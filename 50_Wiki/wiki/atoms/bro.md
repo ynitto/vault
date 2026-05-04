@@ -1,0 +1,31 @@
+---
+title: "bro********"
+type: "person"
+tags:
+  - "person"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/統計学初心者です。2変量間の標準偏差の四則演算について教えてください。 - 具体的には1辺の長さXが平均値M1と標準偏差σ1で....md"
+summary: "bro******** に関する人物ページ。"
+---
+
+# bro********
+
+## 概要
+
+bro******** は関連資料の著者・関係者として参照される人物。
+
+## 詳細
+
+- [[bro-2-1-x-m1-e97b9e]]: 本件は、独立した2変数（$X, Y$）の四則演算における標準偏差の算出方法に関する質問と回答です。
+  *発行: 2008-10-11 / [[bro-2-1-x-m1-e97b9e]]*
+
+## 関連
+
+- [[bro-2-1-x-m1-e97b9e]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/統計学初心者です。2変量間の標準偏差の四則演算について教えてください。 - 具体的には1辺の長さXが平均値M1と標準偏差σ1で....md`
+- https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1319806703

@@ -1,0 +1,50 @@
+---
+title: "プライベート IP アドレスを持つバックエンド EC2 インスタンスをインターネット接続された ELB ロードバランサーにアタッチする"
+type: "topic"
+tags:
+  - "amazon-ec2"
+  - "aws-official"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/プライベート IP アドレスを持つバックエンド EC2 インスタンスをインターネット接続された ELB ロードバランサーにアタッチする.md"
+summary: "プライベートサブネットのEC2をインターネット接続型ELBにアタッチする方法"
+---
+
+# プライベート IP アドレスを持つバックエンド EC2 インスタンスをインターネット接続された ELB ロードバランサーにアタッチする
+
+## 概要
+
+プライベートサブネットのEC2をインターネット接続型ELBにアタッチする方法
+
+*発行: 2017-02-02 / [[amazon-ec2-aws-official-ip-ec2-elb-3abb34]]*
+
+## 主要なトピック
+
+- [[amazon-ec2]]
+- [[aws-official]]
+
+## 詳細
+
+- インターネット向けELBを使用し、プライベートサブネット内のEC2インスタンスをバックエンドとして利用するための手順は以下の通りです。
+- 概要
+- ロードバランサーが配置される同じアベイラビリティーゾーンに「パブリックサブネット」を作成し、ELBに関連付けることで実現します。
+- 実装のポイント
+- **サブネット準備**:
+- EC2と同じアベイラビリティーゾーンにパブリックサブネットを作成する。
+- CIDRは `/27` 以上（8個以上の空きIPが必要）を確保する。
+- **ELB設定**:
+- ELBに上記のパブリックサブネットを関連付け、ターゲットグループにEC2を登録する。
+
+*発行: 2017-02-02 / [[amazon-ec2-aws-official-ip-ec2-elb-3abb34]]*
+
+## 関連テーマ
+
+- [[amazon-ec2]]
+- [[aws-official]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/プライベート IP アドレスを持つバックエンド EC2 インスタンスをインターネット接続された ELB ロードバランサーにアタッチする.md`
+- https://repost.aws/ja/knowledge-center/public-load-balancer-private-ec2

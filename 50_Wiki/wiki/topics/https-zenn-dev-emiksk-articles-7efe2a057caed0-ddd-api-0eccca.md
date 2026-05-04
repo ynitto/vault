@@ -1,0 +1,44 @@
+---
+title: "比較的シンプルなドメインイベントの利用方法"
+type: "topic"
+tags:
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/比較的シンプルなドメインイベントの利用方法.md"
+summary: "本記事では、DDDにおけるドメインイベントを実装する際、外部パブリッシャー等の複雑な仕組みを使わずに、集約の一部として保持・永続化し、API経由でプル型で…"
+---
+
+# 比較的シンプルなドメインイベントの利用方法
+
+## 概要
+
+本記事では、DDDにおけるドメインイベントを実装する際、外部パブリッシャー等の複雑な仕組みを使わずに、集約の一部として保持・永続化し、API経由でプル型で取得する「比較的シンプルな手法」を紹介しています。
+
+*発行: 2022-02-19 / [[https-zenn-dev-emiksk-articles-7efe2a057caed0-ddd-api-0eccca]]*
+
+## 主要なトピック
+
+
+## 詳細
+
+- 本記事では、DDDにおけるドメインイベントを実装する際、外部パブリッシャー等の複雑な仕組みを使わずに、集約の一部として保持・永続化し、API経由でプル型で取得する「比較的シンプルな手法」を紹介しています。
+- ドメインイベント活用のポイント
+- **集約の一部として保持**
+- ドメインイベントを特定の集約が保持し、集約と共に保存する。
+- 永続化時にイベントも格納することで、集約との整合性を担保する。
+- **同一データストアへの格納**
+- イベント専用ストアを分けず、集約と同じデータストアを使用。
+- 外部サービスへの依存を減らし、自立型サービスを実現する。
+- **API経由のプル型取得**
+
+*発行: 2022-02-19 / [[https-zenn-dev-emiksk-articles-7efe2a057caed0-ddd-api-0eccca]]*
+
+## 関連テーマ
+
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/比較的シンプルなドメインイベントの利用方法.md`
+- https://zenn.dev/emiksk/articles/7efe2a057caed0

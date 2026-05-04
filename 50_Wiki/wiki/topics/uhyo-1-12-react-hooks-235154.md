@@ -1,0 +1,47 @@
+---
+title: "【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書"
+type: "topic"
+tags:
+  - "uhyo"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書.md"
+summary: "Reactの全20種類のHooksおよびAPIについて、それぞれの用途と活用シーンを網羅的に解説した技術解説記事です。初心者から上級者まで、状況に応じた適…"
+---
+
+# 【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書
+
+## 概要
+
+Reactの全20種類のHooksおよびAPIについて、それぞれの用途と活用シーンを網羅的に解説した技術解説記事です。初心者から上級者まで、状況に応じた適切なHooksの選択とパフォーマンス向上を目的としています。
+
+*発行: 2026-03-02 / [[uhyo-1-12-react-hooks-235154]]*
+
+## 主要なトピック
+
+- [[uhyo]]
+
+## 詳細
+
+- Reactの全20種類のHooksおよびAPIについて、それぞれの用途と活用シーンを網羅的に解説した技術解説記事です。初心者から上級者まで、状況に応じた適切なHooksの選択とパフォーマンス向上を目的としています。
+- 主要なポイント
+- 基本のHooks
+- **useState**: 状態管理と画面の再レンダリング。
+- **useEffect**: 副作用の処理。データ取得はパフォーマンス上の観点から推奨されず、React Query等の利用を推奨。
+- **useReducer**: 複雑な状態管理や複数のステートをまとめて管理する際に有効。
+- **useContext**: Propsのバケツリレーを防ぎ、グローバルな値を共有。
+- **useRef**: DOM操作や、再レンダリングを伴わずに値を保持する際に使用。
+- パフォーマンス・最適化
+
+*発行: 2026-03-02 / [[uhyo-1-12-react-hooks-235154]]*
+
+## 関連テーマ
+
+- [[uhyo]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書.md`
+- https://qiita.com/Sicut_study/items/d4778cbe8b499570f79e

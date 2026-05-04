@@ -1,0 +1,44 @@
+---
+title: "プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する"
+type: "topic"
+tags:
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する.md"
+summary: "プロンプトの「暗黙知」による再現性の欠如を解決するため、別のAIを評価者として利用し、フィードバックを受けてプロンプトを段階的に洗練させる手法（経験的プロ…"
+---
+
+# プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する
+
+## 概要
+
+プロンプトの「暗黙知」による再現性の欠如を解決するため、別のAIを評価者として利用し、フィードバックを受けてプロンプトを段階的に洗練させる手法（経験的プロンプトチューニング）の紹介記事です。
+
+*発行: 2026-04-19 / [[ai-https-zenn-dev-mizchi-articles-empirical-prompt-tuning-8a0c4d]]*
+
+## 主要なトピック
+
+
+## 詳細
+
+- プロンプトの「暗黙知」による再現性の欠如を解決するため、別のAIを評価者として利用し、フィードバックを受けてプロンプトを段階的に洗練させる手法（経験的プロンプトチューニング）の紹介記事です。
+- 重要なポイント
+- **問題の本質**: 書き手は自分の前提知識（暗黙知）を補完して読んでしまうため、自分自身での評価には限界がある。
+- **解決策**: 別セッションのAIに実際にタスクを実行させ、その結果をレポート（不明瞭点や達成率）させることで客観的な評価を行う。
+- **改善サイクル**:
+- 1. AIにシナリオを実行させる。
+- 2. レポートから「不明瞭点」や「裁量補完」を抽出し、プロンプトに反映する。
+- 3. 新規のAIで再評価を繰り返し、精度が頭打ちになるまで反復する。
+- **成功の鍵**:
+
+*発行: 2026-04-19 / [[ai-https-zenn-dev-mizchi-articles-empirical-prompt-tuning-8a0c4d]]*
+
+## 関連テーマ
+
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する.md`
+- https://zenn.dev/mizchi/articles/empirical-prompt-tuning

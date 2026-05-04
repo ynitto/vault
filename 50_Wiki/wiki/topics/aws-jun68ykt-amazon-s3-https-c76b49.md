@@ -1,0 +1,49 @@
+---
+title: "Amazon S3に何かをコピーするときに、すでに同じものをコピー済みかどうかをチェックするシェル関数"
+type: "topic"
+tags:
+  - "aws"
+  - "jun68ykt"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon S3に何かをコピーするときに、すでに同じものをコピー済みかどうかをチェックするシェル関数.md"
+summary: "Amazon S3へのファイル転送を効率化するため、転送前にローカルファイルとS3上のリソースをMD5ハッシュ値（ETag）で比較し、同一であれば転送をス…"
+---
+
+# Amazon S3に何かをコピーするときに、すでに同じものをコピー済みかどうかをチェックするシェル関数
+
+## 概要
+
+Amazon S3へのファイル転送を効率化するため、転送前にローカルファイルとS3上のリソースをMD5ハッシュ値（ETag）で比較し、同一であれば転送をスキップするシェル関数の作成方法を解説しています。
+
+*発行: 2016-08-07 / [[aws-jun68ykt-amazon-s3-https-c76b49]]*
+
+## 主要なトピック
+
+- [[aws]]
+- [[jun68ykt]]
+
+## 詳細
+
+- Amazon S3へのファイル転送を効率化するため、転送前にローカルファイルとS3上のリソースをMD5ハッシュ値（ETag）で比較し、同一であれば転送をスキップするシェル関数の作成方法を解説しています。
+- 要点まとめ
+- **課題:** 全ファイルを毎回アップロードするのは非効率。差分のみ転送したい。
+- **解決策:** `already_uploaded`関数を導入し、以下の手順で判定を実施。
+- **ローカル:** `openssl md5`でファイルのハッシュを計算。
+- **リモート:** `curl -s --head`でS3から取得したETagヘッダを抽出。
+- **判定:** 両者のハッシュが一致すれば転送を実行しない。
+- **メリット:** 既存のアップロード用バッチ処理に組み込むことで、無駄な通信と転送時間を大幅に削減可能。
+
+*発行: 2016-08-07 / [[aws-jun68ykt-amazon-s3-https-c76b49]]*
+
+## 関連テーマ
+
+- [[aws]]
+- [[jun68ykt]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon S3に何かをコピーするときに、すでに同じものをコピー済みかどうかをチェックするシェル関数.md`
+- https://qiita.com/jun68ykt/items/2087bad87c81d7866643

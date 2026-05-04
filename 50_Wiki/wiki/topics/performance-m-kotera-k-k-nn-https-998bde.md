@@ -1,0 +1,50 @@
+---
+title: "高速で厳密なk近傍法(k-NN)の計算"
+type: "topic"
+tags:
+  - "performance"
+  - "m-kotera"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/高速で厳密なk近傍法(k-NN)の計算.md"
+summary: "本記事は、NECの小寺雅司氏による、Z-curveを用いた低次元（6次元程度まで）データにおけるk-NNの高速かつ厳密な計算手法の解説です。"
+---
+
+# 高速で厳密なk近傍法(k-NN)の計算
+
+## 概要
+
+本記事は、NECの小寺雅司氏による、Z-curveを用いた低次元（6次元程度まで）データにおけるk-NNの高速かつ厳密な計算手法の解説です。
+
+*発行: 2022-10-05 / [[performance-m-kotera-k-k-nn-https-998bde]]*
+
+## 主要なトピック
+
+- [[performance]]
+- [[m-kotera]]
+
+## 詳細
+
+- 本記事は、NECの小寺雅司氏による、Z-curveを用いた低次元（6次元程度まで）データにおけるk-NNの高速かつ厳密な計算手法の解説です。
+- 主なポイント
+- **k-NNの課題**: 素朴な実装ではデータベース全体を参照するため、データ量が増えると計算コストが非常に高くなる。
+- **Z-curveの活用**: 多次元データを1次元の値（Z値）に写像する。この際、多次元空間上の近傍関係が維持される性質を利用する。
+- **計算手順**:
+- 1. **前処理**: トレーニングデータをZ値に変換し、ソートしておく。
+- 2. **クエリ処理**: クエリのZ値を計算し、ソート済みデータから二分探索で近傍の候補点を選出する。
+- 3. **距離計算**: 候補点からさらに絞り込んだ範囲内のみで厳密な距離計算を行う。
+- **評価結果**:
+
+*発行: 2022-10-05 / [[performance-m-kotera-k-k-nn-https-998bde]]*
+
+## 関連テーマ
+
+- [[performance]]
+- [[m-kotera]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/高速で厳密なk近傍法(k-NN)の計算.md`
+- https://qiita.com/M_Kotera/items/6f90a52a08e57471b871

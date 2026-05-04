@@ -1,0 +1,53 @@
+---
+title: "「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan"
+type: "topic"
+tags:
+  - "mcp"
+  - "authentication"
+  - "performance"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan.md"
+summary: "AIエージェントの構築において、モデルの性能以上に重要な「エージェントハーネス（インフラ環境）」の具体的な設計判断を解説。AIの「間違い」を前提とし、業務…"
+---
+
+# 「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan
+
+## 概要
+
+AIエージェントの構築において、モデルの性能以上に重要な「エージェントハーネス（インフラ環境）」の具体的な設計判断を解説。AIの「間違い」を前提とし、業務事故を防ぐための3つのレイヤーを提示しています。
+
+*発行: 2026-04-08 / [[mcp-authentication-3-workato-japan-ad95cc]]*
+
+## 主要なトピック
+
+- [[mcp]]
+- [[authentication]]
+- [[performance]]
+
+## 詳細
+
+- AIエージェントの構築において、モデルの性能以上に重要な「エージェントハーネス（インフラ環境）」の具体的な設計判断を解説。AIの「間違い」を前提とし、業務事故を防ぐための3つのレイヤーを提示しています。
+- ハーネス設計の3つの重要レイヤー
+- **① ツール接続の設計（何を渡すか）**
+- AIに全ツールを繋ぐのは逆効果。目的を絞り、最適化されたデータ粒度で渡す。
+- 「Enterprise MCP」という考え方で、自社の業務要件に応じた管理が不可欠。
+- **② ワークフローによるガードレール（どう制御するか）**
+- AIの創造性を活かす部分と、ルールを遵守させる部分を明確に分離する。
+- 決定論的なワークフロー（処理のフロー）を組み込むことで、プロセスの逸脱を防ぐ。
+- **③ セキュリティとガバナンス（誰として実行するか）**
+
+*発行: 2026-04-08 / [[mcp-authentication-3-workato-japan-ad95cc]]*
+
+## 関連テーマ
+
+- [[mcp]]
+- [[authentication]]
+- [[performance]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan.md`
+- https://note.com/workato/n/n4bb1c95a5347

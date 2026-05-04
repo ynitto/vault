@@ -1,0 +1,50 @@
+---
+title: "AIエージェントの長期記憶トレンドを整理する"
+type: "topic"
+tags:
+  - "mcp"
+  - "performance"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントの長期記憶トレンドを整理する.md"
+summary: "AIエージェントの記憶は、単なる過去ログの蓄積（RAG）から、情報の整理・更新・忘却・スコープ管理を含む「コンテキスト運用システム（Context OS）…"
+---
+
+# AIエージェントの長期記憶トレンドを整理する
+
+## 概要
+
+AIエージェントの記憶は、単なる過去ログの蓄積（RAG）から、情報の整理・更新・忘却・スコープ管理を含む「コンテキスト運用システム（Context OS）」へと進化しています。エージェントが実務で活用されるためには、データベースとしての機能だけでなく、戦略的な運用が不可欠です。
+
+*発行: 2026-04-25 / [[mcp-performance-ai-https-zenn-dev-purple-b41324]]*
+
+## 主要なトピック
+
+- [[mcp]]
+- [[performance]]
+
+## 詳細
+
+- AIエージェントの記憶は、単なる過去ログの蓄積（RAG）から、情報の整理・更新・忘却・スコープ管理を含む「コンテキスト運用システム（Context OS）」へと進化しています。エージェントが実務で活用されるためには、データベースとしての機能だけでなく、戦略的な運用が不可欠です。
+- 要点
+- **長期記憶の定義**: 長いコンテキストウィンドウ（作業メモリ）と長期記憶は別物。重要なのは必要な情報を適切な粒度・タイミングで呼び出すこと。
+- **トレンドの全体像**:
+- **LLM Wiki**: ベクトル検索だけでなく、LLMが自らWikiを編集・管理する仕組みへ。
+- **一級機能化**: LangGraph等のフレームワークで、メモリが標準的な中核機能に昇格。
+- **記憶の型付け**: 意味記憶、エピソード記憶、手続き記憶など、役割別に記憶を分離。
+- **Temporal Knowledge Graph**: 時間軸と情報の有効期限を取り入れ、情報の新旧矛盾を解消。
+- **MCPの活用**: ツール間で記憶を共有するためのプロトコル（MCP）の重要性。
+
+*発行: 2026-04-25 / [[mcp-performance-ai-https-zenn-dev-purple-b41324]]*
+
+## 関連テーマ
+
+- [[mcp]]
+- [[performance]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントの長期記憶トレンドを整理する.md`
+- https://zenn.dev/purple_matsu1/articles/20260424-agent-memory-context-os

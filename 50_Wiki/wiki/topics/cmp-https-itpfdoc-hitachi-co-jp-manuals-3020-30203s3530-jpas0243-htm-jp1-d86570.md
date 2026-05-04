@@ -1,0 +1,40 @@
+---
+title: "cmpコマンド（バイナリファイルの内容を比較する）"
+type: "topic"
+tags:
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/cmpコマンド（バイナリファイルの内容を比較する）.md"
+summary: "JP1/Advanced Shell cmpコマンド概要"
+---
+
+# cmpコマンド（バイナリファイルの内容を比較する）
+
+## 概要
+
+JP1/Advanced Shell cmpコマンド概要
+
+## 主要なトピック
+
+
+## 詳細
+
+- バイナリファイルを比較し、相違がある場合にその位置や値を報告するコマンドです。
+- 主な機能
+- **ファイル比較**: 2つのファイルをバイト単位で比較。
+- **相違箇所の特定**: デフォルトでは最初の相違点を、-lオプション指定時は全ての相違バイト位置（10進数）とその値（8進数）を表示。
+- **終了状態の取得**: -sオプションで結果表示を抑制し、一致・不一致の戻り値のみ取得可能。
+- **範囲指定**: 比較開始位置（バイト単位）を個別に指定可能。
+- 戻り値
+- **0**: 正常終了（同一ファイル）
+- **1**: 正常終了（ファイルが異なる、または片方がEOFに到達）
+
+## 関連テーマ
+
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/cmpコマンド（バイナリファイルの内容を比較する）.md`
+- https://itpfdoc.hitachi.co.jp/manuals/3020/30203s3530/JPAS0243.HTM

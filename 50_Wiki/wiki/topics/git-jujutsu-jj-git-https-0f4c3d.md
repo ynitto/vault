@@ -1,0 +1,47 @@
+---
+title: "Jujutsu（jj）完全ガイド：Gitを超える次世代バージョン管理システムの実践活用法"
+type: "topic"
+tags:
+  - "git"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Jujutsu（jj）完全ガイド：Gitを超える次世代バージョン管理システムの実践活用法.md"
+summary: "Googleが開発した次世代バージョン管理システム。Gitとの高い互換性を持ちつつ、操作の安全性や利便性を劇的に向上させたツールです。"
+---
+
+# Jujutsu（jj）完全ガイド：Gitを超える次世代バージョン管理システムの実践活用法
+
+## 概要
+
+Googleが開発した次世代バージョン管理システム。Gitとの高い互換性を持ちつつ、操作の安全性や利便性を劇的に向上させたツールです。
+
+*発行: 2025-07-24 / [[git-jujutsu-jj-git-https-0f4c3d]]*
+
+## 主要なトピック
+
+- [[git]]
+
+## 詳細
+
+- Googleが開発した次世代バージョン管理システム。Gitとの高い互換性を持ちつつ、操作の安全性や利便性を劇的に向上させたツールです。
+- 主な利点と特徴
+- **安全な操作**: `jj undo` であらゆる操作の取り消しが可能。
+- **Gitとの互換性**: 既存のGitリポジトリと共存・併用が可能。
+- **ステージング不要**: `git add` が不要で、編集作業は自動的にコミットへ反映。
+- **柔軟なリベース**: コンフリクトが発生しても処理を中断せず、後から解決が可能。
+- **作業の並行性**: `jj new` で複数の作業を簡単に分岐し、実験やAIとの並列開発を促進。
+- Gitとの主な違い
+- **自動コミット**: 作業ディレクトリ＝コミットという概念。
+
+*発行: 2025-07-24 / [[git-jujutsu-jj-git-https-0f4c3d]]*
+
+## 関連テーマ
+
+- [[git]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Jujutsu（jj）完全ガイド：Gitを超える次世代バージョン管理システムの実践活用法.md`
+- https://zenn.dev/kimkiyong/articles/1806beccb74a88

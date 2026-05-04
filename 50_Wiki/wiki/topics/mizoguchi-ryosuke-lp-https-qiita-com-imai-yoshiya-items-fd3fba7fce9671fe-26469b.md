@@ -1,0 +1,47 @@
+---
+title: "最適かつ公平に資源を配分したい - ナッシュ交渉解の解釈とLPソルバーを用いた計算"
+type: "topic"
+tags:
+  - "mizoguchi-ryosuke"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/最適かつ公平に資源を配分したい - ナッシュ交渉解の解釈とLPソルバーを用いた計算.md"
+summary: "本記事では、複数資源を複数の需要家に最適かつ公平に配分する問題を扱っています。利得の線形和によるアプローチでは転売が成立してしまう課題を指摘し、それを解消…"
+---
+
+# 最適かつ公平に資源を配分したい - ナッシュ交渉解の解釈とLPソルバーを用いた計算
+
+## 概要
+
+本記事では、複数資源を複数の需要家に最適かつ公平に配分する問題を扱っています。利得の線形和によるアプローチでは転売が成立してしまう課題を指摘し、それを解消できる手法として「ナッシュ交渉解」を提案しています。
+
+*発行: 2024-12-21 / [[mizoguchi-ryosuke-lp-https-qiita-com-imai-yoshiya-items-fd3fba7fce9671fe-26469b]]*
+
+## 主要なトピック
+
+- [[mizoguchi-ryosuke]]
+
+## 詳細
+
+- 本記事では、複数資源を複数の需要家に最適かつ公平に配分する問題を扱っています。利得の線形和によるアプローチでは転売が成立してしまう課題を指摘し、それを解消できる手法として「ナッシュ交渉解」を提案しています。
+- 要点
+- **資源配分の問題設定**
+- 需要家の利得関数が線形である環境において、パレート最適かつ公平な配分を目指す。
+- **手法の比較**
+- **利得の線形和**: パレート最適だが、需要家間での転売が成立するため公平性に欠ける。
+- **ナッシュ交渉解**: 利得の対数和を最適化する。パレート最適かつ転売が成立しない「公平な配分」を実現できる。
+- **実装アプローチ**
+- ナッシュ交渉解の目的関数（対数関数）は非線形だが、線形計画法（LP）ソルバーを用いて近似計算が可能。
+
+*発行: 2024-12-21 / [[mizoguchi-ryosuke-lp-https-qiita-com-imai-yoshiya-items-fd3fba7fce9671fe-26469b]]*
+
+## 関連テーマ
+
+- [[mizoguchi-ryosuke]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/最適かつ公平に資源を配分したい - ナッシュ交渉解の解釈とLPソルバーを用いた計算.md`
+- https://qiita.com/imai_yoshiya/items/fd3fba7fce9671fed701

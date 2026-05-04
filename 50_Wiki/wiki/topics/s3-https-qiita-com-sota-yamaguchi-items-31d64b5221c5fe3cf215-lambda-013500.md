@@ -1,0 +1,44 @@
+---
+title: "s3バケットの画像の解決をポーリングする"
+type: "topic"
+tags:
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/s3バケットの画像の解決をポーリングする.md"
+summary: "S3への画像アップロード後、Lambdaによるリサイズ処理が完了するまでのタイムラグによって画像参照時に403エラーが発生する問題を解決するため、クライア…"
+---
+
+# s3バケットの画像の解決をポーリングする
+
+## 概要
+
+S3への画像アップロード後、Lambdaによるリサイズ処理が完了するまでのタイムラグによって画像参照時に403エラーが発生する問題を解決するため、クライアントサイドでポーリング（画像が取得可能になるまでリクエストを繰り返す）を行う手法についての解説記事です。
+
+*発行: 2020-12-19 / [[s3-https-qiita-com-sota-yamaguchi-items-31d64b5221c5fe3cf215-lambda-013500]]*
+
+## 主要なトピック
+
+
+## 詳細
+
+- S3への画像アップロード後、Lambdaによるリサイズ処理が完了するまでのタイムラグによって画像参照時に403エラーが発生する問題を解決するため、クライアントサイドでポーリング（画像が取得可能になるまでリクエストを繰り返す）を行う手法についての解説記事です。
+- 要点まとめ
+- **課題**: S3アップロードからLambdaのリサイズ完了までに時差があり、未生成の画像URLを参照すると403エラーになる。
+- **解決策**: Fetch APIを利用し、画像のHTTPステータスが200（取得成功）になるまで、一定間隔（例：1.5秒）で状態確認（ポーリング）を行う。
+- **実装のポイント**:
+- `while`ループを用いて、ステータスが200でない間リクエストを繰り返す。
+- `setTimeout`をラップした`delay`関数で待機時間を制御する。
+- **代替案（アドバイス）**:
+- 画像元データをS3に保存し、Lambdaを直接呼び出してリサイズ処理を行う方がエラーハンドリングの観点で優れている。
+
+*発行: 2020-12-19 / [[s3-https-qiita-com-sota-yamaguchi-items-31d64b5221c5fe3cf215-lambda-013500]]*
+
+## 関連テーマ
+
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/s3バケットの画像の解決をポーリングする.md`
+- https://qiita.com/sota_yamaguchi/items/31d64b5221c5fe3cf215

@@ -1,0 +1,49 @@
+---
+title: "GitHub Copilot エージェントの作成はエージェントに任せよう"
+type: "topic"
+tags:
+  - "git"
+  - "code-review"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot エージェントの作成はエージェントに任せよう.md"
+summary: "GitHub Copilot エージェントの開発効率化を目的とした「エージェントビルダー」の活用手法と、ワークフロー設計のベストプラクティスを解説していま…"
+---
+
+# GitHub Copilot エージェントの作成はエージェントに任せよう
+
+## 概要
+
+GitHub Copilot エージェントの開発効率化を目的とした「エージェントビルダー」の活用手法と、ワークフロー設計のベストプラクティスを解説しています。エージェント作成を個別のタスクではなく「ワークフロー」として捉え、中間生成物を活用した構造化を推奨しています。
+
+*発行: 2025-12-24 / [[git-code-review-copilot-https-zenn-dev-microsoft-articles-264b7b02b406f0-1c035f]]*
+
+## 主要なトピック
+
+- [[git]]
+- [[code-review]]
+
+## 詳細
+
+- GitHub Copilot エージェントの開発効率化を目的とした「エージェントビルダー」の活用手法と、ワークフロー設計のベストプラクティスを解説しています。エージェント作成を個別のタスクではなく「ワークフロー」として捉え、中間生成物を活用した構造化を推奨しています。
+- エージェント開発の重要ポイント
+- **ワークフローの設計先行**: エージェント定義の前に、目的、最終成果物、ハンドオフ、レビュー工程を含む全体設計を行う。
+- **中間生成物の活用**: 段階的なファイル生成を通じて、エージェント間をスムーズに連携させ、コンテキストエンジニアリングを行う。
+- **受け入れ基準の明示**: 各エージェントに「役割・前提・成果物・受け入れ基準」を設定し、品質を担保する。
+- **ユーザー導線の設計**: プロンプトファイルやハンドオフ機能を用いて、ユーザーが次に何をすべきか迷わないUIを構築する。
+- **ツール利用の最小化**: 不安定な動作を避けるため、ツールは必要最小限に絞り、可能な限りコマンド実行を優先する。
+- **ドキュメントの構造化**: `AGENTS.md` には概要を簡潔にまとめ、詳細なルールや設計思想は `docs/` ディレクトリへ分離する。
+
+*発行: 2025-12-24 / [[git-code-review-copilot-https-zenn-dev-microsoft-articles-264b7b02b406f0-1c035f]]*
+
+## 関連テーマ
+
+- [[git]]
+- [[code-review]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot エージェントの作成はエージェントに任せよう.md`
+- https://zenn.dev/microsoft/articles/264b7b02b406f0

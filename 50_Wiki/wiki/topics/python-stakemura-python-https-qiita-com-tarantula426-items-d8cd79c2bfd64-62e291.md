@@ -1,0 +1,49 @@
+---
+title: "データサイエンス系チートシートを網羅してみた #Python"
+type: "topic"
+tags:
+  - "python"
+  - "stakemura"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/データサイエンス系チートシートを網羅してみた Python.md"
+summary: "データサイエンティスト「タランチュラ」氏が、自身のX（旧Twitter）で発信してきたデータサイエンス関連のチートシートを網羅的にまとめた記事です。前処理…"
+---
+
+# データサイエンス系チートシートを網羅してみた #Python
+
+## 概要
+
+データサイエンティスト「タランチュラ」氏が、自身のX（旧Twitter）で発信してきたデータサイエンス関連のチートシートを網羅的にまとめた記事です。前処理から深層学習、統計学、キャリア形成までの実践的なリソースが一挙に整理されています。
+
+*発行: 2025-01-13 / [[python-stakemura-python-https-qiita-com-tarantula426-items-d8cd79c2bfd64-62e291]]*
+
+## 主要なトピック
+
+- [[python]]
+- [[stakemura]]
+
+## 詳細
+
+- データサイエンティスト「タランチュラ」氏が、自身のX（旧Twitter）で発信してきたデータサイエンス関連のチートシートを網羅的にまとめた記事です。前処理から深層学習、統計学、キャリア形成までの実践的なリソースが一挙に整理されています。
+- 要点まとめ
+- **前処理**: Python・Pandas・Numpyの必須メソッドやデータ加工フローを網羅。
+- **可視化**: データの種類に応じた選択基準や、Matplotlibの基本・応用操作を解説。
+- **機械学習**: Scikit-Learnの重要メソッド、モデル選択フローチャート、全体構造のまとめ図を紹介。
+- **深層学習**: 活性化関数の整理と、深層学習の体系的まとめ図を提供。
+- **統計・ベイズ**: ベイズ統計の学習スケジュール、代表的な確率分布、統計的検定の手法を整理。
+- **キャリア・学習**: データサイエンス攻略マップと、大学1年から修士課程までの学習ロードマップを提示。
+
+*発行: 2025-01-13 / [[python-stakemura-python-https-qiita-com-tarantula426-items-d8cd79c2bfd64-62e291]]*
+
+## 関連テーマ
+
+- [[python]]
+- [[stakemura]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/データサイエンス系チートシートを網羅してみた Python.md`
+- https://qiita.com/tarantula426/items/d8cd79c2bfd649e4f1f1

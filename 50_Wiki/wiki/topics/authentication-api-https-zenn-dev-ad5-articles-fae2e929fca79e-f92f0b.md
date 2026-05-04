@@ -1,0 +1,47 @@
+---
+title: "APIトークン認証の論理設計"
+type: "topic"
+tags:
+  - "authentication"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/APIトークン認証の論理設計.md"
+summary: "API開発における「トークン認証」の論理的な設計手法と課題について、特にフロントエンドとの整合性や複数端末利用の観点から考察した技術記事です。"
+---
+
+# APIトークン認証の論理設計
+
+## 概要
+
+API開発における「トークン認証」の論理的な設計手法と課題について、特にフロントエンドとの整合性や複数端末利用の観点から考察した技術記事です。
+
+*発行: 2023-09-16 / [[authentication-api-https-zenn-dev-ad5-articles-fae2e929fca79e-f92f0b]]*
+
+## 主要なトピック
+
+- [[authentication]]
+
+## 詳細
+
+- API開発における「トークン認証」の論理的な設計手法と課題について、特にフロントエンドとの整合性や複数端末利用の観点から考察した技術記事です。
+- 主要な論点と解決策
+- **解決すべき課題**
+- **長期有効期限の弊害**: セキュリティリスクとUX（頻繁な再ログイン）のジレンマ。
+- **複数端末の並行利用**: 単一トークン管理では、別端末でのログインが既存端末をログアウトさせてしまう。
+- **検討されたアプローチ**
+- **リフレッシュトークン方式**: トークンの短期化により安全性を高めるが、並行リクエスト処理の実装が複雑。
+- **アクセストークンの延長方式**: 利用するたびに期限を自動延長するセッションに近い手法。
+- **1ユーザ複数トークン方式**: 端末ごとにトークンを発行することで並行利用を実現（Sanctum/Passportが採用）。
+
+*発行: 2023-09-16 / [[authentication-api-https-zenn-dev-ad5-articles-fae2e929fca79e-f92f0b]]*
+
+## 関連テーマ
+
+- [[authentication]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/APIトークン認証の論理設計.md`
+- https://zenn.dev/ad5/articles/fae2e929fca79e

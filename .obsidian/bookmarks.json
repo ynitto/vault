@@ -1,28 +1,3 @@
 {
-  "items": [
-    {
-      "ctime": 1776494967555,
-      "title": "Obsidian",
-      "items": [],
-      "type": "group"
-    },
-    {
-      "title": "AI",
-      "type": "group",
-      "ctime": 1776494986571,
-      "items": []
-    },
-    {
-      "title": "tech",
-      "items": [],
-      "type": "group",
-      "ctime": 1776496257594
-    },
-    {
-      "ctime": 1776497894993,
-      "title": "aws",
-      "type": "group",
-      "items": []
-    }
-  ]
+  "items": []
 }

@@ -1,0 +1,43 @@
+---
+title: "AIにUNIX哲学を意識させたらコードがクリーンになった"
+type: "topic"
+tags:
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIにUNIX哲学を意識させたらコードがクリーンになった.md"
+summary: "AIによるコード生成で陥りがちな「複雑で密結合なコード」を、プロンプトに「UNIX哲学に基づいて設計して」と加えるだけで、クリーンかつ再利用性の高い構成に…"
+---
+
+# AIにUNIX哲学を意識させたらコードがクリーンになった
+
+## 概要
+
+AIによるコード生成で陥りがちな「複雑で密結合なコード」を、プロンプトに「UNIX哲学に基づいて設計して」と加えるだけで、クリーンかつ再利用性の高い構成に改善できるという知見の共有。
+
+*発行: 2026-02-11 / [[ai-unix-https-zenn-dev-subqru-articles-b9c097cf5e09cc-bc3fe3]]*
+
+## 主要なトピック
+
+
+## 詳細
+
+- AIによるコード生成で陥りがちな「複雑で密結合なコード」を、プロンプトに「UNIX哲学に基づいて設計して」と加えるだけで、クリーンかつ再利用性の高い構成に改善できるという知見の共有。
+- 要点まとめ
+- **課題**: プロンプトで生成されるコードが巨大な関数や密結合なクラスになりやすい。
+- **解決策**: プロンプトに「UNIX哲学に基づいて設計して」という制約を一行加える。
+- **UNIX哲学の適用効果**:
+- **単一責任の原則**: 小さな関数・モジュールに分割される。
+- **プログラム間の連携**: パイプライン化しやすいインターフェースになる。
+- **疎結合**: 純粋関数に近い形の実装が増える。
+
+*発行: 2026-02-11 / [[ai-unix-https-zenn-dev-subqru-articles-b9c097cf5e09cc-bc3fe3]]*
+
+## 関連テーマ
+
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIにUNIX哲学を意識させたらコードがクリーンになった.md`
+- https://zenn.dev/subqru/articles/b9c097cf5e09cc

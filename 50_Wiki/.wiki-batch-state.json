@@ -1,0 +1,20 @@
+{
+  "source": "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/00_Inbox/Clippings",
+  "batch_size": 5,
+  "total_files": 3,
+  "total_batches": 1,
+  "batches": [
+    {
+      "index": 1,
+      "files": [
+        "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/00_Inbox/Clippings/ベクトルDBを使わないRAG。全てのナレッジを階層化する手法.md",
+        "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/00_Inbox/Clippings/モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った.md",
+        "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/00_Inbox/Clippings/自律的Kiro CLIオーケストレーター.md"
+      ],
+      "status": "done",
+      "pages_created": 5,
+      "pages_updated": 0
+    }
+  ],
+  "created_at": "2026-05-04T05:47:20.750251"
+}

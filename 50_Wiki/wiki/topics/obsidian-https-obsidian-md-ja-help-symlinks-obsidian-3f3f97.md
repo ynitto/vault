@@ -1,0 +1,43 @@
+---
+title: "シンボリックリンクとジャンクション"
+type: "topic"
+tags:
+  - "obsidian"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/シンボリックリンクとジャンクション.md"
+summary: "シンボリックリンクとジャンクション (Obsidian)"
+---
+
+# シンボリックリンクとジャンクション
+
+## 概要
+
+シンボリックリンクとジャンクション (Obsidian)
+
+## 主要なトピック
+
+- [[obsidian]]
+
+## 詳細
+
+- Obsidianでは、保管庫内外にファイルを保存するためにシンボリックリンクやジャンクションを使用できます。ただし、**自己責任での利用が強く推奨されます**。
+- ⚠️ 重要：自己責任での使用とリスク
+- データの損失、破損、Obsidianのクラッシュのリスクがあります。
+- 定期的なバックアップが必須です。
+- ❌ 制限事項と問題点
+- **ループの禁止**: 無限ループによるクラッシュを防ぐため、シンボリックリンクのループは禁止されています。
+- **ターゲットの分離**: シンボリックリンクのターゲットは、保管庫のルートや他のシンボリックリンクのターゲットと完全に分離されている必要があります。保管庫内での重複や曖昧なリンクを防ぐため、保管庫の親フォルダや同一保管庫内のフォルダへのリンクは無視されます。
+- **同期との非互換性**:
+- Obsidian Syncやその他の同期ツール（Gitなど）との連携がうまくいかない場合があります。
+
+## 関連テーマ
+
+- [[obsidian]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/シンボリックリンクとジャンクション.md`
+- https://obsidian.md/ja/help/symlinks

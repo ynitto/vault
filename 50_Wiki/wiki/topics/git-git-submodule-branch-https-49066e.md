@@ -1,0 +1,47 @@
+---
+title: "Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？"
+type: "topic"
+tags:
+  - "git"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？.md"
+summary: "Git submoduleは、外部リポジトリをプロジェクト内で参照・固定するための仕組みです。親リポジトリはサブモジュールのコード本体ではなく「特定のコミ…"
+---
+
+# Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？
+
+## 概要
+
+Git submoduleは、外部リポジトリをプロジェクト内で参照・固定するための仕組みです。親リポジトリはサブモジュールのコード本体ではなく「特定のコミットハッシュ」を管理するため、運用時にはサブモジュールと親リポジトリの両方で適切なコミット操作が求められます。
+
+*発行: 2026-04-11 / [[git-git-submodule-branch-https-49066e]]*
+
+## 主要なトピック
+
+- [[git]]
+
+## 詳細
+
+- Git submoduleは、外部リポジトリをプロジェクト内で参照・固定するための仕組みです。親リポジトリはサブモジュールのコード本体ではなく「特定のコミットハッシュ」を管理するため、運用時にはサブモジュールと親リポジトリの両方で適切なコミット操作が求められます。
+- 主要なポイント
+- **基本原則**: 親リポジトリはサブモジュールの`branch`名ではなく、`commit hash`を記録している。
+- **更新手順の2段階**:
+- 1. サブモジュール側で変更を`push`する。
+- 2. 親リポジトリ側でサブモジュールの参照先を更新し、`commit`/`push`する。
+- **clone時の注意**:
+- 普通の`clone`では中身が取得されない場合がある。
+- `git clone --recurse-submodules` を使うのが推奨される。
+
+*発行: 2026-04-11 / [[git-git-submodule-branch-https-49066e]]*
+
+## 関連テーマ
+
+- [[git]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Git submoduleの使い方を実例でわかりやすく解説。親リポジトリとサブモジュールのbranch名は揃えるべき？.md`
+- https://qiita.com/softbase/items/069c1a1ccdd070e70419

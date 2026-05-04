@@ -1,0 +1,50 @@
+---
+title: "LLMに長期記憶を実装する"
+type: "topic"
+tags:
+  - "claude-code"
+  - "performance"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/LLMに長期記憶を実装する.md"
+summary: "Claude Codeに、人間の脳の仕組み（情動、忘却、再構成など）を模倣した長期記憶システムをPythonで実装した事例。単なるデータベース検索ではなく…"
+---
+
+# LLMに長期記憶を実装する
+
+## 概要
+
+Claude Codeに、人間の脳の仕組み（情動、忘却、再構成など）を模倣した長期記憶システムをPythonで実装した事例。単なるデータベース検索ではなく、時間帯や気分、文脈に応じて結果が動的に変化する記憶の「プロセス」を再現しています。
+
+*発行: 2026-03-10 / [[claude-code-performance-llm-https-zenn-dev-j-5efbfc]]*
+
+## 主要なトピック
+
+- [[claude-code]]
+- [[performance]]
+
+## 詳細
+
+- Claude Codeに、人間の脳の仕組み（情動、忘却、再構成など）を模倣した長期記憶システムをPythonで実装した事例。単なるデータベース検索ではなく、時間帯や気分、文脈に応じて結果が動的に変化する記憶の「プロセス」を再現しています。
+- 主な実装ポイント
+- **情動ゲーティング (扁桃体)**: キーワードやトーンから重要度を判定し、記憶の定着を制御。
+- **減衰と強化 (エビングハウス)**: 時間経過で記憶を弱め、アクセスにより強化する。
+- **連想ネットワーク**: 類似した記憶同士をリンクさせ、芋づる式の想起を可能に。
+- **再固定化**: 想起の際に確率的に記憶がドリフト（変化）し、人間の記憶の不正確さを再現。
+- **干渉忘却**: 新しい記憶が古い記憶を押し出す「ソフト削除」機構。
+- **フラッシュバック**: 忘却済みの記憶が、特定の文脈で確率的に復活。
+- **睡眠による統合**: 定期的なリプレイ・統合処理により、個別記憶を抽象知識（スキーマ）へ昇華。
+
+*発行: 2026-03-10 / [[claude-code-performance-llm-https-zenn-dev-j-5efbfc]]*
+
+## 関連テーマ
+
+- [[claude-code]]
+- [[performance]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/LLMに長期記憶を実装する.md`
+- https://zenn.dev/j_m/articles/efcc4f224cc8ca

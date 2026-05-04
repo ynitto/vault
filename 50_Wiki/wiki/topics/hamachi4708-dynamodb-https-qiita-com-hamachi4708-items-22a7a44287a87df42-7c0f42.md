@@ -1,0 +1,47 @@
+---
+title: "（未検証）DynamoDBで悲観ロックを実現するために検討したこと（情報収集メモ）"
+type: "topic"
+tags:
+  - "hamachi4708"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/（未検証）DynamoDBで悲観ロックを実現するために検討したこと（情報収集メモ）.md"
+summary: "本記事は、DynamoDBを用いて「悲観ロック」を実装するための技術的な検討メモです。AWS公式のベストプラクティスを参考にしつつ、自身の試行錯誤を通じて…"
+---
+
+# （未検証）DynamoDBで悲観ロックを実現するために検討したこと（情報収集メモ）
+
+## 概要
+
+本記事は、DynamoDBを用いて「悲観ロック」を実装するための技術的な検討メモです。AWS公式のベストプラクティスを参考にしつつ、自身の試行錯誤を通じて得られた知見がまとめられています。
+
+*発行: 2023-07-23 / [[hamachi4708-dynamodb-https-qiita-com-hamachi4708-items-22a7a44287a87df42-7c0f42]]*
+
+## 主要なトピック
+
+- [[hamachi4708]]
+
+## 詳細
+
+- 本記事は、DynamoDBを用いて「悲観ロック」を実装するための技術的な検討メモです。AWS公式のベストプラクティスを参考にしつつ、自身の試行錯誤を通じて得られた知見がまとめられています。
+- 要点まとめ
+- **結論：ロックの実現方法**
+- `ConditionExpression`（条件付き書き込み）を使用し、項目が存在しない場合にのみ`PutItem`を行う。
+- 異常終了時にロックが永続化しないよう、TTL（有効期限）の活用や、レコード削除処理の検討が必要。
+- **実装上の重要ポイント**
+- **条件付き書き込みの活用**: `attribute_not_exists`を条件にすることで、競合発生時に安全に処理を終了できる。
+- **ロックテーブル設計**: ロック名、ホスト名、有効期限、リビジョンバージョン番号（RVN）を含めることで、ロックの所有権と管理を厳密にする。
+- **ロック生存期間の制御**:
+
+*発行: 2023-07-23 / [[hamachi4708-dynamodb-https-qiita-com-hamachi4708-items-22a7a44287a87df42-7c0f42]]*
+
+## 関連テーマ
+
+- [[hamachi4708]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/（未検証）DynamoDBで悲観ロックを実現するために検討したこと（情報収集メモ）.md`
+- https://qiita.com/hamachi4708/items/22a7a44287a87df42449

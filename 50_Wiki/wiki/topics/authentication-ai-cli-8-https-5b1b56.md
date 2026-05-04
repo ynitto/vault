@@ -1,0 +1,47 @@
+---
+title: "AIエージェントに使わせるCLIの設計原則8選"
+type: "topic"
+tags:
+  - "authentication"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントに使わせるCLIの設計原則8選.md"
+summary: "本記事は、AIエージェントが操作しやすい「エージェントフレンドリーなCLI」を設計するための8つの原則を提案しています。MCPやAPIスキルとの使い分けを…"
+---
+
+# AIエージェントに使わせるCLIの設計原則8選
+
+## 概要
+
+本記事は、AIエージェントが操作しやすい「エージェントフレンドリーなCLI」を設計するための8つの原則を提案しています。MCPやAPIスキルとの使い分けを整理した上で、信頼性と探索性を高める具体的な実装ガイドラインを解説しています。
+
+*発行: 2026-04-21 / [[authentication-ai-cli-8-https-5b1b56]]*
+
+## 主要なトピック
+
+- [[authentication]]
+
+## 詳細
+
+- 本記事は、AIエージェントが操作しやすい「エージェントフレンドリーなCLI」を設計するための8つの原則を提案しています。MCPやAPIスキルとの使い分けを整理した上で、信頼性と探索性を高める具体的な実装ガイドラインを解説しています。
+- エージェントフレンドリーなCLI設計 8原則
+- 【必須】最低限の合格ライン
+- **構造化出力**: `--format json`に対応し、人間向けログは`stderr`、データは`stdout`に出力する。
+- **セマンティック終了コード**: 成功・失敗・認証・権限エラーなどを5種類以上の終了コードで区別する。
+- **非対話モード**: プロンプトを挟まず、シークレットは`stdin`等から安全に受け取る。
+- **Noun-Verb文法**: `resource verb`（例: `task list`）の形式で階層化し、予測可能性を高める。
+- 【強く推奨】試行回数を減らす
+- **スキーマ自己記述**: `describe <cmd>`コマンドで、フラグや引数の構造をJSONで返せるようにする。
+
+*発行: 2026-04-21 / [[authentication-ai-cli-8-https-5b1b56]]*
+
+## 関連テーマ
+
+- [[authentication]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントに使わせるCLIの設計原則8選.md`
+- https://zenn.dev/assign/articles/b3d1d07d385b87

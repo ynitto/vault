@@ -1,0 +1,49 @@
+---
+title: "Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化"
+type: "topic"
+tags:
+  - "aws"
+  - "amazon-ecr"
+  - "code-review"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md"
+summary: "Amazon ECR ライフサイクルポリシーの概要"
+---
+
+# Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化
+
+## 概要
+
+Amazon ECR ライフサイクルポリシーの概要
+
+## 主要なトピック
+
+- [[aws]]
+- [[amazon-ecr]]
+- [[code-review]]
+
+## 詳細
+
+- Amazon ECR のライフサイクルポリシーは、プライベートリポジトリ内のコンテナイメージの管理を自動化し、不要なイメージを効率的にアーカイブまたは削除するための機能です。
+- 主要なポイント
+- **自動化された管理**: ライフサイクルポリシーにより、基準を満たしたイメージを 24 時間以内に自動的にアーカイブまたは削除できます。
+- **ルールの優先順位**: 複数のルールを設定でき、優先順位が高い順に適用されます。優先順位は数値が小さいほど高くなります。
+- **安全なテスト運用**: ポリシーを適用する前に「ライフサイクルポリシーのプレビュー」を実行することで、どのイメージが対象となるかを確認できます。
+- **評価ロジック**:
+- すべてのルールは同時に評価され、最終的に優先度に基づいて適用されます。
+- イメージは特定のルールセット（タグ指定など）に基づいて識別されます。
+- ライフサイクルポリシーのアクションは、AWS CloudTrail にイベントとして記録されます。
+
+## 関連テーマ
+
+- [[aws]]
+- [[amazon-ecr]]
+- [[code-review]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md`
+- https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/LifecyclePolicies.html

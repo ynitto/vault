@@ -1,0 +1,40 @@
+---
+title: "Visual Mining Studio"
+type: "topic"
+tags:
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Visual Mining Studio.md"
+summary: "クラスタ分析は、教師なし学習の一つで、データ内の類似性に基づきグループ化を行う手法です。共通の行動パターン発見や外れ値検出に活用されます。"
+---
+
+# Visual Mining Studio
+
+## 概要
+
+クラスタ分析は、教師なし学習の一つで、データ内の類似性に基づきグループ化を行う手法です。共通の行動パターン発見や外れ値検出に活用されます。
+
+## 主要なトピック
+
+
+## 詳細
+
+- クラスタ分析は、教師なし学習の一つで、データ内の類似性に基づきグループ化を行う手法です。共通の行動パターン発見や外れ値検出に活用されます。
+- Visual Mining Studioが提供する主な手法
+- **K-Means法**: 分割最適化手法。クラスタ数を指定し、重心との距離で分類を繰り返します。
+- **BIRCH**: 大規模データ向け手法。CF Treeによる圧縮後にクラスタリングを行います。
+- **OPTICS**: 密度ベースの手法。クラスタ数を事前指定せず、密度の濃い領域を識別します。
+- **自己組織化マップ (SOM)**: 競合学習を用いた次元圧縮および可視化手法。
+- **One Class SVM**: 教師なしの外れ値検出手法。データ領域を境界づけ、外れた点を検出します。
+- **階層型クラスタリング**: 擬集型の手法。デンドログラムを用いた階層構造の構築・可視化を行います。
+- **ネットワーク階層化**: 類似度行列を持つノード構造をクラスタリングし、コミュニティ構造を特定します。
+
+## 関連テーマ
+
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Visual Mining Studio.md`
+- https://www.msi.co.jp/solution/vmstudio/materials/tech_web/cluster.html

@@ -1,0 +1,56 @@
+---
+title: "【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト"
+type: "topic"
+tags:
+  - "python"
+  - "code-review"
+  - "performance"
+  - "k3n-n17"
+  - "resource-ingest"
+created: "2026-05-02"
+updated: "2026-05-02"
+sources:
+  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト.md"
+summary: "AIが生成するPythonコードには、開発速度を向上させる反面、セキュリティや保守性の観点で放置できない「危険なコードパターン」が混入することがあります。…"
+---
+
+# 【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト
+
+## 概要
+
+AIが生成するPythonコードには、開発速度を向上させる反面、セキュリティや保守性の観点で放置できない「危険なコードパターン」が混入することがあります。本記事では、AIが生成しがちな危険パターン15選と、それを安全なコードに修正するためのテンプレート、および開発現場で導入すべきガードレール（ツール設定）を紹介しています。
+
+*発行: 2025-09-20 / [[python-code-review-python-ai-https-379f7e]]*
+
+## 主要なトピック
+
+- [[python]]
+- [[code-review]]
+- [[performance]]
+- [[k3n-n17]]
+
+## 詳細
+
+- AIが生成するPythonコードには、開発速度を向上させる反面、セキュリティや保守性の観点で放置できない「危険なコードパターン」が混入することがあります。本記事では、AIが生成しがちな危険パターン15選と、それを安全なコードに修正するためのテンプレート、および開発現場で導入すべきガードレール（ツール設定）を紹介しています。
+- 主要な危険パターンと対策の要点
+- **例外処理・デバッグ**: 雑な `except` ではなく、例外をログ出力し適切にハンドリングする。`print` は避け `logging` を使用する。
+- **データ処理の罠**: 可変デフォルト引数の使用回避、Pandasでのチェーン代入（`SettingWithCopyWarning`）への適切な対応。
+- **セキュリティ**:
+- 任意コード実行を防ぐため `eval`/`exec`/`pickle` を使用しない。
+- インジェクション対策として、SQLはパラメータ化し、パス操作は `pathlib` 等で検証する。
+- 暗号用途には `random` ではなく `secrets` モジュールを使う。
+- **インフラ・ネットワーク**: 通信時のタイムアウト設定や、SSL証明書検証の有効化を徹底する。
+
+*発行: 2025-09-20 / [[python-code-review-python-ai-https-379f7e]]*
+
+## 関連テーマ
+
+- [[python]]
+- [[code-review]]
+- [[performance]]
+- [[k3n-n17]]
+
+## 出典
+
+- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト.md`
+- https://qiita.com/Sakai_path/items/d4ec1e848672033ca256
