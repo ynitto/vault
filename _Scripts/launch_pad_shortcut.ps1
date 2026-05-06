@@ -60,7 +60,8 @@ function Start-Pad {
 
 # ---- PAD ウィンドウをフォアグラウンドに持ってくる ----
 function Set-PadWindowFocus {
-    Add-Type @"
+    if (-not ([System.Management.Automation.PSTypeName]'WinApi').Type) {
+        Add-Type @"
 using System;
 using System.Runtime.InteropServices;
 public class WinApi {
@@ -72,6 +73,7 @@ public class WinApi {
     public static extern IntPtr FindWindow(string lpClassName, string lpWindowName);
 }
 "@
+    }
 
     # PAD は複数プロセスで構成されるため、ウィンドウを持つプロセスを全体から探す
     $hwnd = [IntPtr]::Zero
