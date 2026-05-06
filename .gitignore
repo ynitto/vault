@@ -1,4 +1,8 @@
 00_Inbox/Logs/*
+*.claude.md
+*.copilot.md
+*.copilot-chat.md
+*.kiro.md
 
 .obsidian/*
 !.obsidian/bookmarks.json

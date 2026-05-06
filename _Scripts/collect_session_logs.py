@@ -862,8 +862,8 @@ def _fmt_session(s: dict) -> str:
 def _session_filename(s: dict) -> str:
     """
     Generate a filename stem for a session.
-    Format: {agent}-{YYYY-MM-DD}-{short_id}  e.g. copilot-chat-2026-05-06-d3080de0
-    Falls back to {agent}-{short_id} when date is unavailable.
+    Format: {YYYY-MM-DD}-{short_id}.{agent}  e.g. 2026-05-06-d3080de0.copilot-chat
+    Falls back to {short_id}.{agent} when date is unavailable.
     """
     tool = s["tool"]
     agent = tool.replace("_", "-")  # copilot_chat → copilot-chat
@@ -888,8 +888,8 @@ def _session_filename(s: dict) -> str:
         short_id = Path(s["path"]).stem[:8]
 
     if start_iso:
-        return f"{agent}-{start_iso}-{short_id}"
-    return f"{agent}-{short_id}"
+        return f"{start_iso}-{short_id}.{agent}"
+    return f"{short_id}.{agent}"
 
 
 def _is_dir_output(output: str) -> bool:
