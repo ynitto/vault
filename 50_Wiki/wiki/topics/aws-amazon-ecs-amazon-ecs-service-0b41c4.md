@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECSの新ネットワーク機能”Service Connect”をAWSマネジメントコンソールから設定してみた reinvent.md"
+  - "60_Resources/Amazon ECSの新ネットワーク機能”Service Connect”をAWSマネジメントコンソールから設定してみた reinvent.md"
 summary: "Amazon ECS Service Connect 概要"
 ---
 
@@ -49,5 +49,5 @@ Amazon ECS Service Connect 概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECSの新ネットワーク機能”Service Connect”をAWSマネジメントコンソールから設定してみた reinvent.md`
+- `60_Resources/Amazon ECSの新ネットワーク機能”Service Connect”をAWSマネジメントコンソールから設定してみた reinvent.md`
 - https://dev.classmethod.jp/articles/try-amazon-ecs-service-connect/

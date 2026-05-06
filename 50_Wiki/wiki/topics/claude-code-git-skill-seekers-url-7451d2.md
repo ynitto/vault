@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる.md"
+  - "60_Resources/Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる.md"
 summary: "「Skill Seekers」は、URL、GitHubリポジトリ、ローカルファイルなど多様なソースから「Claude Code Skills」を自動生成・…"
 ---
 
@@ -46,5 +46,5 @@ summary: "「Skill Seekers」は、URL、GitHubリポジトリ、ローカルフ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる.md`
+- `60_Resources/Skill SeekersでURLやローカルドキュメントからClaude Codeのスキルを生成してみる.md`
 - https://dev.classmethod.jp/articles/skill-seekers-claude-code-skills/

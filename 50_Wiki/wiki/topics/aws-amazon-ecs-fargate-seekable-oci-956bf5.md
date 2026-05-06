@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md"
+  - "60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md"
 summary: "Seekable OCI (SOCI) による Fargate 起動高速化の検証"
 ---
 
@@ -52,5 +52,5 @@ Seekable OCI (SOCI) による Fargate 起動高速化の検証
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md`
+- `60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md`
 - https://zenn.dev/lincwell_inc/articles/test_seekable_oci

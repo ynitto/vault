@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitLab rulesを理解してCICD Jobの起動を制御する.md"
+  - "60_Resources/GitLab rulesを理解してCICD Jobの起動を制御する.md"
 summary: "GitLab CI/CDにおける `rules` の要約"
 ---
 
@@ -49,5 +49,5 @@ GitLab CI/CDにおける `rules` の要約
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitLab rulesを理解してCICD Jobの起動を制御する.md`
+- `60_Resources/GitLab rulesを理解してCICD Jobの起動を制御する.md`
 - https://techblog.ap-com.co.jp/entry/2024/05/03/120929

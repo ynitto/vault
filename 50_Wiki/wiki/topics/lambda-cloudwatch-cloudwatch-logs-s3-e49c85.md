@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
+  - "60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
 summary: "CloudWatch LogsとS3の料金比較と、コスト最適化の考え方をまとめた記事です。"
 ---
 
@@ -52,5 +52,5 @@ CloudWatch LogsとS3の料金比較と、コスト最適化の考え方をまと
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
+- `60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
 - https://dev.classmethod.jp/articles/comparison-of-fees-for-cloudwatch-logs-and-s3/

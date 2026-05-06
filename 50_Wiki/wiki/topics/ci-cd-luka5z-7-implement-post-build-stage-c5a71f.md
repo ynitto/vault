@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md"
+  - ".50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md"
 summary: "Jenkins Pipelineにおける「Post-Build（ビルド後処理）」の実装方法に関する技術的な質問と、それに対するコミュニティからの回答まとめ…"
 ---
 
@@ -49,5 +49,5 @@ Jenkins Pipelineにおける「Post-Build（ビルド後処理）」の実装方
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md`
+- `.50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md`
 - https://stackoverflow.com/questions/36651432/how-to-implement-post-build-stage-using-jenkins-pipeline-plug-in?newreg=6b81896e863c4576bdea84053d5c103f

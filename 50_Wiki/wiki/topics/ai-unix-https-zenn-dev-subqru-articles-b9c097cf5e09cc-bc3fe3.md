@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIにUNIX哲学を意識させたらコードがクリーンになった.md"
+  - "60_Resources/AIにUNIX哲学を意識させたらコードがクリーンになった.md"
 summary: "AIによるコード生成で陥りがちな「複雑で密結合なコード」を、プロンプトに「UNIX哲学に基づいて設計して」と加えるだけで、クリーンかつ再利用性の高い構成に…"
 ---
 
@@ -39,5 +39,5 @@ AIによるコード生成で陥りがちな「複雑で密結合なコード」
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIにUNIX哲学を意識させたらコードがクリーンになった.md`
+- `60_Resources/AIにUNIX哲学を意識させたらコードがクリーンになった.md`
 - https://zenn.dev/subqru/articles/b9c097cf5e09cc

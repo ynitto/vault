@@ -11,7 +11,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md"
+  - "60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md"
 summary: "本記事は、AWS CloudFormationを使用して、WAF（Web Application Firewall）を統合したELB（Elastic Lo…"
 ---
 
@@ -55,5 +55,5 @@ summary: "本記事は、AWS CloudFormationを使用して、WAF（Web Applicati
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md`
+- `60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md`
 - https://qiita.com/s_horikoshi/items/9b5da901601e947114ec

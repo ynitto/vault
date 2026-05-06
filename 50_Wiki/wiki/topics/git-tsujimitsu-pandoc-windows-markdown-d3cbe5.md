@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md"
+  - "60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md"
 summary: "Windows環境において、Pandocを使用してMarkdownファイルをHTMLやWord（docx）形式に変換する手順とコマンドを解説した記事です。"
 ---
 
@@ -46,5 +46,5 @@ Windows環境において、Pandocを使用してMarkdownファイルをHTMLやW
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md`
+- `60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md`
 - https://qiita.com/tsujimitsu/items/907d7a2fae2057d0fb1f

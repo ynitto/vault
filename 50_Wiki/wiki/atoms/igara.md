@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md"
+  - "60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md"
 summary: "igara に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ igara は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md`
+- `60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md`
 - https://qiita.com/igara/items/e05683c26a346c28feca

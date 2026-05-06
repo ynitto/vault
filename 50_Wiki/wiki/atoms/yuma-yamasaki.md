@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md"
+  - "60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md"
 summary: "Yuma Yamasaki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Yuma Yamasaki は関連資料の著者・関係者として参照される人物
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md`
+- `60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md`
 - https://developers.cyberagent.co.jp/blog/archives/50143/

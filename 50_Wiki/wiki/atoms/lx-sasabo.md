@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Git でファイル名の大文字小文字の変更が検出されない.md"
+  - "60_Resources/Git でファイル名の大文字小文字の変更が検出されない.md"
 summary: "lx-sasabo に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ lx-sasabo は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Git でファイル名の大文字小文字の変更が検出されない.md`
+- `60_Resources/Git でファイル名の大文字小文字の変更が検出されない.md`
 - https://qiita.com/lx-sasabo/items/2236926f37be67c777fa

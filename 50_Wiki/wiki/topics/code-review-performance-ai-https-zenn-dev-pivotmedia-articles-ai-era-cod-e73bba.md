@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか.md"
+  - "60_Resources/AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか.md"
 summary: "AIコーディング支援の普及により、コードレビューの役割は「実装の細部の修正」から「設計の妥当性の判断」へとシフトしています。"
 ---
 
@@ -46,5 +46,5 @@ AIコーディング支援の普及により、コードレビューの役割は
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか.md`
+- `60_Resources/AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか.md`
 - https://zenn.dev/pivotmedia/articles/ai-era-code-review

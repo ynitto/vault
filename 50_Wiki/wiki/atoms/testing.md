@@ -7,23 +7,23 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/3人で週30PR、溺れかけた開発チームがClaude Codeスキルでレビューを回した話.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECRはイミュータブルにしておくと安全.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Integrating with Jest  Step CI Docs.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JSON Patchをキャッチアップしました.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Load testing with GitLab.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Performance Test Running and Reporting for Jenkins CI.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Question regarding rampusers and constantusers.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Web APIのテストデータを自動生成してくれるツール「Schemathesis」の紹介.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/jest-openapi.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/librespeedspeedtest Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/『単体テストの考え方使い方』が良すぎた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/超わかりやすい Amazon GameLift の凄いツール紹介しちゃいます！！.md"
+  - "60_Resources/3人で週30PR、溺れかけた開発チームがClaude Codeスキルでレビューを回した話.md"
+  - "60_Resources/ECRはイミュータブルにしておくと安全.md"
+  - "60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md"
+  - "60_Resources/Integrating with Jest  Step CI Docs.md"
+  - "60_Resources/JSON Patchをキャッチアップしました.md"
+  - "60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md"
+  - "60_Resources/Load testing with GitLab.md"
+  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md"
+  - "60_Resources/Performance Test Running and Reporting for Jenkins CI.md"
+  - "60_Resources/Question regarding rampusers and constantusers.md"
+  - "60_Resources/Web APIのテストデータを自動生成してくれるツール「Schemathesis」の紹介.md"
+  - "60_Resources/jest-openapi.md"
+  - "60_Resources/librespeedspeedtest Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more.md"
+  - "60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md"
+  - "60_Resources/『単体テストの考え方使い方』が良すぎた.md"
+  - "60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md"
+  - "60_Resources/超わかりやすい Amazon GameLift の凄いツール紹介しちゃいます！！.md"
 summary: "テスト設計と品質保証の知識を扱うページ。"
 ---
 
@@ -114,36 +114,36 @@ Testing は不具合検知だけでなく、仕様理解と変更容易性を支
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/3人で週30PR、溺れかけた開発チームがClaude Codeスキルでレビューを回した話.md`
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECRはイミュータブルにしておくと安全.md`
+- `60_Resources/3人で週30PR、溺れかけた開発チームがClaude Codeスキルでレビューを回した話.md`
+- `60_Resources/ECRはイミュータブルにしておくと安全.md`
 - https://zenn.dev/levtech/articles/8feb6330f7c767
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md`
+- `60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md`
 - https://qiita.com/leomarokun/items/3040cd6ae4c51b2329f6
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Integrating with Jest  Step CI Docs.md`
+- `60_Resources/Integrating with Jest  Step CI Docs.md`
 - https://docs.stepci.com/integration/jest.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JSON Patchをキャッチアップしました.md`
+- `60_Resources/JSON Patchをキャッチアップしました.md`
 - https://qiita.com/zhang_yid/items/31358f9b2922165ce78d
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md`
+- `60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md`
 - https://zenn.dev/leoninja/articles/10831509338169
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Load testing with GitLab.md`
+- `60_Resources/Load testing with GitLab.md`
 - https://grafana.com/blog/load-testing-with-gitlab/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md`
 - https://zenn.dev/jrsyo/articles/e42de409e62f5d
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Performance Test Running and Reporting for Jenkins CI.md`
+- `60_Resources/Performance Test Running and Reporting for Jenkins CI.md`
 - https://jenkinsci.github.io/performance-plugin/Reporting.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Question regarding rampusers and constantusers.md`
+- `60_Resources/Question regarding rampusers and constantusers.md`
 - https://community.gatling.io/t/question-regarding-rampusers-and-constantusers/7486/3
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Web APIのテストデータを自動生成してくれるツール「Schemathesis」の紹介.md`
+- `60_Resources/Web APIのテストデータを自動生成してくれるツール「Schemathesis」の紹介.md`
 - https://gihyo.jp/article/2025/07/monthly-python-2507
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/jest-openapi.md`
+- `60_Resources/jest-openapi.md`
 - https://www.npmjs.com/package/jest-openapi
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/librespeedspeedtest Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more.md`
+- `60_Resources/librespeedspeedtest Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more.md`
 - https://github.com/librespeed/speedtest?tab=readme-ov-file
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md`
+- `60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md`
 - https://swet.dena.com/entry/2023/11/13/170000
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/『単体テストの考え方使い方』が良すぎた.md`
+- `60_Resources/『単体テストの考え方使い方』が良すぎた.md`
 - https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md`
+- `60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md`
 - https://www.kzsuzuki.com/entry/2021/04/11/141010
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/超わかりやすい Amazon GameLift の凄いツール紹介しちゃいます！！.md`
+- `60_Resources/超わかりやすい Amazon GameLift の凄いツール紹介しちゃいます！！.md`
 - https://qiita.com/cataiiwai/items/4df7bd775f17fd50adad

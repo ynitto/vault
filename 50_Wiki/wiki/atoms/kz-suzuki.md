@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md"
+  - "60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md"
 summary: "kz_suzuki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ kz_suzuki は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md`
+- `60_Resources/スモークテストとサニティテストとは何なのか - ソフトウェアの品質を学びまくる.md`
 - https://www.kzsuzuki.com/entry/2021/04/11/141010

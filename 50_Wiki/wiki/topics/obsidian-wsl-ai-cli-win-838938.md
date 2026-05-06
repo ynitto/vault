@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata.md"
+  - "60_Resources/WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata.md"
 summary: "WSL上のAI(CLI)とWindows側Obsidianの連携方法"
 ---
 
@@ -33,7 +33,7 @@ WSL上のAI(CLI)とWindows側Obsidianの連携方法
 - **推奨方法**: 方法B（automount方式）が安定性に優れるため推奨。
 - 全体像
 - 1.  **Obsidian Vault**: Windows上に配置（例: `C:\\Users\\...\\Obsidian\\MyNote`）。
-- 2.  **WSLからのアクセス**: `/mnt/c/Users/.../Obsidian/MyNote` として認識。
+- 2.  **WSLからのアクセス**: `/mnt/c/Users/50_Wiki/wiki/topics.50_Wiki/wiki/topics/Obsidian/MyNote` として認識。
 
 *発行: 2025-08-30 / [[obsidian-wsl-ai-cli-win-838938]]*
 
@@ -43,5 +43,5 @@ WSL上のAI(CLI)とWindows側Obsidianの連携方法
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata.md`
+- `60_Resources/WSL上のAI(CLI)とWin側Obsidianの連携方法｜hinata.md`
 - https://note.com/hinatasatou/n/n46af3c6259eb

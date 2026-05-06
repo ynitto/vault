@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/推奨アラーム.md"
+  - "60_Resources/推奨アラーム.md"
 summary: "本書は、AWS の各サービスにおける「ベストプラクティスアラーム」の設定推奨事項をまとめた技術ガイドです。"
 ---
 
@@ -48,5 +48,5 @@ summary: "本書は、AWS の各サービスにおける「ベストプラクテ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/推奨アラーム.md`
+- `60_Resources/推奨アラーム.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/Best_Practice_Recommended_Alarms_AWS_Services.html

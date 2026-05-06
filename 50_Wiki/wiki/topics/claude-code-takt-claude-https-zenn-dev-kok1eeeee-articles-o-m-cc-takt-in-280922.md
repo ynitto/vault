@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ.md"
+  - "60_Resources/TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ.md"
 summary: "AIエージェントの「指示に従わない」「脱線する」といった課題に対し、外部エンジンを用いたツール「TAKT」と、Claude Codeのプラグインとして独自…"
 ---
 
@@ -43,5 +43,5 @@ AIエージェントの「指示に従わない」「脱線する」といった
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ.md`
+- `60_Resources/TAKT を調べて気づいた、Claude Code ネイティブでも同じ課題を解けるということ.md`
 - https://zenn.dev/kok1eeeee/articles/o-m-cc-takt-inspired-update

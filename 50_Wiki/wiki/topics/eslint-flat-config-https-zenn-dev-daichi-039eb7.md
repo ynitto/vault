@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ESLint Flat Configを使ってみた(課題あり).md"
+  - "60_Resources/ESLint Flat Configを使ってみた(課題あり).md"
 summary: "ESLintの新しい設定形式「Flat Config」を試した際の手順と知見についての記事です。"
 ---
 
@@ -40,5 +40,5 @@ ESLintの新しい設定形式「Flat Config」を試した際の手順と知見
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ESLint Flat Configを使ってみた(課題あり).md`
+- `60_Resources/ESLint Flat Configを使ってみた(課題あり).md`
 - https://zenn.dev/daichi_suyama/articles/d6263aeb9be200

@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md"
+  - "60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md"
 summary: "VSCode v1.99で導入された「Copilot Agent Mode」において、MCP（Model Context Protocol）を使用して外部…"
 ---
 
@@ -49,5 +49,5 @@ VSCode v1.99で導入された「Copilot Agent Mode」において、MCP（Model
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md`
+- `60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md`
 - https://zenn.dev/mochizuki875/articles/1f7f3f3527fcf9

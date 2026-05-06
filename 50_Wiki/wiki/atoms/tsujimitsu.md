@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md"
+  - "60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md"
 summary: "tsujimitsu に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ tsujimitsu は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md`
+- `60_Resources/Pandoc で Windows に作るmarkdown to html, docx 環境.md`
 - https://qiita.com/tsujimitsu/items/907d7a2fae2057d0fb1f

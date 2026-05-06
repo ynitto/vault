@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/実務において回帰分析を行うに当たっての注意点を改めて挙げてみる - 渋谷駅前で働くデータサイエンティストのブログ.md"
+  - "60_Resources/実務において回帰分析を行うに当たっての注意点を改めて挙げてみる - 渋谷駅前で働くデータサイエンティストのブログ.md"
 summary: "Takashi J. OZAKI に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Takashi J. OZAKI は関連資料の著者・関係者として参照される人
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/実務において回帰分析を行うに当たっての注意点を改めて挙げてみる - 渋谷駅前で働くデータサイエンティストのブログ.md`
+- `60_Resources/実務において回帰分析を行うに当たっての注意点を改めて挙げてみる - 渋谷駅前で働くデータサイエンティストのブログ.md`
 - https://tjo.hatenablog.com/entry/2024/07/20/170638

@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み.md"
+  - "60_Resources/hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み.md"
 summary: "『hermes-agent』は、Nous Researchが開発したOSSの「自己成長型AIエージェント」です。2026年2月の公開から短期間で6.7万S…"
 ---
 
@@ -43,5 +43,5 @@ summary: "『hermes-agent』は、Nous Researchが開発したOSSの「自己成
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み.md`
+- `60_Resources/hermes-agent：GitHub 67,000 Starの「自己成長型AIエージェント」の技術的仕組み.md`
 - https://qiita.com/nogataka/items/48328a49ae80dead6174

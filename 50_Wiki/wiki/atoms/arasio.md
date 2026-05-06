@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Jenkins のパイプラインでマスターで実行するタスクを node ブロックで囲む意味 - あらしおブログ.md"
+  - "60_Resources/Jenkins のパイプラインでマスターで実行するタスクを node ブロックで囲む意味 - あらしおブログ.md"
 summary: "arasio に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ arasio は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Jenkins のパイプラインでマスターで実行するタスクを node ブロックで囲む意味 - あらしおブログ.md`
+- `60_Resources/Jenkins のパイプラインでマスターで実行するタスクを node ブロックで囲む意味 - あらしおブログ.md`
 - https://arasio.hatenablog.com/entry/2016/10/03/011513

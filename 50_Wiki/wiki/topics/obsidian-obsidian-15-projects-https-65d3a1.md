@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Obsidian最適化の旅 15】Projectsプラグインを試す。｜オーピー.md"
+  - "60_Resources/【Obsidian最適化の旅 15】Projectsプラグインを試す。｜オーピー.md"
 summary: "Obsidian Projectsプラグインの概要"
 ---
 
@@ -43,5 +43,5 @@ Obsidian Projectsプラグインの概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Obsidian最適化の旅 15】Projectsプラグインを試す。｜オーピー.md`
+- `60_Resources/【Obsidian最適化の旅 15】Projectsプラグインを試す。｜オーピー.md`
 - https://note.com/ordinary_people/n/n5eb5121f4604

@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/アップデート AWS LambdaがAmazon SQSをイベントソースとしたバッチ処理で部分応答をサポートしました.md"
+  - "60_Resources/アップデート AWS LambdaがAmazon SQSをイベントソースとしたバッチ処理で部分応答をサポートしました.md"
 summary: "AWS LambdaのイベントソースとしてAmazon SQSを使用する際、バッチ処理中の「部分的な失敗（一部のメッセージのみ失敗）」を個別に処理できる新…"
 ---
 
@@ -42,5 +42,5 @@ AWS LambdaのイベントソースとしてAmazon SQSを使用する際、バッ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/アップデート AWS LambdaがAmazon SQSをイベントソースとしたバッチ処理で部分応答をサポートしました.md`
+- `60_Resources/アップデート AWS LambdaがAmazon SQSをイベントソースとしたバッチ処理で部分応答をサポートしました.md`
 - https://dev.classmethod.jp/articles/update-aws-lambda-partial-failures/

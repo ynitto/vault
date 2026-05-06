@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm link について調べる.md"
+  - "60_Resources/npm link について調べる.md"
 summary: "npm linkは、自作パッケージを公開せずに別のプロジェクトからローカル参照として利用するためのコマンドです。シンボリックリンクを作成することで、開発中…"
 ---
 
@@ -43,5 +43,5 @@ npm linkは、自作パッケージを公開せずに別のプロジェクトか
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm link について調べる.md`
+- `60_Resources/npm link について調べる.md`
 - https://zenn.dev/negi/scraps/ff8cc6bf68521a

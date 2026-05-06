@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/CloudWatch EventでCodeBuildを定時実行する.md"
+  - "60_Resources/CloudWatch EventでCodeBuildを定時実行する.md"
 summary: "CloudWatch Eventを使用して、AWS CodeBuildのビルド処理を定時実行する方法を解説しています。"
 ---
 
@@ -39,5 +39,5 @@ CloudWatch Eventを使用して、AWS CodeBuildのビルド処理を定時実行
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/CloudWatch EventでCodeBuildを定時実行する.md`
+- `60_Resources/CloudWatch EventでCodeBuildを定時実行する.md`
 - https://www.hacknotes.jp/blog/codebuild-cloudwatchevent-scheduled-execution/

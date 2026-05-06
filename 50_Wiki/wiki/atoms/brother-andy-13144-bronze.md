@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECS service desire count get resets by Auto Scaling.md"
+  - "60_Resources/ECS service desire count get resets by Auto Scaling.md"
 summary: "Brother_Andy 13144 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Brother_Andy 13144 bronze badges は関連資料の著者・関係者として�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECS service desire count get resets by Auto Scaling.md`
+- `60_Resources/ECS service desire count get resets by Auto Scaling.md`
 - https://stackoverflow.com/questions/63992903/ecs-service-desire-count-get-resets-by-auto-scaling

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/reviewdog🐶を飼ってGitLab-CI上で静的解析しませんか？.md"
+  - "60_Resources/reviewdog🐶を飼ってGitLab-CI上で静的解析しませんか？.md"
 summary: "parupappa2929 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ parupappa2929 は関連資料の著者・関係者として参照される人物
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/reviewdog🐶を飼ってGitLab-CI上で静的解析しませんか？.md`
+- `60_Resources/reviewdog🐶を飼ってGitLab-CI上で静的解析しませんか？.md`
 - https://qiita.com/parupappa2929/items/b1071c716cfe937b2210

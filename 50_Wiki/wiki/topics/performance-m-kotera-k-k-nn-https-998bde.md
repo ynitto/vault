@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/高速で厳密なk近傍法(k-NN)の計算.md"
+  - "60_Resources/高速で厳密なk近傍法(k-NN)の計算.md"
 summary: "本記事は、NECの小寺雅司氏による、Z-curveを用いた低次元（6次元程度まで）データにおけるk-NNの高速かつ厳密な計算手法の解説です。"
 ---
 
@@ -46,5 +46,5 @@ summary: "本記事は、NECの小寺雅司氏による、Z-curveを用いた低
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/高速で厳密なk近傍法(k-NN)の計算.md`
+- `60_Resources/高速で厳密なk近傍法(k-NN)の計算.md`
 - https://qiita.com/M_Kotera/items/6f90a52a08e57471b871

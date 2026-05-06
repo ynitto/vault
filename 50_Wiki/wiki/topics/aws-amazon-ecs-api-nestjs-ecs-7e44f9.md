@@ -11,7 +11,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md"
+  - "60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md"
 summary: "本記事は、既存のPHP/Go製APIをNestJSに統一し、AWS Fargate (ECS) へ移行した際の実体験と知見をまとめたものです。開発環境の刷…"
 ---
 
@@ -55,5 +55,5 @@ summary: "本記事は、既存のPHP/Go製APIをNestJSに統一し、AWS Fargat
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md`
+- `60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md`
 - https://qiita.com/y_okasuke/items/4523d91da69aae2b40db

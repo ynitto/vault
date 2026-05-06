@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
+  - "60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
 summary: "tmokmss に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ tmokmss は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
+- `60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
 - https://tmokmss.hatenablog.com/entry/20221213/1670891305

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md"
+  - "60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md"
 summary: "shnagai に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ shnagai は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md`
+- `60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md`
 - https://qiita.com/Jason/items/d12139b83643474b3666

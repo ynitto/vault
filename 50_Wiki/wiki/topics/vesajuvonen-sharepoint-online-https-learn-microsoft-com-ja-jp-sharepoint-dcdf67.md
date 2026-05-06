@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/SharePoint Online で調整またはブロックを回避する.md"
+  - "60_Resources/SharePoint Online で調整またはブロックを回避する.md"
 summary: "SharePoint Online の調整とブロックの回避策について"
 ---
 
@@ -39,5 +39,5 @@ SharePoint Online の調整とブロックの回避策について
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/SharePoint Online で調整またはブロックを回避する.md`
+- `60_Resources/SharePoint Online で調整またはブロックを回避する.md`
 - https://learn.microsoft.com/ja-jp/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online

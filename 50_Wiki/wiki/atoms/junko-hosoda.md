@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AICとBIC？情報量基準とは？ – MIIDAS Science Blog.md"
+  - "60_Resources/AICとBIC？情報量基準とは？ – MIIDAS Science Blog.md"
 summary: "junko.hosoda に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ junko.hosoda は関連資料の著者・関係者として参照される人物�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AICとBIC？情報量基準とは？ – MIIDAS Science Blog.md`
+- `60_Resources/AICとBIC？情報量基準とは？ – MIIDAS Science Blog.md`
 - https://research.miidas.jp/2019/04/aic%E3%81%A8bic%EF%BC%9F%E6%83%85%E5%A0%B1%E9%87%8F%E5%9F%BA%E6%BA%96%E3%81%A8%E3%81%AF%EF%BC%9F/

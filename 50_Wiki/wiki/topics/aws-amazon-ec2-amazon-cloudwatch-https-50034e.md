@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon CloudWatch でのアラームの使用.md"
+  - "60_Resources/Amazon CloudWatch でのアラームの使用.md"
 summary: "Amazon CloudWatch アラームの概要"
 ---
 
@@ -48,5 +48,5 @@ Amazon CloudWatch アラームの概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon CloudWatch でのアラームの使用.md`
+- `60_Resources/Amazon CloudWatch でのアラームの使用.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/CloudWatch_Alarms.html

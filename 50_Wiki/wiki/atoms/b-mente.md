@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/MermaidでAWS構成図を作成するテクニック.md"
+  - "60_Resources/MermaidでAWS構成図を作成するテクニック.md"
 summary: "b-mente に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ b-mente は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/MermaidでAWS構成図を作成するテクニック.md`
+- `60_Resources/MermaidでAWS構成図を作成するテクニック.md`
 - https://qiita.com/b-mente/items/0172289e5b62645e550c

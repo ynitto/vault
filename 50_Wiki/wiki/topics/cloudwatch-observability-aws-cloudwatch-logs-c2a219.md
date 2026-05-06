@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md"
+  - "60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md"
 summary: "CloudWatch Logs Insightsの要約"
 ---
 
@@ -49,5 +49,5 @@ CloudWatch Logs Insightsの要約
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md`
+- `60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md`
 - https://qiita.com/suuu/items/8387df88f134348f22c7

@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS ECS Cluster Auto ScalingがGAになったのでやってみた reinvent.md"
+  - "60_Resources/AWS ECS Cluster Auto ScalingがGAになったのでやってみた reinvent.md"
 summary: "AWS ECS Cluster Auto Scaling の概要"
 ---
 
@@ -49,5 +49,5 @@ AWS ECS Cluster Auto Scaling の概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS ECS Cluster Auto ScalingがGAになったのでやってみた reinvent.md`
+- `60_Resources/AWS ECS Cluster Auto ScalingがGAになったのでやってみた reinvent.md`
 - https://dev.classmethod.jp/articles/aws-ecs-cluster-auto-scaling/

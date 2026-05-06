@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/神アップデートGuardDutyがEC2やECSのマルウェア検知時のスキャンに対応したので実際にスキャンさせてみた reinforce.md"
+  - "60_Resources/神アップデートGuardDutyがEC2やECSのマルウェア検知時のスキャンに対応したので実際にスキャンさせてみた reinforce.md"
 summary: "Amazon GuardDuty Malware Protection 概要"
 ---
 
@@ -46,5 +46,5 @@ Amazon GuardDuty Malware Protection 概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/神アップデートGuardDutyがEC2やECSのマルウェア検知時のスキャンに対応したので実際にスキャンさせてみた reinforce.md`
+- `60_Resources/神アップデートGuardDutyがEC2やECSのマルウェア検知時のスキャンに対応したので実際にスキャンさせてみた reinforce.md`
 - https://dev.classmethod.jp/articles/guardduty-support-malware-protection/

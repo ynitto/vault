@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術.md"
+  - "60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術.md"
 summary: "ObsidianとClaudeCodeによるタスク管理・振り返り術"
 ---
 
@@ -46,5 +46,5 @@ ObsidianとClaudeCodeによるタスク管理・振り返り術
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術.md`
+- `60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術.md`
 - https://qiita.com/inamuu/items/d9b013b54a31a78e9c13

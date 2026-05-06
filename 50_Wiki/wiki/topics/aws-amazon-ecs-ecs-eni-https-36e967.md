@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSのENI上限引き上げ.md"
+  - "60_Resources/ECSのENI上限引き上げ.md"
 summary: "本記事では、Amazon ECSをEC2インスタンス（awsvpcネットワーキングモード）で運用する際に発生する、ENI（Elastic Network…"
 ---
 
@@ -52,5 +52,5 @@ summary: "本記事では、Amazon ECSをEC2インスタンス（awsvpcネット
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSのENI上限引き上げ.md`
+- `60_Resources/ECSのENI上限引き上げ.md`
 - https://qiita.com/nysalor/items/a5a06013d1c37b096885

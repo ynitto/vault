@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code に Codex の対立レビューを挟むと見えるもの — codex-plugin-cc で始めるセカンドオピニオン駆動開発.md"
+  - "60_Resources/Claude Code に Codex の対立レビューを挟むと見えるもの — codex-plugin-cc で始めるセカンドオピニオン駆動開発.md"
 summary: "Claude Code向け公式プラグイン「codex-plugin-cc」を活用し、AnthropicのClaudeとOpenAIのCodexという異なる…"
 ---
 
@@ -52,5 +52,5 @@ Claude Code向け公式プラグイン「codex-plugin-cc」を活用し、Anthro
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code に Codex の対立レビューを挟むと見えるもの — codex-plugin-cc で始めるセカンドオピニオン駆動開発.md`
+- `60_Resources/Claude Code に Codex の対立レビューを挟むと見えるもの — codex-plugin-cc で始めるセカンドオピニオン駆動開発.md`
 - https://qiita.com/nogataka/items/52dcdb315c54dddede01

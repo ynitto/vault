@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TypeScript 5.0 new mode bundler & ESM.md"
+  - "60_Resources/TypeScript 5.0 new mode bundler & ESM.md"
 summary: "TypeScript 5.0の新機能：ESMとバンドル対応"
 ---
 
@@ -46,5 +46,5 @@ TypeScript 5.0の新機能：ESMとバンドル対応
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TypeScript 5.0 new mode bundler & ESM.md`
+- `60_Resources/TypeScript 5.0 new mode bundler & ESM.md`
 - https://ayc0.github.io/posts/typescript-50-new-mode-bundler-esm/

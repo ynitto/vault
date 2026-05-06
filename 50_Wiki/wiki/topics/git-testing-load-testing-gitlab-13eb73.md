@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Load testing with GitLab.md"
+  - "60_Resources/Load testing with GitLab.md"
 summary: "本記事は、Grafana k6を用いてGitLab CI/CDパイプラインにパフォーマンステストを統合し、リリース前に安定性を確保する方法を解説しています。"
 ---
 
@@ -52,5 +52,5 @@ summary: "本記事は、Grafana k6を用いてGitLab CI/CDパイプラインに
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Load testing with GitLab.md`
+- `60_Resources/Load testing with GitLab.md`
 - https://grafana.com/blog/load-testing-with-gitlab/

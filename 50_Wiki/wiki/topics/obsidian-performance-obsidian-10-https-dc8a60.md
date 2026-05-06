@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選.md"
+  - "60_Resources/Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選.md"
 summary: "Obsidianをメインのメモアプリとして活用するための、生産性を向上させる厳選プラグイン10選を紹介しています。"
 ---
 
@@ -46,5 +46,5 @@ Obsidianをメインのメモアプリとして活用するための、生産性
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選.md`
+- `60_Resources/Obsidianプラグイン活用術 - 生産性を最大化する厳選プラグイン10選.md`
 - https://zenn.dev/yuucu/articles/obsidian-plugin

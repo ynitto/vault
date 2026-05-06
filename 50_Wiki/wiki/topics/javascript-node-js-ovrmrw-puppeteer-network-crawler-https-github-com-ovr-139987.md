@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ovrmrwpuppeteer-network-crawler.md"
+  - "60_Resources/ovrmrwpuppeteer-network-crawler.md"
 summary: "`puppeteer-network-crawler`は、GoogleのPuppeteerを活用して、Webサイトのネットワークリクエストの発生タイミング…"
 ---
 
@@ -45,5 +45,5 @@ summary: "`puppeteer-network-crawler`は、GoogleのPuppeteerを活用して、W
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ovrmrwpuppeteer-network-crawler.md`
+- `60_Resources/ovrmrwpuppeteer-network-crawler.md`
 - https://github.com/ovrmrw/puppeteer-network-crawler/tree/master

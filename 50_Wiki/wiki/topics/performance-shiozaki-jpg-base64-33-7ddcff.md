@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md"
+  - "60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md"
 summary: "Web APIにおけるJPG画像の送信手法（Base64によるJSON埋め込み vs multipart/form-dataによるバイナリ転送）について、…"
 ---
 
@@ -46,5 +46,5 @@ Web APIにおけるJPG画像の送信手法（Base64によるJSON埋め込み vs
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md`
+- `60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md`
 - https://qiita.com/shiozaki/items/9d7aeac0dd6733a6e2fb

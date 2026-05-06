@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/git commit 時に実装を理解しているのか claude code に質問させる.md"
+  - "60_Resources/git commit 時に実装を理解しているのか claude code に質問させる.md"
 summary: "AIエージェントへの実装丸投げによる「コード理解度の低下」を防ぐため、Gitの`pre-commit`フックを利用して「実装内容の自己確認」を自動化した取…"
 ---
 
@@ -49,5 +49,5 @@ AIエージェントへの実装丸投げによる「コード理解度の低下
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/git commit 時に実装を理解しているのか claude code に質問させる.md`
+- `60_Resources/git commit 時に実装を理解しているのか claude code に質問させる.md`
 - https://zenn.dev/buno15/articles/bf8c2c7c5a137b

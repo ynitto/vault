@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Bash Scriptの作法.md"
+  - "60_Resources/Bash Scriptの作法.md"
 summary: "チーム開発でBashスクリプトを保守しやすくするためのコーディングルールです。"
 ---
 
@@ -43,5 +43,5 @@ summary: "チーム開発でBashスクリプトを保守しやすくするため
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Bash Scriptの作法.md`
+- `60_Resources/Bash Scriptの作法.md`
 - https://qiita.com/autotaker1984/items/bc758fcf368c1a167353

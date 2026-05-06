@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md"
+  - "60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md"
 summary: "hideack に関する人物ページ。"
 ---
 
@@ -26,5 +26,5 @@ hideack は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md`
+- `60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md`
 - https://hideack.site/entry/2015/03/16/194336

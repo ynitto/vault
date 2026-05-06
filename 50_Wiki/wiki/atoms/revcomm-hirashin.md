@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/CloudFrontを経由しないALBへのアクセスを制限する.md"
+  - "60_Resources/CloudFrontを経由しないALBへのアクセスを制限する.md"
 summary: "revcomm-hirashin に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ revcomm-hirashin は関連資料の著者・関係者として参照される人
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/CloudFrontを経由しないALBへのアクセスを制限する.md`
+- `60_Resources/CloudFrontを経由しないALBへのアクセスを制限する.md`
 - https://tech.revcomm.co.jp/cf-alb-access-restriction

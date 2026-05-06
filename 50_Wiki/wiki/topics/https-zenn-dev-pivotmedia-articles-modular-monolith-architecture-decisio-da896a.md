@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/なぜ今、モジュラーモノリスという意思決定をしたのか ― 課題認識の変化とタイミングの記録 ―.md"
+  - "60_Resources/なぜ今、モジュラーモノリスという意思決定をしたのか ― 課題認識の変化とタイミングの記録 ―.md"
 summary: "PIVOTのテックリードが、新機能（コメント機能）開発を機に「モジュラーモノリス」というアーキテクチャを採用した背景と、意思決定プロセスを振り返った記事で…"
 ---
 
@@ -40,5 +40,5 @@ PIVOTのテックリードが、新機能（コメント機能）開発を機に
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/なぜ今、モジュラーモノリスという意思決定をしたのか ― 課題認識の変化とタイミングの記録 ―.md`
+- `60_Resources/なぜ今、モジュラーモノリスという意思決定をしたのか ― 課題認識の変化とタイミングの記録 ―.md`
 - https://zenn.dev/pivotmedia/articles/modular-monolith-architecture-decision

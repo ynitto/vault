@@ -4,38 +4,38 @@ type: "product"
 tags:
   - "javascript"
 created: "2026-05-02"
-updated: "2026-05-02"
+updated: "2026-05-06"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/"new Function" 構文.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Hurry Puppeteer とのろいの子.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Integrating with Jest  Step CI Docs.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Javascripthtml in gitlab wiki page?.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian CLI.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Parse a JavaScript string function definition and return a function object. Does not use eval..md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TypeScript 5.0 new mode bundler & ESM.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Use the Redoc CE HTML element.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/XStateで状態遷移を共通言語にしよう.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/console.log() の代わりにdevtoolsのLogpointsを使う.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild - Plugins.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild を使おう.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/html-inline-external.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/http-graceful-shutdown.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ovrmrwpuppeteer-network-crawler.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/yaml-to-json.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【2024年最新版】ブックマークすべきGitHubリポジトリまとめ.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md"
+  - "60_Resources/new Function 構文.md"
+  - "60_Resources/Hurry Puppeteer とのろいの子.md"
+  - "60_Resources/Integrating with Jest  Step CI Docs.md"
+  - "60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md"
+  - "60_Resources/Javascript html in gitlab wiki page.md"
+  - "60_Resources/Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた.md"
+  - "60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md"
+  - "60_Resources/Obsidian CLI.md"
+  - "60_Resources/Parse a JavaScript string function definition and return a function object. Does not use eval..md"
+  - "60_Resources/TypeScript 5.0 new mode bundler & ESM.md"
+  - "60_Resources/Use the Redoc CE HTML element.md"
+  - "60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md"
+  - "60_Resources/XStateで状態遷移を共通言語にしよう.md"
+  - "60_Resources/console.log() の代わりにdevtoolsのLogpointsを使う.md"
+  - "60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md"
+  - "60_Resources/esbuild - Plugins.md"
+  - "60_Resources/esbuild を使おう.md"
+  - "60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md"
+  - "60_Resources/html-inline-external.md"
+  - "60_Resources/http-graceful-shutdown.md"
+  - "60_Resources/ovrmrwpuppeteer-network-crawler.md"
+  - "60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md"
+  - "60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md"
+  - "60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md"
+  - "60_Resources/yaml-to-json.md"
+  - "60_Resources/【2024年最新版】ブックマークすべきGitHubリポジトリまとめ.md"
+  - "60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md"
+  - "60_Resources/今モノレポやるならどのツール使うのがいいのん JavaScript.md"
+  - "60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md"
+  - "60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md"
 summary: "JavaScript 言語仕様と実装実務を整理するページ。"
 ---
 
@@ -105,6 +105,11 @@ JavaScript はブラウザとサーバの両方で使われる言語で、動的
 
 ## 詳細
 
+- `new Function 構文` は、動的関数生成がグローバルスコープで評価される点と、通常の関数宣言より制約が強い点を整理している。
+- `Javascript html in gitlab wiki page` は、GitLab Wiki 上では JavaScript 実行が制限されるため、CI + Wiki API で静的生成へ寄せるのが安全だと示す。
+- `一瞬で理解！JavaScriptの\`debounce\`テクニックとその実装方法` は、高頻度イベント制御を通じた UI 応答性と API 呼び出し削減の基本パターンを扱う。
+- `今モノレポやるならどのツール使うのがいいのん JavaScript` は、npm Workspaces を土台に Nx / Turborepo / Lerna をどう選ぶかという運用判断を整理している。
+
 - [[javascript-function-https-ja-javascript-info-new-function-let-c7877a]]: `new Function` は、実行時に文字列から関数を生成するための特殊な方法です。通常は使用されませんが、サーバから動的にコードを受け取るような特殊なケースで利用されます。
 - [[javascript-performance-hurry-puppeteer-https-030ed2]]: Puppeteerを使用して重いサイトを高速に操作・スクレイピングするための手法を検証した記録です。特定の万能な解決策はなく、対象サイトの仕様や目的に応じて手法を使い分ける必要性…
 *発行: 2022-11-23 / [[javascript-performance-hurry-puppeteer-https-030ed2]]*
@@ -172,63 +177,63 @@ JavaScript はブラウザとサーバの両方で使われる言語で、動的
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/"new Function" 構文.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources"new Function" 構文.md`
 - https://ja.javascript.info/new-function
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Hurry Puppeteer とのろいの子.md`
+- `60_Resources/Hurry Puppeteer とのろいの子.md`
 - https://qiita.com/nightyknite/items/41be6919020a2965d30a
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Integrating with Jest  Step CI Docs.md`
+- `60_Resources/Integrating with Jest  Step CI Docs.md`
 - https://docs.stepci.com/integration/jest.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md`
+- `60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md`
 - https://qiita.com/emadurandal/items/37fae542938907ef5d0c
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Javascripthtml in gitlab wiki page?.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/Javascripthtml in gitlab wiki page?.md`
 - https://stackoverflow.com/questions/59203694/javascript-html-in-gitlab-wiki-page
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた.md`
+- `60_Resources/Neovimでしていたタスク管理をObsidianのQuickAddプラグインでやってみた.md`
 - https://zenn.dev/moneyforward/articles/94d5a22f3ab4f1
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md`
+- `60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md`
 - https://zenn.dev/ubie_dev/articles/f64561d59918d1
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian CLI.md`
-- https://obsidian.md/ja/help/cli
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Parse a JavaScript string function definition and return a function object. Does not use eval..md`
+- `60_Resources/Obsidian CLI.md`
+- https://50_Wiki/wiki/atoms/obsidian.md/ja/help/cli
+- `60_Resources/Parse a JavaScript string function definition and return a function object. Does not use eval..md`
 - https://gist.github.com/lamberta/3768814
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TypeScript 5.0 new mode bundler & ESM.md`
+- `60_Resources/TypeScript 5.0 new mode bundler & ESM.md`
 - https://ayc0.github.io/posts/typescript-50-new-mode-bundler-esm/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Use the Redoc CE HTML element.md`
+- `60_Resources/Use the Redoc CE HTML element.md`
 - https://redocly.com/docs/redoc/deployment/html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md`
+- `60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md`
 - https://qiita.com/spring_raining/items/a040d647373cfe0e2201
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/XStateで状態遷移を共通言語にしよう.md`
+- `60_Resources/XStateで状態遷移を共通言語にしよう.md`
 - https://qiita.com/nsyee/items/9e67485c7af785ffd087
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/console.log() の代わりにdevtoolsのLogpointsを使う.md`
+- `60_Resources/console.log() の代わりにdevtoolsのLogpointsを使う.md`
 - https://qiita.com/Tsuyoshi84/items/e398ac4449a36286c0d7?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=2b58d4db17-Qiita_newsletter_590_11_01&utm_medium=email&utm_term=0_e44feaa081-2b58d4db17-53271669
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md`
+- `60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md`
 - https://github.com/dtjohnson/xlsx-populate
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild - Plugins.md`
+- `60_Resources/esbuild - Plugins.md`
 - https://esbuild.github.io/plugins/#filters
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild を使おう.md`
+- `60_Resources/esbuild を使おう.md`
 - https://qiita.com/Tsukina_7mochi/items/0aa38da6b9b4dd22eacd
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md`
+- `60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md`
 - https://github.com/ggrossetie/asciidoctor-web-pdf
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/html-inline-external.md`
+- `60_Resources/html-inline-external.md`
 - https://www.npmjs.com/package/html-inline-external
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/http-graceful-shutdown.md`
+- `60_Resources/http-graceful-shutdown.md`
 - https://www.npmjs.com/package/http-graceful-shutdown
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ovrmrwpuppeteer-network-crawler.md`
+- `60_Resources/ovrmrwpuppeteer-network-crawler.md`
 - https://github.com/ovrmrw/puppeteer-network-crawler/tree/master
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md`
+- `60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md`
 - https://qiita.com/joryulife/items/ce2af4fc50e0e2557958
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md`
+- `60_Resources/puppeteer経由でインストール済みのアプリケーションを操作する.md`
 - https://qiita.com/igara/items/e05683c26a346c28feca
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md`
+- `60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md`
 - https://github.com/sebhildebrandt/http-graceful-shutdown/tree/master
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/yaml-to-json.md`
+- `60_Resources/yaml-to-json.md`
 - https://www.npmjs.com/package/yaml-to-json
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【2024年最新版】ブックマークすべきGitHubリポジトリまとめ.md`
+- `60_Resources/【2024年最新版】ブックマークすべきGitHubリポジトリまとめ.md`
 - https://qiita.com/KNR109/items/b5dadd056da9b227041b
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md`
+- `60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md`
 - https://qiita.com/itinerant_programmer/items/5900b3ea0e6823223ee7
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
 - https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md`
+- `60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md`
 - https://qiita.com/ac_qiita/items/36ba56a71a40bb13edc6
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md`
+- `60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md`
 - https://coliss.com/articles/build-websites/operation/css/lever-css-tricks-by-steve8708.html

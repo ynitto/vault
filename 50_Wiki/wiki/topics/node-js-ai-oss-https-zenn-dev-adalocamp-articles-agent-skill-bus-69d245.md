@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md"
+  - "60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md"
 summary: "AIエージェントの運用現場で直面する「スキルの劣化」「タスク競合」「自己改善の欠如」という課題を解決するため、開発者が作成したOSS『**agent-sk…"
 ---
 
@@ -43,5 +43,5 @@ AIエージェントの運用現場で直面する「スキルの劣化」「タ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md`
+- `60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md`
 - https://zenn.dev/adalocamp/articles/agent-skill-bus

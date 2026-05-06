@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/openapi-generatordocsgeneratorscwiki.md at master.md"
+  - "60_Resources/openapi-generatordocsgeneratorscwiki.md at master.md"
 summary: "本ドキュメントは、OpenAPI Generatorにおける「cwiki」ジェネレーターの仕様書です。このジェネレーターは、OpenAPI定義からConf…"
 ---
 
@@ -42,5 +42,5 @@ summary: "本ドキュメントは、OpenAPI Generatorにおける「cwiki」ジ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/openapi-generatordocsgeneratorscwiki.md at master.md`
+- `60_Resources/openapi-generatordocsgeneratorscwiki.md at master.md`
 - https://github.com/OpenAPITools/openapi-generator/blob/master/docs/generators/cwiki.md

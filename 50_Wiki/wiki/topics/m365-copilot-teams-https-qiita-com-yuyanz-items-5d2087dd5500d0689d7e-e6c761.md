@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話.md"
+  - "60_Resources/【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話.md"
 summary: "Teamsのチャット内容をMicrosoft 365 Copilotで分析・整理し、案件の進捗管理を自動化する手法についての技術共有記事です。"
 ---
 
@@ -40,5 +40,5 @@ Teamsのチャット内容をMicrosoft 365 Copilotで分析・整理し、案件
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話.md`
+- `60_Resources/【M365 Copilot】Teamsでチャットするだけで進捗管理ができた話.md`
 - https://qiita.com/yuyanz/items/5d2087dd5500d0689d7e

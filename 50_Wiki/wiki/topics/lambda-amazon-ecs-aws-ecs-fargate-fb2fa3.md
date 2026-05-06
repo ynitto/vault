@@ -11,7 +11,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
+  - "60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
 summary: "本記事は、2022年までにAWSが実施したAmazon ECSおよびAWS Fargateにおけるコンテナスケーリング速度の劇的な改善について解説していま…"
 ---
 
@@ -55,5 +55,5 @@ summary: "本記事は、2022年までにAWSが実施したAmazon ECSおよびAW
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
+- `60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
 - https://qiita.com/yoshii0110/items/cbbfe797845dfa7e181d

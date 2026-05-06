@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ruleschanges always evaluates as true in MR pipeline.md"
+  - "60_Resources/ruleschanges always evaluates as true in MR pipeline.md"
 summary: "4871919 gold badges5757 silver badges7979 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ summary: "4871919 gold badges5757 silver badges7979 bronze badges に関する�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ruleschanges always evaluates as true in MR pipeline.md`
+- `60_Resources/ruleschanges always evaluates as true in MR pipeline.md`
 - https://stackoverflow.com/questions/70498372/ruleschanges-always-evaluates-as-true-in-mr-pipeline

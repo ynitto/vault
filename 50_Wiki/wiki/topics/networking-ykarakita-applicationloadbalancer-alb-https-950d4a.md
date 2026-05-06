@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md"
+  - "60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md"
 summary: "AWSのApplication Load Balancer (ALB) を自己署名証明書を使用してHTTPS化する手順について解説した記事です。"
 ---
 
@@ -45,5 +45,5 @@ AWSのApplication Load Balancer (ALB) を自己署名証明書を使用してHTT
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md`
+- `60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md`
 - https://qiita.com/klynk2024/items/76db8d65838857227bd9

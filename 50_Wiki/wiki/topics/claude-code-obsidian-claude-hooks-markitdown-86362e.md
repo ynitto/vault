@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code Hooks × markitdown で非MDファイルを透過的にMarkdown変換する.md"
+  - "60_Resources/Claude Code Hooks × markitdown で非MDファイルを透過的にMarkdown変換する.md"
 summary: "Claude Code の `PreToolUse Hook` と Microsoft の `markitdown` を活用し、PDFやOfficeファイ…"
 ---
 
@@ -46,5 +46,5 @@ Claude Code の `PreToolUse Hook` と Microsoft の `markitdown` を活用し、
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code Hooks × markitdown で非MDファイルを透過的にMarkdown変換する.md`
+- `60_Resources/Claude Code Hooks × markitdown で非MDファイルを透過的にMarkdown変換する.md`
 - https://zenn.dev/tuzuminami/articles/e487adfd650289

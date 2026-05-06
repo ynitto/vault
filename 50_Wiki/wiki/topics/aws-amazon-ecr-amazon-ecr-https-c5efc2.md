@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md"
+  - "60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md"
 summary: "Amazon ECR ライフサイクルポリシーの概要"
 ---
 
@@ -45,5 +45,5 @@ Amazon ECR ライフサイクルポリシーの概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md`
+- `60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/LifecyclePolicies.html

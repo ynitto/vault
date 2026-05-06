@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/websocket ALB.md"
+  - "60_Resources/websocket ALB.md"
 summary: "本スクラップは、WebSocketをAWSのApplication Load Balancer (ALB) で運用する際の構成および注意点をまとめたもので…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本スクラップは、WebSocketをAWSのApplication Load Balancer (A
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/websocket ALB.md`
+- `60_Resources/websocket ALB.md`
 - https://zenn.dev/ymktmk/scraps/71c69a061a9acd

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to use Puppeteer inside a Docker container.md"
+  - "60_Resources/How to use Puppeteer inside a Docker container.md"
 summary: "この記事は、Node.jsのライブラリ「Puppeteer」をDockerコンテナ内で安定して実行するための最適な設定方法とDockerfileの例を解説…"
 ---
 
@@ -46,5 +46,5 @@ summary: "この記事は、Node.jsのライブラリ「Puppeteer」をDockerコ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to use Puppeteer inside a Docker container.md`
+- `60_Resources/How to use Puppeteer inside a Docker container.md`
 - https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c

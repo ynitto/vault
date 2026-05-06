@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md"
+  - "60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md"
 summary: "PuppeteerによるフルページスクリーンショットのTips"
 ---
 
@@ -43,5 +43,5 @@ PuppeteerによるフルページスクリーンショットのTips
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md`
+- `60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md`
 - https://swet.dena.com/entry/2018/04/26/152326

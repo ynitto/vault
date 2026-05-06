@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/n8n（IFTTT,Zappierの代替）をセルフホストして自動化を快適にする.md"
+  - "60_Resources/n8n（IFTTT,Zappierの代替）をセルフホストして自動化を快適にする.md"
 summary: "malvageee に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ malvageee は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/n8n（IFTTT,Zappierの代替）をセルフホストして自動化を快適にする.md`
+- `60_Resources/n8n（IFTTT,Zappierの代替）をセルフホストして自動化を快適にする.md`
 - https://qiita.com/malvageee/items/eda4eb3b71a31bc78a4f

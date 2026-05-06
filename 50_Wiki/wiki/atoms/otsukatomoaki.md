@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/話題のbrowser-use使ってみた.md"
+  - "60_Resources/話題のbrowser-use使ってみた.md"
 summary: "OtsukaTomoaki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ OtsukaTomoaki は関連資料の著者・関係者として参照される人物
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/話題のbrowser-use使ってみた.md`
+- `60_Resources/話題のbrowser-use使ってみた.md`
 - https://qiita.com/OtsukaTomoaki/items/d108690f833a67eaee76

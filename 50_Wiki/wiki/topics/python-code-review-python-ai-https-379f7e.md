@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト.md"
+  - "60_Resources/【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト.md"
 summary: "AIが生成するPythonコードには、開発速度を向上させる反面、セキュリティや保守性の観点で放置できない「危険なコードパターン」が混入することがあります。…"
 ---
 
@@ -52,5 +52,5 @@ AIが生成するPythonコードには、開発速度を向上させる反面、
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト.md`
+- `60_Resources/【Python】生成AIがこのコード書いたら気をつけろ！ - 事故らないためのチェックリスト.md`
 - https://qiita.com/Sakai_path/items/d4ec1e848672033ca256

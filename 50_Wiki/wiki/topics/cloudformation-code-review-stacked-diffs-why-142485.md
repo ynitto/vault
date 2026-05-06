@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Stacked Diffs (and why you should know about them).md"
+  - "60_Resources/Stacked Diffs (and why you should know about them).md"
 summary: "この記事は、MetaやGoogleで採用されている効率的なコードレビュー手法「Stacked Diffs（スタックド・ディフ）」について解説しています。こ…"
 ---
 
@@ -48,5 +48,5 @@ summary: "この記事は、MetaやGoogleで採用されている効率的なコ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Stacked Diffs (and why you should know about them).md`
+- `60_Resources/Stacked Diffs (and why you should know about them).md`
 - https://newsletter.pragmaticengineer.com/p/stacked-diffs

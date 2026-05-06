@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方.md"
+  - "60_Resources/コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方.md"
 summary: "本記事は、OSSプロジェクト「agency-agents」のガイドラインを基に、高品質なAIエージェントを設計するための5つの原則とテンプレートを解説して…"
 ---
 
@@ -43,5 +43,5 @@ summary: "本記事は、OSSプロジェクト「agency-agents」のガイドラ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方.md`
+- `60_Resources/コピペで使えるエージェント設計テンプレート ── agency-agentsの5原則から学ぶ「良いエージェント」の作り方.md`
 - https://qiita.com/nogataka/items/d4ad685c7901f2056c6f

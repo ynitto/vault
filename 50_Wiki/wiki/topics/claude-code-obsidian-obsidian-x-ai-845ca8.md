@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md"
+  - "60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md"
 summary: "Qiita記事「Obsidian x AIで執筆革命！」要約"
 ---
 
@@ -49,5 +49,5 @@ Qiita記事「Obsidian x AIで執筆革命！」要約
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md`
+- `60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md`
 - https://qiita.com/toki_mwc/items/c1c448344a2ecb810eb1

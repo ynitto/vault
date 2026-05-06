@@ -1,5 +1,10 @@
-Inbox/
+00_Inbox/Logs/*
+
 .obsidian/*
 !.obsidian/bookmarks.json
+60_Resources/Logs/
+
 .DS_Store
 Thumbs.db
+__pycache__/
+*.pyc

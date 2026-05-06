@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md"
+  - "60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md"
 summary: "xlsx-populateは、Node.jsおよびブラウザ環境で動作する、Excelファイル（.xlsx）の解析・生成用JavaScriptライブラリです…"
 ---
 
@@ -45,5 +45,5 @@ xlsx-populateは、Node.jsおよびブラウザ環境で動作する、Excelフ�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md`
+- `60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md`
 - https://github.com/dtjohnson/xlsx-populate

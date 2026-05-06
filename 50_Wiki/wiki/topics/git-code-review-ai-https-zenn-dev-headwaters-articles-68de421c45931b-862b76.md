@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIの成果物に責任を取る方法.md"
+  - "60_Resources/AIの成果物に責任を取る方法.md"
 summary: "AIコーディング全盛期において、エンジニアは「自ら書く者」から「AIをマネジメントする意思決定者」へ役割が変化しています。AIに全責任を負わせるのではなく…"
 ---
 
@@ -45,5 +45,5 @@ AIコーディング全盛期において、エンジニアは「自ら書く者
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIの成果物に責任を取る方法.md`
+- `60_Resources/AIの成果物に責任を取る方法.md`
 - https://zenn.dev/headwaters/articles/68de421c45931b

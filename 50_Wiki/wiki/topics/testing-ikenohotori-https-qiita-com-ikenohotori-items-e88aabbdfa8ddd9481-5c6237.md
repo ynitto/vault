@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/『単体テストの考え方使い方』が良すぎた.md"
+  - "60_Resources/『単体テストの考え方使い方』が良すぎた.md"
 summary: "本書『単体テストの考え方/使い方』の書評記事。単体テストの目的を「プロジェクトの成長維持」と定義し、保守性や信頼性を高めるためのテストのあり方、手法、設計…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本書『単体テストの考え方/使い方』の書評記事。単
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/『単体テストの考え方使い方』が良すぎた.md`
+- `60_Resources/『単体テストの考え方使い方』が良すぎた.md`
 - https://qiita.com/ikenohotori/items/e88aabbdfa8ddd94810a

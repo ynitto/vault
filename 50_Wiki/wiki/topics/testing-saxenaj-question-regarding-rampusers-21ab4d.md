@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Question regarding rampusers and constantusers.md"
+  - "60_Resources/Question regarding rampusers and constantusers.md"
 summary: "Gatlingのユーザー注入プロファイルに関する要約"
 ---
 
@@ -46,5 +46,5 @@ Gatlingのユーザー注入プロファイルに関する要約
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Question regarding rampusers and constantusers.md`
+- `60_Resources/Question regarding rampusers and constantusers.md`
 - https://community.gatling.io/t/question-regarding-rampusers-and-constantusers/7486/3

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot サブエージェントによるオーケストレーター パターンの実践.md"
+  - "60_Resources/GitHub Copilot サブエージェントによるオーケストレーター パターンの実践.md"
 summary: "VS Code v1.107の新機能である「カスタムエージェント（.agent.md）を`runSubagent`で直接呼び出す機能」を活用し、開発ワーク…"
 ---
 
@@ -46,5 +46,5 @@ VS Code v1.107の新機能である「カスタムエージェント（.agent.md
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot サブエージェントによるオーケストレーター パターンの実践.md`
+- `60_Resources/GitHub Copilot サブエージェントによるオーケストレーター パターンの実践.md`
 - https://zenn.dev/openjny/articles/e11450f61d067f

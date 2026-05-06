@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md"
+  - "60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md"
 summary: "y_okasuke に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ y_okasuke は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md`
+- `60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md`
 - https://qiita.com/y_okasuke/items/4523d91da69aae2b40db

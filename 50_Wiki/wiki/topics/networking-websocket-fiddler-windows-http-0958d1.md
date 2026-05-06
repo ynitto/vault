@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Fiddler】Windows 上で HTTP  HTTPS 通信をキャプチャする.md"
+  - "60_Resources/【Fiddler】Windows 上で HTTP  HTTPS 通信をキャプチャする.md"
 summary: "Windows環境におけるHTTP/HTTPS通信のキャプチャ・解析ツール「Fiddler Classic」の導入から、基本的な操作方法およびログ保存手順…"
 ---
 
@@ -49,5 +49,5 @@ Windows環境におけるHTTP/HTTPS通信のキャプチャ・解析ツール「
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Fiddler】Windows 上で HTTP  HTTPS 通信をキャプチャする.md`
+- `60_Resources/【Fiddler】Windows 上で HTTP  HTTPS 通信をキャプチャする.md`
 - https://qiita.com/nt-7/items/c897e9460ef43af6ed14

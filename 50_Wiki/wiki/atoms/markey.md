@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Puppeteerが遅いなと感じたときの高速化Tips.md"
+  - "60_Resources/Puppeteerが遅いなと感じたときの高速化Tips.md"
 summary: "markey に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ markey は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Puppeteerが遅いなと感じたときの高速化Tips.md`
+- `60_Resources/Puppeteerが遅いなと感じたときの高速化Tips.md`
 - https://qiita.com/markey/items/ebf2b48626b6ac61ee89

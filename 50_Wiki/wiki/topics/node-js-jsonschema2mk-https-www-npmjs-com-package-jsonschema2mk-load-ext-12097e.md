@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/jsonschema2mk.md"
+  - "60_Resources/jsonschema2mk.md"
 summary: "`jsonschema2mk`は、JSON Schema仕様からMarkdown形式のドキュメントを生成するツールです。"
 ---
 
@@ -43,5 +43,5 @@ summary: "`jsonschema2mk`は、JSON Schema仕様からMarkdown形式のドキュ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/jsonschema2mk.md`
+- `60_Resources/jsonschema2mk.md`
 - https://www.npmjs.com/package/jsonschema2mk#load-external-plugins-option-plugin

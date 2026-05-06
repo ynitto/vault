@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/yaml-to-json.md"
+  - "60_Resources/yaml-to-json.md"
 summary: "`yaml-to-json`は、YAMLファイルをJSON形式に変換するためのコマンドラインおよびNode.js用ライブラリです。特にフロントマターを含む…"
 ---
 
@@ -46,5 +46,5 @@ summary: "`yaml-to-json`は、YAMLファイルをJSON形式に変換するため
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/yaml-to-json.md`
+- `60_Resources/yaml-to-json.md`
 - https://www.npmjs.com/package/yaml-to-json

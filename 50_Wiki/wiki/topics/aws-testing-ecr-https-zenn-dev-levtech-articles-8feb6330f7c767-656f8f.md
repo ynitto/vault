@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECRはイミュータブルにしておくと安全.md"
+  - "60_Resources/ECRはイミュータブルにしておくと安全.md"
 summary: "本記事では、AWS ECRのコンテナイメージを「イミュータブル（不変）」に設定することによるセキュリティと運用のメリットを解説しています。"
 ---
 
@@ -52,5 +52,5 @@ summary: "本記事では、AWS ECRのコンテナイメージを「イミュー
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECRはイミュータブルにしておくと安全.md`
+- `60_Resources/ECRはイミュータブルにしておくと安全.md`
 - https://zenn.dev/levtech/articles/8feb6330f7c767

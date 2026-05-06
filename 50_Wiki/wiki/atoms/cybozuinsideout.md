@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md"
+  - "60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md"
 summary: "cybozuinsideout に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ cybozuinsideout は関連資料の著者・関係者として参照される人�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md`
+- `60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md`
 - https://blog.cybozu.io/entry/2126

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md"
+  - "60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md"
 summary: "suetake に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ suetake は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md`
+- `60_Resources/JSONもどき（値として関数を持つ）をJSON.stringifyしたりJSON.parseしたりする.md`
 - https://qiita.com/emadurandal/items/37fae542938907ef5d0c

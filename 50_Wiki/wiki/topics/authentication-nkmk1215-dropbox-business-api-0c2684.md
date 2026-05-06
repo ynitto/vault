@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Dropbox Business APIの基礎知識.md"
+  - "60_Resources/Dropbox Business APIの基礎知識.md"
 summary: "本記事は「DBX Platform デベロッパーガイド」を読んだ際の個人メモです。Dropbox APIの認証方式や名前空間（チームフォルダ/チームスペー…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本記事は「DBX Platform デベロッパーガイド」を読んだ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Dropbox Business APIの基礎知識.md`
+- `60_Resources/Dropbox Business APIの基礎知識.md`
 - https://qiita.com/nkmk1215/items/7b1427a74a74b473266c

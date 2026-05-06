@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSで通常時とスパイク時のオートスケールを運用する.md"
+  - "60_Resources/ECSで通常時とスパイク時のオートスケールを運用する.md"
 summary: "Juju_62q に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Juju_62q は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSで通常時とスパイク時のオートスケールを運用する.md`
+- `60_Resources/ECSで通常時とスパイク時のオートスケールを運用する.md`
 - https://tech.timee.co.jp/entry/2020/08/31/191612

@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Auto Scalingの段階スケーリングポリシーについて.md"
+  - "60_Resources/Auto Scalingの段階スケーリングポリシーについて.md"
 summary: "段階スケーリング（Step Scaling Policies）の概要"
 ---
 
@@ -52,5 +52,5 @@ summary: "段階スケーリング（Step Scaling Policies）の概要"
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Auto Scalingの段階スケーリングポリシーについて.md`
+- `60_Resources/Auto Scalingの段階スケーリングポリシーについて.md`
 - https://dev.classmethod.jp/articles/auto-scaling-steps/

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました.md"
+  - "60_Resources/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました.md"
 summary: "本記事は、Excelブックを生成AIに適した構造化テキスト（Markdown）へ変換する、ローカル完結型Webツール「xlsx2md」の紹介です。機密情報…"
 ---
 
@@ -40,5 +40,5 @@ summary: "本記事は、Excelブックを生成AIに適した構造化テキス
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました.md`
+- `60_Resources/xlsx2md Excelブックを生成AI向けMarkdownに変換する `xlsx2md` を作りました.md`
 - https://qiita.com/igapyon/items/cfbbc0d6112059b26522

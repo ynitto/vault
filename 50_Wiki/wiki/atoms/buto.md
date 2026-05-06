@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/typescript uuid桁数を短くする.md"
+  - "60_Resources/typescript uuid桁数を短くする.md"
 summary: "buto に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ buto は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/typescript uuid桁数を短くする.md`
+- `60_Resources/typescript uuid桁数を短くする.md`
 - https://qiita.com/buto/items/1b6cc0b244dc1d42da79

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Stacked Diffs (and why you should know about them).md"
+  - "60_Resources/Stacked Diffs (and why you should know about them).md"
 summary: "Gergely Orosz に関する人物ページ。"
 ---
 
@@ -26,5 +26,5 @@ Gergely Orosz は関連資料の著者・関係者として参照される人物
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Stacked Diffs (and why you should know about them).md`
+- `60_Resources/Stacked Diffs (and why you should know about them).md`
 - https://newsletter.pragmaticengineer.com/p/stacked-diffs

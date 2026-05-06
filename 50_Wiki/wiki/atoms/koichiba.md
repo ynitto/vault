@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md"
+  - "60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md"
 summary: "koichiba に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ koichiba は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md`
+- `60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md`
 - https://qiita.com/FumioNonaka/items/3fe39911e3f2479128e8

@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/要素の差分、足し合わせを計算するNumPyのdiff関数とcumsum関数の使い方.md"
+  - "60_Resources/要素の差分、足し合わせを計算するNumPyのdiff関数とcumsum関数の使い方.md"
 summary: "NumPyの要素操作関数：`np.diff` と `np.cumsum`"
 ---
 
@@ -43,5 +43,5 @@ NumPyの要素操作関数：`np.diff` と `np.cumsum`
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/要素の差分、足し合わせを計算するNumPyのdiff関数とcumsum関数の使い方.md`
+- `60_Resources/要素の差分、足し合わせを計算するNumPyのdiff関数とcumsum関数の使い方.md`
 - https://deepage.net/features/numpy-diff.html

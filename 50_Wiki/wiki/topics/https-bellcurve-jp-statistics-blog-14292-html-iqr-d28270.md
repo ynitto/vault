@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/外れ値の見つけ方.md"
+  - "60_Resources/外れ値の見つけ方.md"
 summary: "外れ値の検出方法：IQR（四分位範囲）を用いたアプローチ"
 ---
 
@@ -40,5 +40,5 @@ summary: "外れ値の検出方法：IQR（四分位範囲）を用いたアプ�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/外れ値の見つけ方.md`
+- `60_Resources/外れ値の見つけ方.md`
 - https://bellcurve.jp/statistics/blog/14292.html

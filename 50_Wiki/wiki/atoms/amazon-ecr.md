@@ -8,12 +8,12 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECRはイミュータブルにしておくと安全.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSでタスクが起動しない場合に確認すべきこと.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md"
+  - "60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md"
+  - "60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md"
+  - "60_Resources/ECRはイミュータブルにしておくと安全.md"
+  - "60_Resources/ECSでタスクが起動しない場合に確認すべきこと.md"
+  - "60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md"
+  - "60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md"
 summary: "AWS のコンテナイメージレジストリ。"
 ---
 
@@ -61,15 +61,15 @@ Amazon ECR はコンテナイメージ保存・配布・クリーンアップを
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md`
+- `60_Resources/Amazon ECR でのライフサイクルポリシーを使用したイメージのクリーンアップの自動化.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonECR/latest/userguide/LifecyclePolicies.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md`
+- `60_Resources/ECR ライフサイクルポリシーを利用したImageの自動削除.md`
 - https://qiita.com/Jason/items/d12139b83643474b3666
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECRはイミュータブルにしておくと安全.md`
+- `60_Resources/ECRはイミュータブルにしておくと安全.md`
 - https://zenn.dev/levtech/articles/8feb6330f7c767
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSでタスクが起動しない場合に確認すべきこと.md`
+- `60_Resources/ECSでタスクが起動しない場合に確認すべきこと.md`
 - https://qiita.com/x-color/items/8f986d01d6a6100b7d5b
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md`
+- `60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md`
 - https://dev.classmethod.jp/articles/vpc-endpoints-for-ecs-2022/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md`
+- `60_Resources/Fargate の起動時間が短縮される Seekable OCI を試してみた.md`
 - https://zenn.dev/lincwell_inc/articles/test_seekable_oci

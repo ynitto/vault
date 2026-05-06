@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md"
+  - "60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md"
 summary: "Claude Codeで作業の中断・再開をスムーズにするための、Markdownベースの個人用記憶領域「agent-memory」スキルの導入方法と利点に…"
 ---
 
@@ -46,5 +46,5 @@ Claude Codeで作業の中断・再開をスムーズにするための、Markdo
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md`
+- `60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md`
 - https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory

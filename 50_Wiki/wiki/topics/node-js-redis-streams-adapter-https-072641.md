@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Redis Streams adapter.md"
+  - "60_Resources/Redis Streams adapter.md"
 summary: "Socket.IO Redis Streams Adapter の概要"
 ---
 
@@ -43,5 +43,5 @@ Socket.IO Redis Streams Adapter の概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Redis Streams adapter.md`
+- `60_Resources/Redis Streams adapter.md`
 - https://socket.io/docs/v4/redis-streams-adapter/

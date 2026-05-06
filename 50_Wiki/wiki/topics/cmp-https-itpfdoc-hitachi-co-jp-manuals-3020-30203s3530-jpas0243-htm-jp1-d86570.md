@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/cmpコマンド（バイナリファイルの内容を比較する）.md"
+  - "60_Resources/cmpコマンド（バイナリファイルの内容を比較する）.md"
 summary: "JP1/Advanced Shell cmpコマンド概要"
 ---
 
@@ -36,5 +36,5 @@ JP1/Advanced Shell cmpコマンド概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/cmpコマンド（バイナリファイルの内容を比較する）.md`
+- `60_Resources/cmpコマンド（バイナリファイルの内容を比較する）.md`
 - https://itpfdoc.hitachi.co.jp/manuals/3020/30203s3530/JPAS0243.HTM

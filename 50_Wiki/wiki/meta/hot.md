@@ -1,9 +1,21 @@
 # Hot Pages（最近のコンテキスト）
 
-最終更新: 2026-05-04
+最終更新: 2026-05-06
 
 <!-- 新しい取り込みで更新される。最大20件 -->
 
+- [[3d-scan-cleanup]] — 2026-05-06 作成
+- [[epson-connect-api]] — 2026-05-06 作成
+- [[web-visual-editors]] — 2026-05-06 作成
+- [[archive-and-streaming-utilities]] — 2026-05-06 作成
+- [[approximate-data-structures]] — 2026-05-06 作成
+- [[local-http-tunneling]] — 2026-05-06 作成
+- [[statistical-sampling]] — 2026-05-06 作成
+- [[reverse-spec-generation]] — 2026-05-06 作成
+- [[harness-engineering]] — 2026-05-06 作成
+- [[spec-kit-runtime-view]] — 2026-05-06 作成
+- [[qmd]] — 2026-05-06 作成
+- [[copilot-chat-log-observability]] — 2026-05-06 更新
 - [[corpus2skill]] — 2026-05-04 作成
 - [[hierarchical-rag]] — 2026-05-04 作成
 - [[claude-opus-4-7]] — 2026-05-04 作成

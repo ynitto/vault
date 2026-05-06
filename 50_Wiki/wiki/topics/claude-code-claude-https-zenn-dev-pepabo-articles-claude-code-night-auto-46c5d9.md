@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口.md"
+  - "60_Resources/Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口.md"
 summary: "Claude Codeを夜間に自走させ、朝に効率よく成果を確認するための「入口（自動化・実行）」と「出口（カンバンによる可視化・管理）」を統合した運用設計…"
 ---
 
@@ -43,5 +43,5 @@ Claude Codeを夜間に自走させ、朝に効率よく成果を確認するた
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口.md`
+- `60_Resources/Claude Code を夜間に走らせ、朝カンバンで拾う — 自走パイプラインの入口と出口.md`
 - https://zenn.dev/pepabo/articles/claude-code-night-autopilot-kanban-loop

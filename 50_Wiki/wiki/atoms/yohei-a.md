@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
+  - "60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
 summary: "yohei-a に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ yohei-a は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
+- `60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
 - https://yohei-a.hatenablog.jp/entry/20210115/1610705961

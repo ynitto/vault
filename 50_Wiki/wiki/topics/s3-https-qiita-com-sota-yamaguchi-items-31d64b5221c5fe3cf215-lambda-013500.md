@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/s3バケットの画像の解決をポーリングする.md"
+  - "60_Resources/s3バケットの画像の解決をポーリングする.md"
 summary: "S3への画像アップロード後、Lambdaによるリサイズ処理が完了するまでのタイムラグによって画像参照時に403エラーが発生する問題を解決するため、クライア…"
 ---
 
@@ -40,5 +40,5 @@ S3への画像アップロード後、Lambdaによるリサイズ処理が完了
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/s3バケットの画像の解決をポーリングする.md`
+- `60_Resources/s3バケットの画像の解決をポーリングする.md`
 - https://qiita.com/sota_yamaguchi/items/31d64b5221c5fe3cf215

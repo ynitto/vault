@@ -5,56 +5,58 @@ tags:
   - "nodejs"
   - "javascript"
 created: "2026-05-02"
-updated: "2026-05-02"
+updated: "2026-05-06"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/@spurreiterwstun.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Admin UI.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Dockerコンテナ上でPuppeteerの実装.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to use Puppeteer inside a Docker container.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Integrating with Jest  Step CI Docs.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js で https をサポートする http proxy サーバを 80行で書いた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.jsでコマンドライン引数を取得する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian textlintの導入方法を解説.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Redis Streams adapter.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/VSCode＋Textlintで文章校正をする.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild を使おう.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/express-bunyan-logger.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/highWaterMarkから探るNode.jsのStreamの仕組み.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/html-inline-external.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/http-graceful-shutdown.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/jsonschema2mk.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/node-html-parser.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm link について調べる.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm versionコマンドでpackageのバージョンを上げる.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm-run-allでnpm scriptsを整理してみた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ovrmrwpuppeteer-network-crawler.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/qrcode.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/socket.ioのパケットを(触りだけ)キャプチャ.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/textlint-jatextlint-rule-preset-JTF-style JTF日本語標準スタイルガイド for textlint..md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/yaml-to-json.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【GitHub Actions】PRが来たら自動でJSONスキーマを検証する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/文章校正を行うためのtextlint入門.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/興味本位にTransformストリームを実装する.md"
+  - "60_Resources/@spurreiterwstun.md"
+  - "60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md"
+  - "60_Resources/Admin UI.md"
+  - "60_Resources/Dockerコンテナ上でPuppeteerの実装.md"
+  - "60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md"
+  - "60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md"
+  - "60_Resources/How to use Puppeteer inside a Docker container.md"
+  - "60_Resources/Integrating with Jest  Step CI Docs.md"
+  - "60_Resources/Node.js Docker baseイメージには alpine  distroless  ubuntu slim 構成がよさそう.md"
+  - "60_Resources/archiverjsnode-archiver a streaming interface for archive generation.md"
+  - "60_Resources/samcdaynode-stream-buffer Readable and Writable Streams that use backing Buffers..md"
+  - "60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md"
+  - "60_Resources/Node.js で https をサポートする http proxy サーバを 80行で書いた.md"
+  - "60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md"
+  - "60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md"
+  - "60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md"
+  - "60_Resources/Node.jsでコマンドライン引数を取得する.md"
+  - "60_Resources/Obsidian textlintの導入方法を解説.md"
+  - "60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md"
+  - "60_Resources/Redis Streams adapter.md"
+  - "60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md"
+  - "60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md"
+  - "60_Resources/VSCode＋Textlintで文章校正をする.md"
+  - "60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md"
+  - "60_Resources/esbuild を使おう.md"
+  - "60_Resources/express-bunyan-logger.md"
+  - "60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md"
+  - "60_Resources/highWaterMarkから探るNode.jsのStreamの仕組み.md"
+  - "60_Resources/html-inline-external.md"
+  - "60_Resources/http-graceful-shutdown.md"
+  - "60_Resources/jsonschema2mk.md"
+  - "60_Resources/node-html-parser.md"
+  - "60_Resources/npm link について調べる.md"
+  - "60_Resources/npm versionコマンドでpackageのバージョンを上げる.md"
+  - "60_Resources/npm-run-allでnpm scriptsを整理してみた.md"
+  - "60_Resources/ovrmrwpuppeteer-network-crawler.md"
+  - "60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md"
+  - "60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md"
+  - "60_Resources/qrcode.md"
+  - "60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md"
+  - "60_Resources/socket.ioのパケットを(触りだけ)キャプチャ.md"
+  - "60_Resources/textlint-jatextlint-rule-preset-JTF-style JTF日本語標準スタイルガイド for textlint..md"
+  - "60_Resources/yaml-to-json.md"
+  - "60_Resources/【GitHub Actions】PRが来たら自動でJSONスキーマを検証する.md"
+  - "60_Resources/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md"
+  - "60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md"
+  - "60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md"
+  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
+  - "60_Resources/文章校正を行うためのtextlint入門.md"
+  - "60_Resources/興味本位にTransformストリームを実装する.md"
 summary: "Node.js ランタイムと周辺ツール群。"
 ---
 
@@ -160,6 +162,9 @@ Node.js は JavaScript をサーバサイドやツール開発で利用するた
 
 ## 詳細
 
+- Node.js の周辺では、アーカイブ生成をストリームで扱う `archiver` や、テスト/デバッグ向けの `stream-buffer` のような補助ライブラリが実務を支える。
+- ベースイメージ選定では `node:alpine` を安易に選ばず、slim / distroless / Ubuntu+slim のトレードオフを見ながら運用性と再現性を取る設計が重要になる。
+
 - [[authentication-networking-spurreiter-wstun-https-www-npmjs-com-package-s-276e96]]: `@spurreiter/wstun` は、ファイアウォール越しやグローバルIPを持たない環境での通信を可能にする、WebSocketベースのTCPトンネリング（前方および逆方向…
 *発行: 2026-03-29 / [[authentication-networking-spurreiter-wstun-https-www-npmjs-com-package-s-276e96]]*
 - [[node-js-ai-oss-https-zenn-dev-adalocamp-articles-agent-skill-bus-69d245]]: AIエージェントの運用現場で直面する「スキルの劣化」「タスク競合」「自己改善の欠如」という課題を解決するため、開発者が作成したOSS『**agent-skill-bus**』の紹…
@@ -264,99 +269,99 @@ Node.js は JavaScript をサーバサイドやツール開発で利用するた
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/@spurreiterwstun.md`
+- `60_Resources/@spurreiterwstun.md`
 - https://www.npmjs.com/package/@spurreiter/wstun
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md`
+- `60_Resources/AIエージェントのスキルを自己改善させるOSSを作った.md`
 - https://zenn.dev/adalocamp/articles/agent-skill-bus
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Admin UI.md`
+- `60_Resources/Admin UI.md`
 - https://socket.io/docs/v4/admin-ui/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Dockerコンテナ上でPuppeteerの実装.md`
+- `60_Resources/Dockerコンテナ上でPuppeteerの実装.md`
 - https://qiita.com/kouphasi/items/991c1b9da6d685b9cc36
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md`
+- `60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md`
 - https://github.com/FGRibreau/node-language-detect
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md`
+- `60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md`
 - https://stackoverflow.com/questions/77458490/how-to-convert-svg-to-png-in-node-js-including-base64-encoded-images
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to use Puppeteer inside a Docker container.md`
+- `60_Resources/How to use Puppeteer inside a Docker container.md`
 - https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Integrating with Jest  Step CI Docs.md`
+- `60_Resources/Integrating with Jest  Step CI Docs.md`
 - https://docs.stepci.com/integration/jest.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md`
 - https://zenn.dev/jrsyo/articles/e42de409e62f5d
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md`
+- `60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md`
 - https://qiita.com/suin/items/ba35a78c0b7268e8e7d1
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js で https をサポートする http proxy サーバを 80行で書いた.md`
+- `60_Resources/Node.js で https をサポートする http proxy サーバを 80行で書いた.md`
 - https://qiita.com/LightSpeedC/items/5c1edc2c974206c743f4
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md`
+- `60_Resources/Node.js でメモリ肥大化の原因を特定してみた.md`
 - https://zenn.dev/ubie_dev/articles/f64561d59918d1
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md`
+- `60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md`
 - https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md`
+- `60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md`
 - https://qiita.com/omukaik/items/caef4953c2580fdee5ee
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Node.jsでコマンドライン引数を取得する.md`
+- `60_Resources/Node.jsでコマンドライン引数を取得する.md`
 - https://qiita.com/furusin_oriver/items/f030d1eaa9e7b54233c3
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian textlintの導入方法を解説.md`
+- `60_Resources/Obsidian textlintの導入方法を解説.md`
 - https://notes.spisignal.jp/Esseys/Obsidian+textlint%E3%81%AE%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95%E3%82%92%E8%A7%A3%E8%AA%AC
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md`
+- `60_Resources/Obsidian x AIで執筆革命！Windows(WSL2)でClaude CodeとGemini CLIを連携させる最強ガイド.md`
 - https://qiita.com/toki_mwc/items/c1c448344a2ecb810eb1
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Redis Streams adapter.md`
+- `60_Resources/Redis Streams adapter.md`
 - https://socket.io/docs/v4/redis-streams-adapter/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md`
+- `60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md`
 - https://qiita.com/suzuki_sh/items/f3349efbfe1bdfc0c634
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md`
+- `60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md`
 - https://qiita.com/yuzukaki/items/68ca1aed777b296145d5
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/VSCode＋Textlintで文章校正をする.md`
+- `60_Resources/VSCode＋Textlintで文章校正をする.md`
 - https://qiita.com/fuk101/items/d6e0160f9466363649d7
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md`
+- `60_Resources/dtjohnsonxlsx-populate Excel XLSX parsergenerator written in JavaScript with Node.js and browser support, jQueryd3-style method chaining, encryption, and a focus on keeping existing workbook features and styles in tact..md`
 - https://github.com/dtjohnson/xlsx-populate
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild を使おう.md`
+- `60_Resources/esbuild を使おう.md`
 - https://qiita.com/Tsukina_7mochi/items/0aa38da6b9b4dd22eacd
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/express-bunyan-logger.md`
+- `60_Resources/express-bunyan-logger.md`
 - https://www.npmjs.com/package/express-bunyan-logger
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md`
+- `60_Resources/ggrossetieasciidoctor-web-pdf Convert AsciiDoc documents to PDF using web technologies.md`
 - https://github.com/ggrossetie/asciidoctor-web-pdf
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/highWaterMarkから探るNode.jsのStreamの仕組み.md`
+- `60_Resources/highWaterMarkから探るNode.jsのStreamの仕組み.md`
 - https://techblog.yahoo.co.jp/advent-calendar-2016/node-stream-highwatermark/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/html-inline-external.md`
+- `60_Resources/html-inline-external.md`
 - https://www.npmjs.com/package/html-inline-external
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/http-graceful-shutdown.md`
+- `60_Resources/http-graceful-shutdown.md`
 - https://www.npmjs.com/package/http-graceful-shutdown
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/jsonschema2mk.md`
+- `60_Resources/jsonschema2mk.md`
 - https://www.npmjs.com/package/jsonschema2mk#load-external-plugins-option-plugin
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/node-html-parser.md`
+- `60_Resources/node-html-parser.md`
 - https://www.npmjs.com/package/node-html-parser
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm link について調べる.md`
+- `60_Resources/npm link について調べる.md`
 - https://zenn.dev/negi/scraps/ff8cc6bf68521a
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm versionコマンドでpackageのバージョンを上げる.md`
+- `60_Resources/npm versionコマンドでpackageのバージョンを上げる.md`
 - https://qiita.com/kyntk/items/d03d0fb5f23251515c02
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm-run-allでnpm scriptsを整理してみた.md`
+- `60_Resources/npm-run-allでnpm scriptsを整理してみた.md`
 - https://qiita.com/teracy164/items/88eacfae61a683f6a29b
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ovrmrwpuppeteer-network-crawler.md`
+- `60_Resources/ovrmrwpuppeteer-network-crawler.md`
 - https://github.com/ovrmrw/puppeteer-network-crawler/tree/master
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md`
+- `60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md`
 - https://hideack.site/entry/2015/03/16/194336
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md`
+- `60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md`
 - https://qiita.com/joryulife/items/ce2af4fc50e0e2557958
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/qrcode.md`
+- `60_Resources/qrcode.md`
 - https://www.npmjs.com/package/qrcode
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md`
+- `60_Resources/sebhildebrandthttp-graceful-shutdown Gracefully shuts down node http server - can be used with http, express, koa, ....md`
 - https://github.com/sebhildebrandt/http-graceful-shutdown/tree/master
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/socket.ioのパケットを(触りだけ)キャプチャ.md`
+- `60_Resources/socket.ioのパケットを(触りだけ)キャプチャ.md`
 - https://qiita.com/gitseitanaka/items/77e5d647fa364020d3f1
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/textlint-jatextlint-rule-preset-JTF-style JTF日本語標準スタイルガイド for textlint..md`
+- `60_Resources/textlint-jatextlint-rule-preset-JTF-style JTF日本語標準スタイルガイド for textlint..md`
 - https://github.com/textlint-ja/textlint-rule-preset-JTF-style
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/yaml-to-json.md`
+- `60_Resources/yaml-to-json.md`
 - https://www.npmjs.com/package/yaml-to-json
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【GitHub Actions】PRが来たら自動でJSONスキーマを検証する.md`
+- `60_Resources/【GitHub Actions】PRが来たら自動でJSONスキーマを検証する.md`
 - https://zenn.dev/fus1ondev/articles/858836b41f2c80
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md`
+- `60_Resources/【実験あり】axios攻撃は2行で防げる｜.npmrc設定とignore-scriptsの注意点.md`
 - https://zenn.dev/junko_ai/articles/721d89181b844f
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md`
+- `60_Resources/ゆるやかにオンプレAPIをNestJS on ECSに移行して.md`
 - https://qiita.com/y_okasuke/items/4523d91da69aae2b40db
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md`
+- `60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md`
 - https://zenn.dev/mountain1009/articles/21ea94fa1e7e08
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
 - https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/文章校正を行うためのtextlint入門.md`
+- `60_Resources/文章校正を行うためのtextlint入門.md`
 - https://ics.media/entry/220404/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/興味本位にTransformストリームを実装する.md`
+- `60_Resources/興味本位にTransformストリームを実装する.md`
 - https://m12i.hatenablog.com/entry/2017/07/17/124617

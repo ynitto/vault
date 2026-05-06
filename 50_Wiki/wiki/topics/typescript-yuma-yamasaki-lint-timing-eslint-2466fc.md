@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md"
+  - "60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md"
 summary: "CI環境で発生していたESLintの実行不安定問題（失敗率50%超）を、TIMINGオプションによるボトルネック分析とルールの最適化で解消した事例。"
 ---
 
@@ -49,5 +49,5 @@ CI環境で発生していたESLintの実行不安定問題（失敗率50%超）
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md`
+- `60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md`
 - https://developers.cyberagent.co.jp/blog/archives/50143/

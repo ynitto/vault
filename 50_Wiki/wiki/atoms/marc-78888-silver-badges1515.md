@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md"
+  - "60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md"
 summary: "Marc 78888 silver badges1515 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Marc 78888 silver badges1515 bronze badges は関連資料の著者・関係者�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md`
+- `60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md`
 - https://stackoverflow.com/questions/60402838/how-to-perform-a-resumable-upload-to-a-sharepoint-site-not-root-subfolder-usin

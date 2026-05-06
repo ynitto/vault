@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ruleschanges always evaluates as true in MR pipeline.md"
+  - "60_Resources/ruleschanges always evaluates as true in MR pipeline.md"
 summary: "MoShe 6 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ MoShe 6 は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ruleschanges always evaluates as true in MR pipeline.md`
+- `60_Resources/ruleschanges always evaluates as true in MR pipeline.md`
 - https://stackoverflow.com/questions/70498372/ruleschanges-always-evaluates-as-true-in-mr-pipeline

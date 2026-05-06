@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Tips】yarn install時に発生しうるESOCKETTIMEDOUTの回避.md"
+  - "60_Resources/【Tips】yarn install時に発生しうるESOCKETTIMEDOUTの回避.md"
 summary: "GandT に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ GandT は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【Tips】yarn install時に発生しうるESOCKETTIMEDOUTの回避.md`
+- `60_Resources/【Tips】yarn install時に発生しうるESOCKETTIMEDOUTの回避.md`
 - https://qiita.com/GandT/items/9c2afa82609ff6062fd3

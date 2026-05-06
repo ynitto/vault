@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian CLI が全ユーザーに無料開放されたので Claude Code 用スキルと一緒にセットアップした.md"
+  - "60_Resources/Obsidian CLI が全ユーザーに無料開放されたので Claude Code 用スキルと一緒にセットアップした.md"
 summary: "Obsidian CLI 無料開放とClaude Code用スキルセットアップ"
 ---
 
@@ -49,5 +49,5 @@ Obsidian CLI 無料開放とClaude Code用スキルセットアップ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian CLI が全ユーザーに無料開放されたので Claude Code 用スキルと一緒にセットアップした.md`
+- `60_Resources/Obsidian CLI が全ユーザーに無料開放されたので Claude Code 用スキルと一緒にセットアップした.md`
 - https://zenn.dev/kairininja/articles/zenn-obsidian-cli-agent-skills-setup

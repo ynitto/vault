@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/統計学初心者です。2変量間の標準偏差の四則演算について教えてください。 - 具体的には1辺の長さXが平均値M1と標準偏差σ1で....md"
+  - "60_Resources/統計学初心者です。2変量間の標準偏差の四則演算について教えてください。 - 具体的には1辺の長さXが平均値M1と標準偏差σ1で....md"
 summary: "本件は、独立した2変数（$X, Y$）の四則演算における標準偏差の算出方法に関する質問と回答です。"
 ---
 
@@ -43,5 +43,5 @@ summary: "本件は、独立した2変数（$X, Y$）の四則演算における
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/統計学初心者です。2変量間の標準偏差の四則演算について教えてください。 - 具体的には1辺の長さXが平均値M1と標準偏差σ1で....md`
+- `60_Resources/統計学初心者です。2変量間の標準偏差の四則演算について教えてください。 - 具体的には1辺の長さXが平均値M1と標準偏差σ1で....md`
 - https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1319806703

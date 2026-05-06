@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ウン十万接続のECSサービスを平和にアップデートしたい.md"
+  - "60_Resources/ウン十万接続のECSサービスを平和にアップデートしたい.md"
 summary: "mxg に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ mxg は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ウン十万接続のECSサービスを平和にアップデートしたい.md`
+- `60_Resources/ウン十万接続のECSサービスを平和にアップデートしたい.md`
 - https://engineering.nature.global/entry/websocket-ecs-graceful-shutdown

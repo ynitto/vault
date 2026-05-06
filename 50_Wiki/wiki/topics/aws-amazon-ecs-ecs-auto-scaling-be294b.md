@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSにおけるAuto Scaling Policyの「ターゲットスケーリング」と「ステップスケーリング」について.md"
+  - "60_Resources/ECSにおけるAuto Scaling Policyの「ターゲットスケーリング」と「ステップスケーリング」について.md"
 summary: "ECS Auto Scaling：ターゲット追跡 vs ステップスケーリング"
 ---
 
@@ -52,5 +52,5 @@ ECS Auto Scaling：ターゲット追跡 vs ステップスケーリング
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSにおけるAuto Scaling Policyの「ターゲットスケーリング」と「ステップスケーリング」について.md`
+- `60_Resources/ECSにおけるAuto Scaling Policyの「ターゲットスケーリング」と「ステップスケーリング」について.md`
 - https://zenn.dev/techno_koki/articles/082e7bbe1a3605

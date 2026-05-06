@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md"
+  - "60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md"
 summary: "ac_qiita に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ ac_qiita は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md`
+- `60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md`
 - https://qiita.com/ac_qiita/items/36ba56a71a40bb13edc6

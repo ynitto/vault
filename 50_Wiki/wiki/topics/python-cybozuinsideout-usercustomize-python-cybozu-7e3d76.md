@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md"
+  - "60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md"
 summary: "Pythonの起動時に任意のコードを自動実行できる「`usercustomize`」の仕組みと、その実践的な活用方法についての解説記事です。"
 ---
 
@@ -46,5 +46,5 @@ Pythonの起動時に任意のコードを自動実行できる「`usercustomize
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md`
+- `60_Resources/usercustomize による Python カスタマイズ - Cybozu Inside Out  サイボウズエンジニアのブログ.md`
 - https://blog.cybozu.io/entry/2126

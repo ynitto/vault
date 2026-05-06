@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/信頼は相互に Amazon CloudFront が mTLS をサポート.md"
+  - "60_Resources/信頼は相互に Amazon CloudFront が mTLS をサポート.md"
 summary: "Amazon CloudFront が mTLS をサポート"
 ---
 
@@ -52,5 +52,5 @@ Amazon CloudFront が mTLS をサポート
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/信頼は相互に Amazon CloudFront が mTLS をサポート.md`
+- `60_Resources/信頼は相互に Amazon CloudFront が mTLS をサポート.md`
 - https://aws.amazon.com/jp/blogs/news/trust-goes-both-ways-amazon-cloudfront-now-supports-viewer-mtls/

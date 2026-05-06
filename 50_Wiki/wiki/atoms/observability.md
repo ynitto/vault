@@ -7,15 +7,15 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon CloudWatch でのアラームの使用.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Auto Scalingの段階スケーリングポリシーについて.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Codeの拡張機能を活用した並列開発プラグインの設計と実装.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md"
+  - "60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md"
+  - "60_Resources/Amazon CloudWatch でのアラームの使用.md"
+  - "60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md"
+  - "60_Resources/Auto Scalingの段階スケーリングポリシーについて.md"
+  - "60_Resources/Claude Codeの拡張機能を活用した並列開発プラグインの設計と実装.md"
+  - "60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md"
+  - "60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md"
+  - "60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md"
+  - "60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md"
 summary: "監視・ログ・メトリクス活用を整理するページ。"
 ---
 
@@ -75,21 +75,21 @@ Observability はシステムの内部状態を理解するためのログ・メ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md`
+- `60_Resources/AWS初心者がCloudWatch Logs Insightsを使ってみた.md`
 - https://qiita.com/suuu/items/8387df88f134348f22c7
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Amazon CloudWatch でのアラームの使用.md`
+- `60_Resources/Amazon CloudWatch でのアラームの使用.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/CloudWatch_Alarms.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md`
+- `60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md`
 - https://docs.aws.amazon.com/ja_jp/autoscaling/application/userguide/step-scaling-policy-overview.html
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Auto Scalingの段階スケーリングポリシーについて.md`
+- `60_Resources/Auto Scalingの段階スケーリングポリシーについて.md`
 - https://dev.classmethod.jp/articles/auto-scaling-steps/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Codeの拡張機能を活用した並列開発プラグインの設計と実装.md`
+- `60_Resources/Claude Codeの拡張機能を活用した並列開発プラグインの設計と実装.md`
 - https://zenn.dev/genda_jp/articles/b268146f3d5392
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md`
+- `60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md`
 - https://go-to-k.hatenablog.com/entry/2022/01/30/045205
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md`
+- `60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md`
 - https://swet.dena.com/entry/2023/11/13/170000
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md`
+- `60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md`
 - https://dev.classmethod.jp/articles/5-ways-to-spend-cost-on-aws-v3/
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md`
+- `60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md`
 - https://zenn.dev/ryoyoshii/articles/442e9f85b84196

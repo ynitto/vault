@@ -11,7 +11,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md"
+  - "60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md"
 summary: "AWS CDKでECSのASGキャパシティプロバイダを使用している際、CloudFormationスタックの削除が「DELETE_IN_PROGRESS」…"
 ---
 
@@ -55,5 +55,5 @@ AWS CDKでECSのASGキャパシティプロバイダを使用している際、C
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md`
+- `60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md`
 - https://github.com/aws/aws-cdk/issues/14732

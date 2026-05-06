@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md"
+  - "60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md"
 summary: "この記事は、ClaudeとObsidianを連携させ、AIにメモを作成・編集させる方法を解説しています。"
 ---
 
@@ -46,5 +46,5 @@ summary: "この記事は、ClaudeとObsidianを連携させ、AIにメモを作
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md`
+- `60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md`
 - https://zenn.dev/502/articles/f8aeaa8057fc49

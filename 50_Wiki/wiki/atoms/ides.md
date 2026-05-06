@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/StataでLassoとリッジ回帰 - 井出草平の研究ノート.md"
+  - "60_Resources/StataでLassoとリッジ回帰 - 井出草平の研究ノート.md"
 summary: "iDES に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ iDES は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/StataでLassoとリッジ回帰 - 井出草平の研究ノート.md`
+- `60_Resources/StataでLassoとリッジ回帰 - 井出草平の研究ノート.md`
 - https://ides.hatenablog.com/entry/2019/09/15/151920

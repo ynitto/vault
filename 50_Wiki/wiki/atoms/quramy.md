@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md"
+  - "60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md"
 summary: "Quramy に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Quramy は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md`
+- `60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md`
 - https://qiita.com/sadnessOjisan/items/d05e35e34d2d1fb7e844

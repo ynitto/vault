@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Skillsで実現する軽量パーソナルRAG.md"
+  - "60_Resources/Skillsで実現する軽量パーソナルRAG.md"
 summary: "軽量パーソナルRAG「workspace-rag」の概要"
 ---
 
@@ -49,5 +49,5 @@ summary: "軽量パーソナルRAG「workspace-rag」の概要"
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Skillsで実現する軽量パーソナルRAG.md`
+- `60_Resources/Skillsで実現する軽量パーソナルRAG.md`
 - https://zenn.dev/karaage0703/articles/d7eaf62437185d

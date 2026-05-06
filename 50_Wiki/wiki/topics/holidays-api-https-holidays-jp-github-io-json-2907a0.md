@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Holidays JP API (日本の祝日API).md"
+  - "60_Resources/Holidays JP API (日本の祝日API).md"
 summary: "日本の国民の祝日データをJSONまたはCSV形式で提供するオープンデータAPIです。Googleカレンダーの情報を基に生成されており、過去・現在・未来のデ…"
 ---
 
@@ -36,5 +36,5 @@ summary: "日本の国民の祝日データをJSONまたはCSV形式で提供す
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Holidays JP API (日本の祝日API).md`
+- `60_Resources/Holidays JP API (日本の祝日API).md`
 - https://holidays-jp.github.io/

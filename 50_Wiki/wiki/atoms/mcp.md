@@ -7,15 +7,15 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントの長期記憶トレンドを整理する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitLabと連携するMCP Serverを作った.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Markdown ドキュメント間の整合性を検証する contextlint を作っている話.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan.md"
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md"
+  - "60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md"
+  - "60_Resources/AIエージェントの長期記憶トレンドを整理する.md"
+  - "60_Resources/Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法.md"
+  - "60_Resources/GitLabと連携するMCP Serverを作った.md"
+  - "60_Resources/Markdown ドキュメント間の整合性を検証する contextlint を作っている話.md"
+  - "60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md"
+  - "60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md"
+  - "60_Resources/「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan.md"
+  - "60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md"
 summary: "LLM とツール接続を標準化するプロトコル。"
 ---
 
@@ -77,21 +77,21 @@ Model Context Protocol はモデルと外部ツール・データソースをつ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md`
+- `60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md`
 - https://note.com/shibats/n/n53e6776f3dfa
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントの長期記憶トレンドを整理する.md`
+- `60_Resources/AIエージェントの長期記憶トレンドを整理する.md`
 - https://zenn.dev/purple_matsu1/articles/20260424-agent-memory-context-os
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法.md`
+- `60_Resources/Claude Code の Skills でエラー調査を自動化！初動対応を 3 分に短縮する方法.md`
 - https://zenn.dev/babyjob/articles/claude-code-mcp-error-analyze
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitLabと連携するMCP Serverを作った.md`
+- `60_Resources/GitLabと連携するMCP Serverを作った.md`
 - https://zenn.dev/owayo/articles/e4c4496e6d79e7
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Markdown ドキュメント間の整合性を検証する contextlint を作っている話.md`
+- `60_Resources/Markdown ドキュメント間の整合性を検証する contextlint を作っている話.md`
 - https://zenn.dev/nozomi_cobo/articles/contextlint-introduction
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md`
+- `60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md`
 - https://zenn.dev/stafes_blog/articles/d7457519a2daec
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md`
+- `60_Resources/Pythonで自作したMCPサーバーをVSCode Copilot Agentから利用する.md`
 - https://zenn.dev/mochizuki875/articles/1f7f3f3527fcf9
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan.md`
+- `60_Resources/「ハーネスが大事」の先にある、3つの設計判断｜Workato Japan.md`
 - https://note.com/workato/n/n4bb1c95a5347
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md`
+- `60_Resources/基礎知識０から、AIに自分用メモを書かせる時代へ適応してみた(mcp-obsidian).md`
 - https://zenn.dev/502/articles/f8aeaa8057fc49

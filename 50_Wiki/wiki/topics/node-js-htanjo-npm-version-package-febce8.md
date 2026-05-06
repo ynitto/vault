@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm versionコマンドでpackageのバージョンを上げる.md"
+  - "60_Resources/npm versionコマンドでpackageのバージョンを上げる.md"
 summary: "本記事は、Node.js開発でパッケージのバージョン管理とタグ付けを自動化できる`npm version`コマンドの基本的な使い方と実践的なオプションを紹…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本記事は、Node.js開発でパッケージのバージョン管理
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/npm versionコマンドでpackageのバージョンを上げる.md`
+- `60_Resources/npm versionコマンドでpackageのバージョンを上げる.md`
 - https://qiita.com/kyntk/items/d03d0fb5f23251515c02

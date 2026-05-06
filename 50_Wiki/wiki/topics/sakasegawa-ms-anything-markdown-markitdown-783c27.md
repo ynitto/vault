@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md"
+  - "60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md"
 summary: "マイクロソフトが公開した、あらゆるファイルをMarkdown形式に変換できるライブラリ「MarkItDown」の紹介と、著者による機能追加（Pull-Re…"
 ---
 
@@ -43,5 +43,5 @@ summary: "マイクロソフトが公開した、あらゆるファイルをMark
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md`
+- `60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md`
 - https://qiita.com/sakasegawa/items/4b55deeea9c93145c4da

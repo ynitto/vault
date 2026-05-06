@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md"
+  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md"
 summary: "luka5z 7 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ luka5z 7 は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md`
+- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/How to implement Post-Build stage using Jenkins Pipeline plug-in?.md`
 - https://stackoverflow.com/questions/36651432/how-to-implement-post-build-stage-using-jenkins-pipeline-plug-in?newreg=6b81896e863c4576bdea84053d5c103f

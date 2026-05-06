@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md"
+  - "60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md"
 summary: "Obsidian × Claude Code による情報整理"
 ---
 
@@ -49,5 +49,5 @@ Obsidian × Claude Code による情報整理
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md`
+- `60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md`
 - https://zenn.dev/stafes_blog/articles/d7457519a2daec

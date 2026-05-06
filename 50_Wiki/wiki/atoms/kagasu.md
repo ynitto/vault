@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerでproxyを利用する方法.md"
+  - "60_Resources/puppeteerでproxyを利用する方法.md"
 summary: "kagasu に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ kagasu は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerでproxyを利用する方法.md`
+- `60_Resources/puppeteerでproxyを利用する方法.md`
 - https://kagasu.hatenablog.com/entry/2022/01/22/023324

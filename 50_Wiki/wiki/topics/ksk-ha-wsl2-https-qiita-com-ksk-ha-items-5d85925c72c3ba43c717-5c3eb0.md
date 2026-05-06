@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/WSL2を自動起動する設定.md"
+  - "60_Resources/WSL2を自動起動する設定.md"
 summary: "Windows再起動時にWSL2を自動的に起動させるための、タスクスケジューラを利用した設定手順の解説記事です。"
 ---
 
@@ -43,5 +43,5 @@ Windows再起動時にWSL2を自動的に起動させるための、タスクス
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/WSL2を自動起動する設定.md`
+- `60_Resources/WSL2を自動起動する設定.md`
 - https://qiita.com/ksk_ha/items/5d85925c72c3ba43c717

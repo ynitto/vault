@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Ansible 2.6 — replace モジュールを使って置換する.md"
+  - "60_Resources/Ansible 2.6 — replace モジュールを使って置換する.md"
 summary: "Ansible `replace` モジュールの概要"
 ---
 
@@ -43,5 +43,5 @@ Ansible `replace` モジュールの概要
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Ansible 2.6 — replace モジュールを使って置換する.md`
+- `60_Resources/Ansible 2.6 — replace モジュールを使って置換する.md`
 - https://qiita.com/YumaInaura/items/0cf2976b09d0658fc38e

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/xstate眠たくなる問題.md"
+  - "60_Resources/xstate眠たくなる問題.md"
 summary: "github0013@github に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ github0013@github は関連資料の著者・関係者として参照される�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/xstate眠たくなる問題.md`
+- `60_Resources/xstate眠たくなる問題.md`
 - https://qiita.com/github0013@github/items/2f2f5233429cfa75ecd1

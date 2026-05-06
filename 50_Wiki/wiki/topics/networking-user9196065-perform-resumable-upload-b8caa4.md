@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md"
+  - "60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md"
 summary: "Microsoft Graph API でのSharePointへのレジューム可能なアップロード方法"
 ---
 
@@ -49,5 +49,5 @@ Microsoft Graph API でのSharePointへのレジューム可能なアップロ�
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md`
+- `60_Resources/How to perform a resumable Upload to a SharePoint Site (Not Root) Subfolder using MS Graph API.md`
 - https://stackoverflow.com/questions/60402838/how-to-perform-a-resumable-upload-to-a-sharepoint-site-not-root-subfolder-usin

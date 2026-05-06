@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md"
+  - "60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md"
 summary: "Puppeteerのデバッグログをサーバーに出力する方法"
 ---
 
@@ -49,5 +49,5 @@ Puppeteerのデバッグログをサーバーに出力する方法
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md`
+- `60_Resources/puppeteerのpage.evaluate内でのlogをサーバーに出力する.md`
 - https://qiita.com/joryulife/items/ce2af4fc50e0e2557958

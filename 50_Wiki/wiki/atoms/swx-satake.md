@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/SNS Eメールサブスクリプションに記載される Unsubscribe リンクを無効化する - サーバーワークスエンジニアブログ.md"
+  - "60_Resources/SNS Eメールサブスクリプションに記載される Unsubscribe リンクを無効化する - サーバーワークスエンジニアブログ.md"
 summary: "swx-satake に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ swx-satake は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/SNS Eメールサブスクリプションに記載される Unsubscribe リンクを無効化する - サーバーワークスエンジニアブログ.md`
+- `60_Resources/SNS Eメールサブスクリプションに記載される Unsubscribe リンクを無効化する - サーバーワークスエンジニアブログ.md`
 - https://blog.serverworks.co.jp/sns-remove-unsubscribe-link

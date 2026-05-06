@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ObsidianとAIを組み合わせて図表を手軽に作成する.md"
+  - "60_Resources/ObsidianとAIを組み合わせて図表を手軽に作成する.md"
 summary: "Obsidianでの図表作成：AI活用による効率化"
 ---
 
@@ -43,5 +43,5 @@ Obsidianでの図表作成：AI活用による効率化
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/ObsidianとAIを組み合わせて図表を手軽に作成する.md`
+- `60_Resources/ObsidianとAIを組み合わせて図表を手軽に作成する.md`
 - https://gihyo.jp/article/2025/06/obsidian-08

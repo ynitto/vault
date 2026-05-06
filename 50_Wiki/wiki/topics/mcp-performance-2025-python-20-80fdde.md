@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md"
+  - "60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md"
 summary: "2025年Python界の注目ライブラリ20選（要約）"
 ---
 
@@ -49,5 +49,5 @@ summary: "2025年Python界の注目ライブラリ20選（要約）"
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md`
+- `60_Resources/2025年Python界の注目ライブラリ20選 こまPy｜Atsushi Shibata.md`
 - https://note.com/shibats/n/n53e6776f3dfa

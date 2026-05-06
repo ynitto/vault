@@ -1,12 +1,13 @@
 # Wiki インデックス
 
-最終更新: 2026-05-05
+最終更新: 2026-05-06
 
 ## atoms
+- [[qmd]] — ローカル Markdown をハイブリッド検索し、MCP 経由で Claude Code から参照できる検索基盤。（"product", 3 sources）
 - [[kiro-stop-hook]] — Kiro CLIのhooks.stopを使ったエージェント完了通知の実装パターン。（"concept", 1 source）
 - [[ai-presentation]] — 生成AIによるPPTX作成手法の比較。編集可能性を重視した手法選択の指針。（"concept", 1 source）
-- [[autonomous-cli-orchestrator]] — 仕様優先アプローチとLLMの自律実行を組み合わせたCLIエージェント設計パターン。（"concept", 1 source）
-- [[bob-the-builder]] — Kiro CLI向けの自律的オーケストレーターOSS。（"product", 1 source）
+- [[autonomous-cli-orchestrator]] — 仕様優先アプローチとLLMの自律実行を組み合わせたCLIエージェント設計パターン。（"concept", 2 sources）
+- [[bob-the-builder]] — Kiro CLI向けの自律的オーケストレーターOSS。（"product", 2 sources）
 - [[javascript]] — JavaScript 言語仕様と実装実務を整理するページ。（"product", 2 sources）
 - [[aws]] — AWS 関連の技術・運用知識を束ねるページ。（"organization", 3 sources）
 - [[amazon-ecs]] — AWS 上のコンテナ実行・運用を担うサービス。（"product", 4 sources）
@@ -205,6 +206,17 @@
 - [[five-slot-brief]] — LLMへの指示をGoal/Constraints/Acceptance criteria/Context/Validationの5要素に整理する構造化プロンプト形式。（concept, 1 source）
 - [[front-loading]] — 対話で詰めるのではなく最初のターンに必要な情報をすべて詰め込むプロンプト戦略。ターン課金モデルで特に有効。（concept, 1 source）
 ## topics
+- [[3d-scan-cleanup]] — Blender 上で 3D スキャンデータの不要部分除去、ポリゴン削減、テクスチャ修正を行う後処理ツール。（"topic", 1 source）
+- [[epson-connect-api]] — Epson Connect の印刷ジョブ API と関連ドキュメントをまとめた開発者向けリファレンス。（"topic", 1 source）
+- [[web-visual-editors]] — Web アプリ上でウィンドウ配置やノード編集を扱うビジュアル UI ライブラリ／実験的エディタ。（"topic", 2 sources）
+- [[archive-and-streaming-utilities]] — Node.js でアーカイブ生成やバッファ背後の Stream を扱う実用ライブラリ群。（"topic", 2 sources）
+- [[approximate-data-structures]] — 近似分位点計算や周期データの密度クラスタリングなど、大規模データ向けの特殊アルゴリズム。（"topic", 2 sources）
+- [[local-http-tunneling]] — ローカル HTTP サーバを外部公開するための軽量トンネルクライアントとその用途。（"topic", 1 source）
+- [[statistical-sampling]] — 統計的サンプリングの基礎から仮説検定・分布・監査応用までを段階的に整理した連載まとめ。（"topic", 10 sources）
+- [[reverse-spec-generation]] — 既存コードやレガシーシステムから、AI が安全に扱える仕様書を逆生成するアプローチ。（"topic", 3 sources）
+- [[harness-engineering]] — 長時間実行 AI エージェントを安定運用するための状態管理・可観測性・承認フロー設計。（"topic", 2 sources）
+- [[spec-kit-runtime-view]] — Plan と Tasks の間に Runtime View を挟み、AI 実装の抜け漏れを減らす設計ステップ。（"topic", 2 sources）
+- [[copilot-chat-log-observability]] — GitHub Copilot Chat.log を会話本文ではなく運用観測ログとして扱うための要点。（"topic", 5 sources）
 - [[javascript-function-https-ja-javascript-info-new-function-let-c7877a]] — `new Function` は、実行時に文字列から関数を生成するための特殊な方法です。通常は使用されませんが、サーバから動的にコードを受け取るような特殊…（"topic", 3 sources）
 - [[aws-amazon-ecs-aws-ecs-t-delete-516697]] — AWS CDKでECSのASGキャパシティプロバイダを使用している際、CloudFormationスタックの削除が「DELETE_IN_PROGRESS」…（"topic", 7 sources）
 - [[mcp-performance-2025-python-20-80fdde]] — 2025年Python界の注目ライブラリ20選（要約）（"topic", 5 sources）
@@ -346,7 +358,7 @@
 - [[faithombongi-json-http-https-learn-microsoft-com-ja-jp-graph-json-batchi-1a9dcd]] — Microsoft Graph の JSON バッチ処理は、複数の API 要求を 1 つの JSON オブジェクトと単一の HTTP 呼び出しにまとめる…（"topic", 3 sources）
 - [[javascript-suetake-json-json-stringify-json-parse-7e2273]] — JavaScriptにおいて、通常は仕様上不可能な「関数を含むオブジェクト（JSONもどき）」を、`JSON.stringify`で文字列化し、`JSON…（"topic", 4 sources）
 - [[testing-java21-windows-https-zenn-dev-leoninja-articles-10831509338169-3e5777]] — Java 21 + Windows における文字化け対策の要約（"topic", 3 sources）
-- [[git-authentication-javascript-html-gitlab-wiki-4cfde2]] — Gitlab WikiでのJavaScript利用に関する回答の要約（"topic", 7 sources）
+- [[git-authentication-javascript-html-gitlab-50_Wiki/wiki-4cfde2]] — Gitlab WikiでのJavaScript利用に関する回答の要約（"topic", 7 sources）
 - [[ci-cd-techmatrix-jenkins-pipeline-10-a251b6]] — 提供された内容を簡潔にまとめ、重要なポイントを可視化します。（"topic", 4 sources）
 - [[ci-cd-arasio-jenkins-node-https-6dd61d]] — Jenkinsパイプラインにおいて、スクリプトを `node` ブロックで囲むかどうかの違いは、実行に使用される「エグゼキューター」の種類と役割にあります。（"topic", 4 sources）
 - [[python-authentication-jira-api-shu223-2bdd07]] — Jiraの各種タスクを自動化するために、Jira APIを利用するための準備・手順をまとめた技術メモです。（"topic", 5 sources）
@@ -473,7 +485,7 @@
 - [[node-js-npm-link-https-zenn-dev-negi-scraps-ff8cc6bf68521a-72fa6b]] — npm linkは、自作パッケージを公開せずに別のプロジェクトからローカル参照として利用するためのコマンドです。シンボリックリンクを作成することで、開発中…（"topic", 3 sources）
 - [[node-js-htanjo-npm-version-package-febce8]] — 本記事は、Node.js開発でパッケージのバージョン管理とタグ付けを自動化できる`npm version`コマンドの基本的な使い方と実践的なオプションを紹…（"topic", 4 sources）
 - [[node-js-teracy164-npm-run-all-npm-scripts-0ce928]] — Angularのマルチプロジェクト環境において、複雑化しがちな`package.json`のスクリプト管理を、`npm-run-all`を使って効率化・簡…（"topic", 4 sources）
-- [[authentication-security-openapi-generator-docs-generators-cwiki-md-at-ma-9addec]] — 本ドキュメントは、OpenAPI Generatorにおける「cwiki」ジェネレーターの仕様書です。このジェネレーターは、OpenAPI定義からConf…（"topic", 4 sources）
+- [[authentication-security-openapi-generator-docs-generators-c50_Wiki/wiki-md-at-ma-9addec]] — 本ドキュメントは、OpenAPI Generatorにおける「c50_Wiki/wiki」ジェネレーターの仕様書です。このジェネレーターは、OpenAPI定義からConf…（"topic", 4 sources）
 - [[javascript-node-js-ovrmrw-puppeteer-network-crawler-https-github-com-ovr-139987]] — `puppeteer-network-crawler`は、GoogleのPuppeteerを活用して、Webサイトのネットワークリクエストの発生タイミング…（"topic", 5 sources）
 - [[su-package-json-https-books-engineer-com-package-json-e3-934093]] — 提供された内容を簡潔にまとめ、重要なポイントを整理します。（"topic", 3 sources）
 - [[node-js-hideack-perceptual-hash-phash-f5d6d6]] — perceptual hash（pHash）を用いた画像比較の解説（"topic", 4 sources）
@@ -510,7 +522,7 @@
 - [[git-javascript-2024-https-qiita-com-knr109-items-b5dadd056da9b227041b-fbcde3]] — エンジニアの学習や開発に役立つ、ブックマーク推奨のGitHubリポジトリをまとめた紹介記事です。初心者から上級者まで、スキルアップや効率化に繋がるリソース…（"topic", 6 sources）
 - [[networking-websocket-fiddler-windows-http-0958d1]] — Windows環境におけるHTTP/HTTPS通信のキャプチャ・解析ツール「Fiddler Classic」の導入から、基本的な操作方法およびログ保存手順…（"topic", 5 sources）
 - [[git-ci-cd-actions-pr-json-a8cf77]] — Pull Request時にJSONファイルの構造が規定のスキーマと一致しているか検証する、GitHub Actionsを利用したCI環境の構築手順です。（"topic", 6 sources）
-- [[claude-code-obsidian-llm-wiki-obsidian-3c6281]] — 本記事では、Karpathy氏が提唱する「LLM Wiki」の概念をClaude Codeのスキルとして実装し、Obsidianと連携して運用する方法につ…（"topic", 4 sources）
+- [[claude-code-obsidian-llm-50_Wiki/wiki-obsidian-3c6281]] — 本記事では、Karpathy氏が提唱する「LLM Wiki」の概念をClaude Codeのスキルとして実装し、Obsidianと連携して運用する方法につ…（"topic", 4 sources）
 - [[m365-copilot-teams-https-qiita-com-yuyanz-items-5d2087dd5500d0689d7e-e6c761]] — Teamsのチャット内容をMicrosoft 365 Copilotで分析・整理し、案件の進捗管理を自動化する手法についての技術共有記事です。（"topic", 2 sources）
 - [[obsidian-obsidian-15-projects-https-65d3a1]] — Obsidian Projectsプラグインの概要（"topic", 3 sources）
 - [[python-performance-python-join-https-822d6b]] — Pythonにおける文字列結合の最適化：`+` vs `join`（"topic", 4 sources）

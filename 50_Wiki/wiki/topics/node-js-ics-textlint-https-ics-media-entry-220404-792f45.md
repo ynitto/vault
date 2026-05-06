@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/文章校正を行うためのtextlint入門.md"
+  - "60_Resources/文章校正を行うためのtextlint入門.md"
 summary: "textlintを活用した文章校正の導入から設定、活用方法までを解説したガイド記事です。読みやすい文章作りを自動化・統一するためのノウハウが網羅されていま…"
 ---
 
@@ -46,5 +46,5 @@ textlintを活用した文章校正の導入から設定、活用方法までを
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/文章校正を行うためのtextlint入門.md`
+- `60_Resources/文章校正を行うためのtextlint入門.md`
 - https://ics.media/entry/220404/

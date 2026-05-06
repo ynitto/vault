@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った.md"
+  - "60_Resources/Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った.md"
 summary: "本記事は、マルチデバイス（Windows/Mac）環境でClaude Codeの「長期記憶」を同期するための自作システムについての解説です。SQLiteを…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本記事は、マルチデバイス（Windows/Mac）環境でClaude C
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った.md`
+- `60_Resources/Claude Codeの長期記憶をWindowsとMacで共有する仕組みを作った.md`
 - https://zenn.dev/aoi_umigishi/articles/fc877d2d7d3e38

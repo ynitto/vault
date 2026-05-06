@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Jenkins Pipeline プラグインのベストプラクティス トップ10  CloudBeesテクマトリックス.md"
+  - "60_Resources/Jenkins Pipeline プラグインのベストプラクティス トップ10  CloudBeesテクマトリックス.md"
 summary: "techmatrix に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ techmatrix は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/Jenkins Pipeline プラグインのベストプラクティス トップ10  CloudBeesテクマトリックス.md`
+- `60_Resources/Jenkins Pipeline プラグインのベストプラクティス トップ10  CloudBeesテクマトリックス.md`
 - https://cloudbees.techmatrix.jp/blog/top-10-best-practices-jenkins-pipeline-plugin/

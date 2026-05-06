@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントのハーネス設計｜Anthropicが公開した「生成と評価の分離」パターンを読み解く.md"
+  - "60_Resources/AIエージェントのハーネス設計｜Anthropicが公開した「生成と評価の分離」パターンを読み解く.md"
 summary: "Anthropicが公開した「Harness design for long-running application development」を基に、AI…"
 ---
 
@@ -43,5 +43,5 @@ Anthropicが公開した「Harness design for long-running application developme
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/AIエージェントのハーネス設計｜Anthropicが公開した「生成と評価の分離」パターンを読み解く.md`
+- `60_Resources/AIエージェントのハーネス設計｜Anthropicが公開した「生成と評価の分離」パターンを読み解く.md`
 - https://zenn.dev/takibilab/articles/anthropic-harness-design

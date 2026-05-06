@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md"
+  - "60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md"
 summary: "2026年3月にリリースされたVS Code v1.113の新機能「Nested Subagents（サブエージェントの入れ子呼び出し）」を活用し、TDD…"
 ---
 
@@ -46,5 +46,5 @@ summary: "2026年3月にリリースされたVS Code v1.113の新機能「Nested
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md`
+- `60_Resources/GitHub Copilot でサブエージェントからサブエージェントを呼び出して TDD（テスト駆動開発）ワークフローを作成.md`
 - https://qiita.com/leomarokun/items/3040cd6ae4c51b2329f6

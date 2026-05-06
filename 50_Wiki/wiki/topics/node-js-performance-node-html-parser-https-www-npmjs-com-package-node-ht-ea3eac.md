@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/node-html-parser.md"
+  - "60_Resources/node-html-parser.md"
 summary: "`node-html-parser` は、パフォーマンスを最優先に設計された非常に高速なHTMLパーサーです。簡略化されたDOMツリーを生成し、CSSセレ…"
 ---
 
@@ -49,5 +49,5 @@ summary: "`node-html-parser` は、パフォーマンスを最優先に設計さ
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/node-html-parser.md`
+- `60_Resources/node-html-parser.md`
 - https://www.npmjs.com/package/node-html-parser

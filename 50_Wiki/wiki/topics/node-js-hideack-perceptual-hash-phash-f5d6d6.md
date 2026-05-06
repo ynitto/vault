@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md"
+  - "60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md"
 summary: "perceptual hash（pHash）を用いた画像比較の解説"
 ---
 
@@ -42,5 +42,5 @@ perceptual hash（pHash）を用いた画像比較の解説
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md`
+- `60_Resources/perceptual hash(phash)を利用して画像比較をしてみる.md`
 - https://hideack.site/entry/2015/03/16/194336

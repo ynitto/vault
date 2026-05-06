@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/データサイエンス系チートシートを網羅してみた Python.md"
+  - "60_Resources/データサイエンス系チートシートを網羅してみた Python.md"
 summary: "stakemura に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ stakemura は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/データサイエンス系チートシートを網羅してみた Python.md`
+- `60_Resources/データサイエンス系チートシートを網羅してみた Python.md`
 - https://qiita.com/tarantula426/items/d8cd79c2bfd649e4f1f1

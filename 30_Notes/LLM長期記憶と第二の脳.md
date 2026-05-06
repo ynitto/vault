@@ -39,6 +39,14 @@ tags: [ナレッジ, LLM, Memory, PKM]
 - 事前に `SKILL.md` 等として階層化・要約を出力しておく設計は、wiki-use の思想と一致
 - 出典: [[60_Resources/ベクトルDBを使わないRAG。全てのナレッジを階層化する手法]]
 
+<!-- updated: 2026-05-06 -->
+### ローカル検索と brain / project 分離
+- 「第二の脳」を AI に扱わせるときは、`brain`（判断・文脈・記憶）と `project`（実装・テスト）を分ける方が迷いが少ない
+- `qmd` のようなローカル Markdown 検索は、BM25 / ベクトル検索 / LLM 再ランキングを 1 つのローカル基盤にまとめられるため、Vault 全体の検索品質を底上げしやすい
+- Git + ローカル検索 + Wiki を組み合わせると、「生データを残しつつ、使うのは整理済み知識層」という構図を強化できる
+- 出典: [[60_Resources/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話-2]]
+- 出典: [[60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ]]
+
 ## 関連リンク
 - [[10_Daily/2026-04-19]]
 - [[30_Notes/ObsidianとAIエージェント連携]]
@@ -50,3 +58,5 @@ tags: [ナレッジ, LLM, Memory, PKM]
 - [[60_Resources/【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する]]
 - [[60_Resources/GitHub Copilot は自ら学ぶ Copilot Memory 入門]]
 - [[60_Resources/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する]]
+- [[60_Resources/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話-2]]
+- [[60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ]]

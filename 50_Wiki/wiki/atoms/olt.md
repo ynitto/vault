@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild を使おう.md"
+  - "60_Resources/esbuild を使おう.md"
 summary: "olt に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ olt は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/esbuild を使おう.md`
+- `60_Resources/esbuild を使おう.md`
 - https://qiita.com/Tsukina_7mochi/items/0aa38da6b9b4dd22eacd

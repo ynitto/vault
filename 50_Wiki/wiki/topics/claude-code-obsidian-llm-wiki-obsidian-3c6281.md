@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する.md"
+  - "60_Resources/【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する.md"
 summary: "本記事では、Karpathy氏が提唱する「LLM Wiki」の概念をClaude Codeのスキルとして実装し、Obsidianと連携して運用する方法につ…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本記事では、Karpathy氏が提唱する「LLM Wiki」の概念を
 
 ## 出典
 
-- `/Users/nitto/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyVault/60_Resources/【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する.md`
+- `60_Resources/【LLM Wiki】Obsidian x Claude Codeで学んだ知識を構造化し記憶媒体を脳からAIに移行する.md`
 - https://zenn.dev/dely_jp/articles/8b55114cc0b958
