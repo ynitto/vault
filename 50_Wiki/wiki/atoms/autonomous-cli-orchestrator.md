@@ -5,8 +5,8 @@ tags: [autonomous, cli, orchestrator, kiro, spec-first, ai-agent]
 created: 2026-05-03
 updated: 2026-05-06
 sources:
-  - "60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md"
-  - "60_Resources/自律的Kiro CLIオーケストレーター.md"
+  - "../60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md"
+  - "../60_Resources/自律的Kiro CLIオーケストレーター.md"
 summary: "仕様優先アプローチとLLMの自律実行を組み合わせたCLIエージェント設計パターン。"
 ---
 
@@ -36,5 +36,5 @@ summary: "仕様優先アプローチとLLMの自律実行を組み合わせたC
 
 ## 出典
 
-- `60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md`（Reddit r/kiroIDE, 2026-02-15）
-- `60_Resources/自律的Kiro CLIオーケストレーター.md`
+- `../60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md`（Reddit r/kiroIDE, 2026-02-15）
+- `../60_Resources/自律的Kiro CLIオーケストレーター.md`

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
+  - "../60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
 summary: "emi に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ emi は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
+- `../60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
 - https://dev.classmethod.jp/articles/comparison-of-fees-for-cloudwatch-logs-and-s3/

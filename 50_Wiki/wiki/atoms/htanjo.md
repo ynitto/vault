@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/npm versionコマンドでpackageのバージョンを上げる.md"
+  - "../60_Resources/npm versionコマンドでpackageのバージョンを上げる.md"
 summary: "htanjo に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ htanjo は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/npm versionコマンドでpackageのバージョンを上げる.md`
+- `../60_Resources/npm versionコマンドでpackageのバージョンを上げる.md`
 - https://qiita.com/kyntk/items/d03d0fb5f23251515c02

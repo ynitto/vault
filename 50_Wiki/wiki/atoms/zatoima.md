@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md"
+  - "../60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md"
 summary: "\"zatoima\" に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ summary: "\"zatoima\" に関する人物ページ。"
 
 ## 出典
 
-- `60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md`
-- https://zatoima.github.io/aws-api-gateway-cloudfront-restrict-resource-policy/
+- `../60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md`
+- https://zatoima../.github.io/aws-api-gateway-cloudfront-restrict-resource-policy/

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md"
+  - "../60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md"
 summary: "tfrcm に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ tfrcm は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md`
+- `../60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md`
 - https://qiita.com/horit0123/items/295f8dc55d8c07e6512a

@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md"
+  - "../60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md"
 summary: "WindowsとCursor（VSCode系）環境において、PowerShell実行時の日本語文字化けを解消するための手順です。旧版PowerShell…"
 ---
 
@@ -43,5 +43,5 @@ WindowsとCursor（VSCode系）環境において、PowerShell実行時の日本
 
 ## 出典
 
-- `60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md`
+- `../60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md`
 - https://qiita.com/marcio/items/87c15f852ba7aecfb71a

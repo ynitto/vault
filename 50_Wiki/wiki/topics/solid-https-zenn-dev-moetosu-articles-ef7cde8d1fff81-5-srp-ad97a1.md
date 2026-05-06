@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/オブジェクト指向５大原則SOLIDハンズオンガイド.md"
+  - "../60_Resources/オブジェクト指向５大原則SOLIDハンズオンガイド.md"
 summary: "SOLID原則は、保守性と拡張性に優れたソフトウェアを構築するための5つの設計指針です。"
 ---
 
@@ -40,5 +40,5 @@ SOLID原則は、保守性と拡張性に優れたソフトウェアを構築す
 
 ## 出典
 
-- `60_Resources/オブジェクト指向５大原則SOLIDハンズオンガイド.md`
+- `../60_Resources/オブジェクト指向５大原則SOLIDハンズオンガイド.md`
 - https://zenn.dev/moetosu/articles/ef7cde8d1fff81

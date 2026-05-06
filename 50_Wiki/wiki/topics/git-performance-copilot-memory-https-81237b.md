@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/GitHub Copilot は自ら学ぶ Copilot Memory 入門.md"
+  - "../60_Resources/GitHub Copilot は自ら学ぶ Copilot Memory 入門.md"
 summary: "GitHub Copilotがセッションを跨いで学習・記憶する「メモリ機能」の全体像と仕組みを解説する連載の第1回。メモリの分類（保存場所・共有範囲）を整…"
 ---
 
@@ -46,5 +46,5 @@ GitHub Copilotがセッションを跨いで学習・記憶する「メモリ機
 
 ## 出典
 
-- `60_Resources/GitHub Copilot は自ら学ぶ Copilot Memory 入門.md`
+- `../60_Resources/GitHub Copilot は自ら学ぶ Copilot Memory 入門.md`
 - https://zenn.dev/microsoft/articles/50863342150992

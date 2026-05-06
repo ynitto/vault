@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ECS service desire count get resets by Auto Scaling.md"
+  - "../60_Resources/ECS service desire count get resets by Auto Scaling.md"
 summary: "farp332 78622 gold badges1515 silver badges3333 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ farp332 78622 gold badges1515 silver badges3333 bronze badges は関連資料の
 
 ## 出典
 
-- `60_Resources/ECS service desire count get resets by Auto Scaling.md`
+- `../60_Resources/ECS service desire count get resets by Auto Scaling.md`
 - https://stackoverflow.com/questions/63992903/ecs-service-desire-count-get-resets-by-auto-scaling

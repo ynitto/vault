@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/話題のesbuildをさっくりと調査してみた.md"
+  - "../60_Resources/話題のesbuildをさっくりと調査してみた.md"
 summary: "hedrall に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ hedrall は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/話題のesbuildをさっくりと調査してみた.md`
+- `../60_Resources/話題のesbuildをさっくりと調査してみた.md`
 - https://qiita.com/hedrall/items/2548718cfdf7bef3efc0

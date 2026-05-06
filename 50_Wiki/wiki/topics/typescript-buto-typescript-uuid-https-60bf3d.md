@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/typescript uuid桁数を短くする.md"
+  - "../60_Resources/typescript uuid桁数を短くする.md"
 summary: "UUID（32桁）をBase64エンコードし、22桁に短縮する方法を紹介する技術メモです。"
 ---
 
@@ -46,5 +46,5 @@ UUID（32桁）をBase64エンコードし、22桁に短縮する方法を紹介
 
 ## 出典
 
-- `60_Resources/typescript uuid桁数を短くする.md`
+- `../60_Resources/typescript uuid桁数を短くする.md`
 - https://qiita.com/buto/items/1b6cc0b244dc1d42da79

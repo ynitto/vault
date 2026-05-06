@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/JSON バッチ処理を使用して複数の HTTP 要求を結合する.md"
+  - "../60_Resources/JSON バッチ処理を使用して複数の HTTP 要求を結合する.md"
 summary: "Microsoft Graph の JSON バッチ処理は、複数の API 要求を 1 つの JSON オブジェクトと単一の HTTP 呼び出しにまとめる…"
 ---
 
@@ -39,5 +39,5 @@ Microsoft Graph の JSON バッチ処理は、複数の API 要求を 1 つの J
 
 ## 出典
 
-- `60_Resources/JSON バッチ処理を使用して複数の HTTP 要求を結合する.md`
+- `../60_Resources/JSON バッチ処理を使用して複数の HTTP 要求を結合する.md`
 - https://learn.microsoft.com/ja-jp/graph/json-batching?tabs=http

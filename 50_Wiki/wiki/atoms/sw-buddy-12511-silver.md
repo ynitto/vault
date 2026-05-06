@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/Javascripthtml in gitlab wiki page?.md"
+  - ".wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/Javascripthtml in gitlab wiki page?.md"
 summary: "sw_buddy 12511 silver badge99 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ sw_buddy 12511 silver badge99 bronze badges は関連資料の著者・関係者
 
 ## 出典
 
-- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/Javascripthtml in gitlab wiki page?.md`
+- `.wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/Javascripthtml in gitlab wiki page?.md`
 - https://stackoverflow.com/questions/59203694/javascript-html-in-gitlab-wiki-page

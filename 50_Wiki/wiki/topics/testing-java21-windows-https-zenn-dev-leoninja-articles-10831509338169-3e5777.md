@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md"
+  - "../60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md"
 summary: "Java 21 + Windows における文字化け対策の要約"
 ---
 
@@ -43,5 +43,5 @@ Java 21 + Windows における文字化け対策の要約
 
 ## 出典
 
-- `60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md`
+- `../60_Resources/Java21 + Windowsにおける文字化け対策の設定のまとめ.md`
 - https://zenn.dev/leoninja/articles/10831509338169

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Socket.ioコンテナオーケストレーションハンズオン.md"
+  - "../60_Resources/Socket.ioコンテナオーケストレーションハンズオン.md"
 summary: "Socket.ioを用いたリアルタイム通信アプリケーションをKubernetes環境でスケールさせ、ステートを維持したままダウンタイムなしでデプロイする方…"
 ---
 
@@ -40,5 +40,5 @@ Socket.ioを用いたリアルタイム通信アプリケーションをKubernet
 
 ## 出典
 
-- `60_Resources/Socket.ioコンテナオーケストレーションハンズオン.md`
+- `../60_Resources/Socket.ioコンテナオーケストレーションハンズオン.md`
 - https://zenn.dev/micin/articles/2023-12-04_rikson_socketio-container-orchestration

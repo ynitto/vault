@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/AWSのコスト最適化 ＜EC2 編＞コストパフォーマンスの良いインスタンスを選択してコストを削減する.md"
+  - "../60_Resources/AWSのコスト最適化 ＜EC2 編＞コストパフォーマンスの良いインスタンスを選択してコストを削減する.md"
 summary: "Sun* に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Sun* は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/AWSのコスト最適化 ＜EC2 編＞コストパフォーマンスの良いインスタンスを選択してコストを削減する.md`
+- `../60_Resources/AWSのコスト最適化 ＜EC2 編＞コストパフォーマンスの良いインスタンスを選択してコストを削減する.md`
 - https://sun-asterisk.com/service/development/topics/aws-cost-optimization/922/

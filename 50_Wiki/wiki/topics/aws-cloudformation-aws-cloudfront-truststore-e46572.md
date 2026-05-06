@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md"
+  - "../60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md"
 summary: "本ドキュメントは、AWS CloudFormation における `AWS::CloudFront::TrustStore` のプロパティである `CaC…"
 ---
 
@@ -45,5 +45,5 @@ summary: "本ドキュメントは、AWS CloudFormation における `AWS::Cloud
 
 ## 出典
 
-- `60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md`
+- `../60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md`
 - https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-properties-cloudfront-truststore-cacertificatesbundles3location.html

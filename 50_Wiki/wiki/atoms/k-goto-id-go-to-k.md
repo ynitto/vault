@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md"
+  - "../60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md"
 summary: "k.goto (id:go-to-k) に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ k.goto (id:go-to-k) は関連資料の著者・関係者として参照される
 
 ## 出典
 
-- `60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md`
+- `../60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md`
 - https://go-to-k.hatenablog.com/entry/2022/01/30/045205

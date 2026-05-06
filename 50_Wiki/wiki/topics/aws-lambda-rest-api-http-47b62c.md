@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md"
+  - "../60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md"
 summary: "Amazon API Gateway：REST API と HTTP API の比較要約"
 ---
 
@@ -48,5 +48,5 @@ Amazon API Gateway：REST API と HTTP API の比較要約
 
 ## 出典
 
-- `60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md`
+- `../60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md`
 - https://docs.aws.amazon.com/ja_jp/apigateway/latest/developerguide/http-api-vs-rest.html

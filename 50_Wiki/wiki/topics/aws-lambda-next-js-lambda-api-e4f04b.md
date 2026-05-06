@@ -11,7 +11,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
+  - "../../60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
 summary: "Next.jsのStandaloneモードを活用し、AWS Lambda + API Gatewayというサーバーレス構成でアプリケーションを公開する方法…"
 ---
 
@@ -55,5 +55,5 @@ Next.jsのStandaloneモードを活用し、AWS Lambda + API Gatewayというサ
 
 ## 出典
 
-- `60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
+- `../../60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
 - https://tmokmss.hatenablog.com/entry/20221213/1670891305

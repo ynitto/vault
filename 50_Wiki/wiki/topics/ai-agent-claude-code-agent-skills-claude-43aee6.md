@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md"
+  - "../../60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md"
 summary: "Claude Code Skills（AIに繰り返し作業の手順を覚えさせる仕組み）を活用し、NVD（米国脆弱性データベース）から直近の重要脆弱性情報を自動…"
 ---
 
@@ -52,5 +52,5 @@ Claude Code Skills（AIに繰り返し作業の手順を覚えさせる仕組み
 
 ## 出典
 
-- `60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md`
+- `../../60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md`
 - https://dev.classmethod.jp/articles/claude-code-skills-cve-report/

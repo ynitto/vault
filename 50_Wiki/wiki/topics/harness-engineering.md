@@ -10,9 +10,9 @@ tags:
 created: "2026-05-06"
 updated: "2026-05-06"
 sources:
-  - ".50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md"
-  - "60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md"
-  - "60_Resources/aws-samplessample-long-running-app-harness.md"
+  - ".wiki/topics/wiki/topicswiki/topics/wiki/topicswiki/topics/../60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md"
+  - "../60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md"
+  - "../60_Resources/aws-samplessample-long-running-app-harness.md"
 summary: "AI エージェントを長時間・無人で安定稼働させるための、状態管理・障害回復・排他制御・可観測性を含む運用設計。"
 ---
 
@@ -44,6 +44,6 @@ Harness Engineering は、AI エージェントを実戦投入するための周
 
 ## 出典
 
-- `.50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md`
-- `60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md`
-- `60_Resources/aws-samplessample-long-running-app-harness.md`
+- `.wiki/topics/wiki/topicswiki/topics/wiki/topicswiki/topics/../60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md`
+- `../60_Resources/Harness Engineering Meetup に参加して、AIエージェントの「ハーネス」について考えた.md`
+- `../60_Resources/aws-samplessample-long-running-app-harness.md`

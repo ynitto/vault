@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Google Workspace と Google ドライブでサポートされている MIME タイプ    Google Drive.md"
+  - "../60_Resources/Google Workspace と Google ドライブでサポートされている MIME タイプ    Google Drive.md"
 summary: "Google Workspace および Google ドライブの MIME タイプ概要"
 ---
 
@@ -36,5 +36,5 @@ Google Workspace および Google ドライブの MIME タイプ概要
 
 ## 出典
 
-- `60_Resources/Google Workspace と Google ドライブでサポートされている MIME タイプ    Google Drive.md`
+- `../60_Resources/Google Workspace と Google ドライブでサポートされている MIME タイプ    Google Drive.md`
 - https://developers.google.com/workspace/drive/api/guides/mime-types?hl=ja

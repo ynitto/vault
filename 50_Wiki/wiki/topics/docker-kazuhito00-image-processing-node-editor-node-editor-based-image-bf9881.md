@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Kazuhito00Image-Processing-Node-Editor 処理の検証や比較検討での用途を想定したノードエディターベースの画像処理アプリ(A node editor-based image processing application intended for use in processing ver.md"
+  - "../60_Resources/Kazuhito00Image-Processing-Node-Editor 処理の検証や比較検討での用途を想定したノードエディターベースの画像処理アプリ(A node editor-based image processing application intended for use in processing ver.md"
 summary: "「Image-Processing-Node-Editor」は、ノードエディターを用いて直感的に画像処理の検証や比較ができるPython製のアプリケーショ…"
 ---
 
@@ -39,5 +39,5 @@ summary: "「Image-Processing-Node-Editor」は、ノードエディターを用
 
 ## 出典
 
-- `60_Resources/Kazuhito00Image-Processing-Node-Editor 処理の検証や比較検討での用途を想定したノードエディターベースの画像処理アプリ(A node editor-based image processing application intended for use in processing ver.md`
+- `../60_Resources/Kazuhito00Image-Processing-Node-Editor 処理の検証や比較検討での用途を想定したノードエディターベースの画像処理アプリ(A node editor-based image processing application intended for use in processing ver.md`
 - https://github.com/Kazuhito00/Image-Processing-Node-Editor

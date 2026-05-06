@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md"
+  - "../60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md"
 summary: "sakai-akinobu に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ sakai-akinobu は関連資料の著者・関係者として参照される人物
 
 ## 出典
 
-- `60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md`
+- `../60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md`
 - https://qiita.com/suzuki_sh/items/f3349efbfe1bdfc0c634

@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Amazon ECS コンテナインスタンス状態変更イベント - Amazon Elastic Container Service.md"
+  - "../60_Resources/Amazon ECS コンテナインスタンス状態変更イベント - Amazon Elastic Container Service.md"
 summary: "Amazon ECS コンテナインスタンス状態変更イベントの概要"
 ---
 
@@ -48,5 +48,5 @@ Amazon ECS コンテナインスタンス状態変更イベントの概要
 
 ## 出典
 
-- `60_Resources/Amazon ECS コンテナインスタンス状態変更イベント - Amazon Elastic Container Service.md`
+- `../60_Resources/Amazon ECS コンテナインスタンス状態変更イベント - Amazon Elastic Container Service.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonECS/latest/developerguide/ecs_container_instance_events.html

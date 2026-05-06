@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/VPCエンドポイントとNAT Gatewayの比較.md"
+  - "../60_Resources/VPCエンドポイントとNAT Gatewayの比較.md"
 summary: "VPCエンドポイントとNAT Gatewayの比較要約"
 ---
 
@@ -40,5 +40,5 @@ VPCエンドポイントとNAT Gatewayの比較要約
 
 ## 出典
 
-- `60_Resources/VPCエンドポイントとNAT Gatewayの比較.md`
+- `../60_Resources/VPCエンドポイントとNAT Gatewayの比較.md`
 - https://iret.media/91809

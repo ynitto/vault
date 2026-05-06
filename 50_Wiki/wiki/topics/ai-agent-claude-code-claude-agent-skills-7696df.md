@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md"
+  - "../60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md"
 summary: "Claude Codeで作業の中断・再開をスムーズにするための、Markdownベースの個人用記憶領域「agent-memory」スキルの導入方法と利点に…"
 ---
 
@@ -33,7 +33,7 @@ Claude Codeで作業の中断・再開をスムーズにするための、Markdo
 - **仕組み**:
 - `.claude/skills/agent-memory/` 配下に記憶をMarkdownファイルとして保存。
 - `rg` (ripgrep) を活用し、`summary` を基に再開時に必要なファイルのみを効率的に読み込む。
-- プライベート情報のため `.gitignore` で除外。
+- プライベート情報のため `../.gitignore` で除外。
 - **メリット**:
 - 履歴を遡る手間を削減。
 
@@ -46,5 +46,5 @@ Claude Codeで作業の中断・再開をスムーズにするための、Markdo
 
 ## 出典
 
-- `60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md`
+- `../60_Resources/Claude Codeで記憶領域を持つための独自のAgent Skillsを使っている.md`
 - https://zenn.dev/yamadashy/articles/claude-code-agent-skills-agent-memory

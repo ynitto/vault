@@ -9,8 +9,8 @@ tags:
 created: "2026-05-06"
 updated: "2026-05-06"
 sources:
-  - "60_Resources/aeschylusIsfahan A tiling window manager based on d3.js.md"
-  - "60_Resources/sketchpunkNEditorJS.md"
+  - "../60_Resources/aeschylusIsfahan A tiling window manager based on d3.js.md"
+  - "../60_Resources/sketchpunkNEditorJS.md"
 summary: "Web アプリ上でウィンドウ配置やノード編集を扱うビジュアル UI ライブラリ／実験的エディタ。"
 ---
 
@@ -35,5 +35,5 @@ summary: "Web アプリ上でウィンドウ配置やノード編集を扱うビ
 
 ## 出典
 
-- `60_Resources/aeschylusIsfahan A tiling window manager based on d3.js.md`
-- `60_Resources/sketchpunkNEditorJS.md`
+- `../60_Resources/aeschylusIsfahan A tiling window manager based on d3.js.md`
+- `../60_Resources/sketchpunkNEditorJS.md`

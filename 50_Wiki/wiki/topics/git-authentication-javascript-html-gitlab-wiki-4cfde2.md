@@ -11,7 +11,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - ".50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/Javascripthtml in gitlab wiki page?.md"
+  - ".wiki/topics/wiki/topicswiki/topics/wiki/topicswiki/topics/../60_Resources/Javascripthtml in gitlab wiki page?.md"
 summary: "Gitlab WikiでのJavaScript利用に関する回答の要約"
 ---
 
@@ -55,5 +55,5 @@ Gitlab WikiでのJavaScript利用に関する回答の要約
 
 ## 出典
 
-- `.50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/Javascripthtml in gitlab wiki page?.md`
+- `.wiki/topics/wiki/topicswiki/topics/wiki/topicswiki/topics/../60_Resources/Javascripthtml in gitlab wiki page?.md`
 - https://stackoverflow.com/questions/59203694/javascript-html-in-gitlab-wiki-page

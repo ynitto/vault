@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/PuppeteerのwaitForNavigationで正しくページ遷移を待つ.md"
+  - "../60_Resources/PuppeteerのwaitForNavigationで正しくページ遷移を待つ.md"
 summary: "meganii に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ meganii は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/PuppeteerのwaitForNavigationで正しくページ遷移を待つ.md`
+- `../60_Resources/PuppeteerのwaitForNavigationで正しくページ遷移を待つ.md`
 - https://www.meganii.com/blog/2020/01/30/puppeteer-wait-for-navigation/

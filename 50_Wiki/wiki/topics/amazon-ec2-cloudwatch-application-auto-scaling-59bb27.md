@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md"
+  - "../60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md"
 summary: "Application Auto Scaling: ステップスケーリングの概要"
 ---
 
@@ -45,5 +45,5 @@ Application Auto Scaling: ステップスケーリングの概要
 
 ## 出典
 
-- `60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md`
+- `../60_Resources/Application Auto Scaling のステップスケーリングの仕組み - Application Auto Scaling.md`
 - https://docs.aws.amazon.com/ja_jp/autoscaling/application/userguide/step-scaling-policy-overview.html

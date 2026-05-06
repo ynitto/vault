@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/OpenID ConnectのJWTとJWKを手軽につくりたい.md"
+  - "../60_Resources/OpenID ConnectのJWTとJWKを手軽につくりたい.md"
 summary: "TakahikoKawasaki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ TakahikoKawasaki は関連資料の著者・関係者として参照される人
 
 ## 出典
 
-- `60_Resources/OpenID ConnectのJWTとJWKを手軽につくりたい.md`
+- `../60_Resources/OpenID ConnectのJWTとJWKを手軽につくりたい.md`
 - https://qiita.com/shu-yusa/items/36855cf1e9b4ec2adf28

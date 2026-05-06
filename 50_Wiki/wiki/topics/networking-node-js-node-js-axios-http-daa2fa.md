@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md"
+  - "../60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md"
 summary: "Node.js環境において、`axios`を用いたHTTPリクエスト時に`keepAlive`を設定することで、TCPコネクションを再利用し、2回目以降の…"
 ---
 
@@ -52,5 +52,5 @@ Node.js環境において、`axios`を用いたHTTPリクエスト時に`keepAli
 
 ## 出典
 
-- `60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md`
+- `../60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md`
 - https://qiita.com/omukaik/items/caef4953c2580fdee5ee

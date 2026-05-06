@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】.md"
+  - "../60_Resources/ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】.md"
 summary: "Qiita記事要約：Git×Obsidianによるドキュメント管理"
 ---
 
@@ -49,5 +49,5 @@ Qiita記事要約：Git×Obsidianによるドキュメント管理
 
 ## 出典
 
-- `60_Resources/ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】.md`
+- `../60_Resources/ドキュメントをGit×Obsidianで管理してみませんか？【実プロジェクトでの導入事例とその手法】.md`
 - https://qiita.com/oga_aiichiro/items/1eb903562851f4f4a206

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/コスト削減に期待！ECS on EC2 でスポットインスタンスの利用を考える.md"
+  - "../60_Resources/コスト削減に期待！ECS on EC2 でスポットインスタンスの利用を考える.md"
 summary: "ECS on EC2におけるスポットインスタンス利用の要約"
 ---
 
@@ -46,5 +46,5 @@ ECS on EC2におけるスポットインスタンス利用の要約
 
 ## 出典
 
-- `60_Resources/コスト削減に期待！ECS on EC2 でスポットインスタンスの利用を考える.md`
+- `../60_Resources/コスト削減に期待！ECS on EC2 でスポットインスタンスの利用を考える.md`
 - https://dev.classmethod.jp/articles/spotinstances-with-ecs-on-ec2/

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ECSのDAEMONをDRAININGで直ぐに停止しないようにした.md"
+  - "../60_Resources/ECSのDAEMONをDRAININGで直ぐに停止しないようにした.md"
 summary: "わにーる (id:oneal-desu) に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ summary: "わにーる (id:oneal-desu) に関する人物ページ。"
 
 ## 出典
 
-- `60_Resources/ECSのDAEMONをDRAININGで直ぐに停止しないようにした.md`
+- `../60_Resources/ECSのDAEMONをDRAININGで直ぐに停止しないようにした.md`
 - https://buildersbox.corp-sansan.com/entry/2020/04/30/110000

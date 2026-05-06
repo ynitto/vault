@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md"
+  - "../60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md"
 summary: "shiozaki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ shiozaki は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md`
+- `../60_Resources/JPG画像をBase64で送るとサイズが33%増えるが、Gzip圧縮すれば「ほぼ元通り」になるという話.md`
 - https://qiita.com/shiozaki/items/9d7aeac0dd6733a6e2fb

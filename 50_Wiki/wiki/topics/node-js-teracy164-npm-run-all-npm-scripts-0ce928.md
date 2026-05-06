@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/npm-run-allでnpm scriptsを整理してみた.md"
+  - "../60_Resources/npm-run-allでnpm scriptsを整理してみた.md"
 summary: "Angularのマルチプロジェクト環境において、複雑化しがちな`package.json`のスクリプト管理を、`npm-run-all`を使って効率化・簡…"
 ---
 
@@ -46,5 +46,5 @@ Angularのマルチプロジェクト環境において、複雑化しがちな`
 
 ## 出典
 
-- `60_Resources/npm-run-allでnpm scriptsを整理してみた.md`
+- `../60_Resources/npm-run-allでnpm scriptsを整理してみた.md`
 - https://qiita.com/teracy164/items/88eacfae61a683f6a29b

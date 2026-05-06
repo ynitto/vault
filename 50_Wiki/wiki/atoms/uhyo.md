@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書.md"
+  - "../60_Resources/【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書.md"
 summary: "uhyo に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ uhyo は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書.md`
+- `../60_Resources/【図解解説】これ1本12分でReact Hooks 全20種を理解できる教科書.md`
 - https://qiita.com/Sicut_study/items/d4778cbe8b499570f79e

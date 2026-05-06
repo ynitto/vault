@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜   ネッコノート  necco inc.（ネッコ）.md"
+  - "../60_Resources/Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜   ネッコノート  necco inc.（ネッコ）.md"
 summary: "Obsidianを日常記録や開発・ブログ執筆の効率化に活用する佐藤あゆみ氏による、おすすめのプラグイン紹介記事です。複雑な設定を避け、テキストエディタとし…"
 ---
 
@@ -43,5 +43,5 @@ Obsidianを日常記録や開発・ブログ執筆の効率化に活用する佐
 
 ## 出典
 
-- `60_Resources/Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜   ネッコノート  necco inc.（ネッコ）.md`
+- `../60_Resources/Obsidianおすすめプラグイン 〜日常記録、コードスニペット、ブログの下書きに〜   ネッコノート  necco inc.（ネッコ）.md`
 - https://necco.inc/note/49799/

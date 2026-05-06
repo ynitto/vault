@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md"
+  - "../60_Resources/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md"
 summary: "`CLAUDE.md`は、Claude Codeがセッション開始時に読み込む設定ファイルです。プロジェクトルートに配置することで、AIにチームのルールや作…"
 ---
 
@@ -46,5 +46,5 @@ summary: "`CLAUDE.md`は、Claude Codeがセッション開始時に読み込む
 
 ## 出典
 
-- `60_Resources/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md`
+- `../60_Resources/Boris Cherny氏の知見を元に作成された、CLAUDE.mdを理解する.md`
 - https://qiita.com/uno_ha07/items/5820d195510861b5be71

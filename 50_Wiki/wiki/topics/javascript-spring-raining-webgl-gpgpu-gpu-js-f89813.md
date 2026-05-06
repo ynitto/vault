@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md"
+  - "../60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md"
 summary: "WebGLを用いたGPGPU（汎用GPU計算）を実現するJavaScriptライブラリを紹介する記事です。グラフィックス専用と思われがちなWebGLを数値…"
 ---
 
@@ -46,5 +46,5 @@ WebGLを用いたGPGPU（汎用GPU計算）を実現するJavaScriptライブラ
 
 ## 出典
 
-- `60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md`
+- `../60_Resources/WebGLでGPGPU（gpu.js  turbo.js  deeplearn.js  WebDNN）.md`
 - https://qiita.com/spring_raining/items/a040d647373cfe0e2201

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/【Python】文字列連結のパフォーマンス最適化 — joinって本当に速いの？.md"
+  - "../60_Resources/【Python】文字列連結のパフォーマンス最適化 — joinって本当に速いの？.md"
 summary: "Pythonにおける文字列結合の最適化：`+` vs `join`"
 ---
 
@@ -46,5 +46,5 @@ Pythonにおける文字列結合の最適化：`+` vs `join`
 
 ## 出典
 
-- `60_Resources/【Python】文字列連結のパフォーマンス最適化 — joinって本当に速いの？.md`
+- `../60_Resources/【Python】文字列連結のパフォーマンス最適化 — joinって本当に速いの？.md`
 - https://zenn.dev/techliberty/articles/18afd8ab79526b

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidianをチームで使えるようにしたいin閉域環境なJTC.md"
+  - "../60_Resources/Obsidianをチームで使えるようにしたいin閉域環境なJTC.md"
 summary: "Obsidian Vaultの一部を共有用サブモジュールとして切り出し、チームで参照可能に。"
 ---
 
@@ -46,5 +46,5 @@ Obsidian Vaultの一部を共有用サブモジュールとして切り出し、
 
 ## 出典
 
-- `60_Resources/Obsidianをチームで使えるようにしたいin閉域環境なJTC.md`
+- `../60_Resources/Obsidianをチームで使えるようにしたいin閉域環境なJTC.md`
 - https://zenn.dev/ningensei848/articles/obsidian-air-gapped-team-sync

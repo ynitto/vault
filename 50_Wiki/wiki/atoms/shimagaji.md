@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md"
+  - "../60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md"
 summary: "shimagaji に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ shimagaji は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md`
+- `../60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md`
 - https://qiita.com/shimagaji/items/4fa220ea0215a04704b6

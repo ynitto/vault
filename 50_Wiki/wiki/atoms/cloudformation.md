@@ -8,21 +8,21 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md"
-  - "60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md"
-  - "60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md"
-  - "60_Resources/Amazon ECS タスクの停止理由 (エラー内容) を CloudWatch Logs に保存する方法とその分析をしてみた.md"
-  - "60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md"
-  - "60_Resources/CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた.md"
-  - "60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md"
-  - "60_Resources/CloudWatch LogsのログデータをKinesis Data Firehose経由でS3に出力する.md"
-  - "60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md"
-  - "60_Resources/ECRはイミュータブルにしておくと安全.md"
-  - "60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md"
-  - "60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md"
-  - "60_Resources/Stacked Diffs (and why you should know about them).md"
-  - "60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md"
-  - "60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md"
+  - "../../60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md"
+  - "../60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md"
+  - "../60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md"
+  - "../../60_Resources/Amazon ECS タスクの停止理由 (エラー内容) を CloudWatch Logs に保存する方法とその分析をしてみた.md"
+  - "../60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md"
+  - "../60_Resources/CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた.md"
+  - "../60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md"
+  - "../60_Resources/CloudWatch LogsのログデータをKinesis Data Firehose経由でS3に出力する.md"
+  - "../60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md"
+  - "../60_Resources/ECRはイミュータブルにしておくと安全.md"
+  - "../60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md"
+  - "../60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md"
+  - "../../60_Resources/Stacked Diffs (and why you should know about them).md"
+  - "../60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md"
+  - "../60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md"
 summary: "AWS インフラをコードで管理する仕組み。"
 ---
 
@@ -106,33 +106,33 @@ CloudFormation は AWS リソースを宣言的に管理し、スタックの作
 
 ## 出典
 
-- `60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md`
+- `../../60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md`
 - https://github.com/aws/aws-cdk/issues/14732
-- `60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md`
+- `../60_Resources/AWS CloudFormationでWAFを設定したELBを構築しよう.md`
 - https://qiita.com/s_horikoshi/items/9b5da901601e947114ec
-- `60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md`
+- `../60_Resources/AWSCloudFrontTrustStore CaCertificatesBundleS3Location - AWS CloudFormation.md`
 - https://docs.aws.amazon.com/AWSCloudFormation/latest/TemplateReference/aws-properties-cloudfront-truststore-cacertificatesbundles3location.html
-- `60_Resources/Amazon ECS タスクの停止理由 (エラー内容) を CloudWatch Logs に保存する方法とその分析をしてみた.md`
+- `../../60_Resources/Amazon ECS タスクの停止理由 (エラー内容) を CloudWatch Logs に保存する方法とその分析をしてみた.md`
 - https://dev.classmethod.jp/articles/stop-ecs-task-reason-cloudwatch-logs/
-- `60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md`
+- `../60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md`
 - https://tech.quartetcom.co.jp/2022/07/28/ecs-scheduled-auto-scaling/
-- `60_Resources/CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた.md`
+- `../60_Resources/CloudFormation コーディング規約を策定し、rain fmt + cfn-lint + Claude Code skillsで担保する仕組みを整備してみた.md`
 - https://dev.classmethod.jp/articles/cfn-coding-guidelines/
-- `60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md`
+- `../60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md`
 - https://dev.classmethod.jp/articles/created_a_cross-account_access_role_in_cloudformation/
-- `60_Resources/CloudWatch LogsのログデータをKinesis Data Firehose経由でS3に出力する.md`
+- `../60_Resources/CloudWatch LogsのログデータをKinesis Data Firehose経由でS3に出力する.md`
 - https://dev.classmethod.jp/articles/cloudwatch-logs-to-s3-via-kinesis-data-firehose/
-- `60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md`
+- `../60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md`
 - https://dev.classmethod.jp/articles/cfn-for-ecr-lifecyclepolicy/
-- `60_Resources/ECRはイミュータブルにしておくと安全.md`
+- `../60_Resources/ECRはイミュータブルにしておくと安全.md`
 - https://zenn.dev/levtech/articles/8feb6330f7c767
-- `60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md`
+- `../60_Resources/ECSタスクの異常終了をCloudFormationでメトリクスにして死活監視.md`
 - https://go-to-k.hatenablog.com/entry/2022/01/30/045205
-- `60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md`
+- `../60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md`
 - https://dev.classmethod.jp/articles/cloudformation-template-for-s3-express-one-zone-vpc-endpoint/
-- `60_Resources/Stacked Diffs (and why you should know about them).md`
+- `../../60_Resources/Stacked Diffs (and why you should know about them).md`
 - https://newsletter.pragmaticengineer.com/p/stacked-diffs
-- `60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md`
+- `../60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md`
 - https://dev.classmethod.jp/articles/awssummit2021-ecs-deployment-circuit-breaker/
-- `60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md`
+- `../60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md`
 - https://dev.classmethod.jp/articles/aws-cloudformation-migration-json-to-yaml/

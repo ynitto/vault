@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md"
+  - "../60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md"
 summary: "dev.classmethod.jp/author/yoshii-ryo/ に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ dev.classmethod.jp/author/yoshii-ryo/ は関連資料の著者・関係者とし
 
 ## 出典
 
-- `60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md`
+- `../60_Resources/スケジュールされたスケーリングとターゲット追跡スケーリングを組み合わせて万全のAutoScalingを実現する.md`
 - https://zenn.dev/ryoyoshii/articles/442e9f85b84196

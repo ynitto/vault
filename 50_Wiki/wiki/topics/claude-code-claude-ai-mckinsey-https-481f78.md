@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法.md"
+  - "../60_Resources/Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法.md"
 summary: "Claude Codeのエージェント機能を活用し、McKinsey/BCG流の思考フレームワーク（空・雨・傘）を組み込んだ「AIコンサルタント」の構築・運…"
 ---
 
@@ -43,5 +43,5 @@ Claude Codeのエージェント機能を活用し、McKinsey/BCG流の思考フ
 
 ## 出典
 
-- `60_Resources/Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法.md`
+- `../60_Resources/Claude CodeのエージェントでAIコンサルタントを構築する｜McKinsey流フレームワークの実装方法.md`
 - https://qiita.com/rcomcpgm-cyber/items/901344b211a6a3e7dda7

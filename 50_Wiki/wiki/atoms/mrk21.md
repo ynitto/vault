@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/WSL2 の localhostForwarding 機能がうまくうごかない.md"
+  - "../60_Resources/WSL2 の localhostForwarding 機能がうまくうごかない.md"
 summary: "mrk21 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ mrk21 は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/WSL2 の localhostForwarding 機能がうまくうごかない.md`
+- `../60_Resources/WSL2 の localhostForwarding 機能がうまくうごかない.md`
 - https://mrk21.hatenablog.com/entry/2022/01/30/183331

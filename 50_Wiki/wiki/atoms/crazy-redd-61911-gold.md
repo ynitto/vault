@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/How do you disable Google Chrome SafeBrowsing while using Puppeteer.md"
+  - "../60_Resources/How do you disable Google Chrome SafeBrowsing while using Puppeteer.md"
 summary: "Crazy Redd 61911 gold badge88 silver badges2525 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Crazy Redd 61911 gold badge88 silver badges2525 bronze badges は関連資料の
 
 ## 出典
 
-- `60_Resources/How do you disable Google Chrome SafeBrowsing while using Puppeteer.md`
+- `../60_Resources/How do you disable Google Chrome SafeBrowsing while using Puppeteer.md`
 - https://stackoverflow.com/questions/78124291/how-do-you-disable-google-chrome-safebrowsing-while-using-puppeteer

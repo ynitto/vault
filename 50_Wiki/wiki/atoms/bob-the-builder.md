@@ -5,8 +5,8 @@ tags: [kiro, cli, orchestrator, autonomous, oss]
 created: 2026-05-03
 updated: 2026-05-06
 sources:
-  - "60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md"
-  - "60_Resources/自律的Kiro CLIオーケストレーター.md"
+  - "../60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md"
+  - "../60_Resources/自律的Kiro CLIオーケストレーター.md"
 summary: "Kiro CLI向けの自律的オーケストレーターOSS。仕様優先アプローチとClaudeの自律機能を統合。"
 ---
 
@@ -32,5 +32,5 @@ Kiro CLIの仕様優先アプローチとClaudeの自律的な機能を統合し
 
 ## 出典
 
-- `60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md`（Reddit r/kiroIDE, 2026-02-15）
-- `60_Resources/自律的Kiro CLIオーケストレーター.md`
+- `../60_Resources/自律的Kiro CLIオーケストレーター（2026-05-05）.md`（Reddit r/kiroIDE, 2026-02-15）
+- `../60_Resources/自律的Kiro CLIオーケストレーター.md`

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md"
+  - "../60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md"
 summary: "81433 gold badges4747 silver badges6868 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ summary: "81433 gold badges4747 silver badges6868 bronze badges に関する人�
 
 ## 出典
 
-- `60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md`
+- `../60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md`
 - https://stackoverflow.com/questions/45852383/can-a-swagger-object-passed-as-a-parameter-have-default-values-in-swagger-ui

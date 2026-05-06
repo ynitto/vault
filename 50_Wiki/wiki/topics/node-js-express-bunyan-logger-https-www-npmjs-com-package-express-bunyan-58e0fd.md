@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/express-bunyan-logger.md"
+  - "../60_Resources/express-bunyan-logger.md"
 summary: "`express-bunyan-logger` は、Node.jsのログライブラリ「Bunyan」を利用した、Express用ロギングミドルウェアです。"
 ---
 
@@ -43,5 +43,5 @@ summary: "`express-bunyan-logger` は、Node.jsのログライブラリ「Bunyan
 
 ## 出典
 
-- `60_Resources/express-bunyan-logger.md`
+- `../60_Resources/express-bunyan-logger.md`
 - https://www.npmjs.com/package/express-bunyan-logger

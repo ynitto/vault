@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Expressで実装したREST APIのresponseスキーマはjest-openapiで期待通りか？テストできる｜SHIFT Group 技術ブログ.md"
+  - "../60_Resources/Expressで実装したREST APIのresponseスキーマはjest-openapiで期待通りか？テストできる｜SHIFT Group 技術ブログ.md"
 summary: "Expressで作成したREST APIのレスポンスが、OpenAPI（Swagger）定義と一致しているかを`jest-openapi`を用いて自動テス…"
 ---
 
@@ -43,5 +43,5 @@ Expressで作成したREST APIのレスポンスが、OpenAPI（Swagger）定義
 
 ## 出典
 
-- `60_Resources/Expressで実装したREST APIのresponseスキーマはjest-openapiで期待通りか？テストできる｜SHIFT Group 技術ブログ.md`
+- `../60_Resources/Expressで実装したREST APIのresponseスキーマはjest-openapiで期待通りか？テストできる｜SHIFT Group 技術ブログ.md`
 - https://note.shiftinc.jp/n/n3725f8a55b8d

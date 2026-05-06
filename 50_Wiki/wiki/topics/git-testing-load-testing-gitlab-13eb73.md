@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Load testing with GitLab.md"
+  - "../60_Resources/Load testing with GitLab.md"
 summary: "本記事は、Grafana k6を用いてGitLab CI/CDパイプラインにパフォーマンステストを統合し、リリース前に安定性を確保する方法を解説しています。"
 ---
 
@@ -38,7 +38,7 @@ summary: "本記事は、Grafana k6を用いてGitLab CI/CDパイプラインに
 - **閾値（Thresholds）の設定**
 - サービスレベル目標（SLO）をパス/フェイルの基準として設定することで、パフォーマンス低下を自動的に検知します。
 - **GitLab CIへの統合**
-- `.gitlab-ci.yml`で`grafana/k6`イメージを使用し、ビルドやデプロイ後の工程で自動的にロードテストを実行します。
+- `../.gitlab-ci.yml`で`grafana/k6`イメージを使用し、ビルドやデプロイ後の工程で自動的にロードテストを実行します。
 - **クラウド実行の活用**
 
 *発行: 2020-09-28 / [[git-testing-load-testing-gitlab-13eb73]]*
@@ -52,5 +52,5 @@ summary: "本記事は、Grafana k6を用いてGitLab CI/CDパイプラインに
 
 ## 出典
 
-- `60_Resources/Load testing with GitLab.md`
+- `../60_Resources/Load testing with GitLab.md`
 - https://grafana.com/blog/load-testing-with-gitlab/

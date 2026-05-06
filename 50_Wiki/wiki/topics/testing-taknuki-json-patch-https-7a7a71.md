@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/JSON Patchをキャッチアップしました.md"
+  - "../60_Resources/JSON Patchをキャッチアップしました.md"
 summary: "JSONドキュメントの一部を更新するための標準規格である「JSON Patch (RFC 6902)」および、その場所を特定するための「JSON Poin…"
 ---
 
@@ -46,5 +46,5 @@ JSONドキュメントの一部を更新するための標準規格である「J
 
 ## 出典
 
-- `60_Resources/JSON Patchをキャッチアップしました.md`
+- `../60_Resources/JSON Patchをキャッチアップしました.md`
 - https://qiita.com/zhang_yid/items/31358f9b2922165ce78d

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/REST Resource files    Google Drive.md"
+  - "../60_Resources/REST Resource files    Google Drive.md"
 summary: "Google Drive API v3: files リソース概要"
 ---
 
@@ -36,5 +36,5 @@ Google Drive API v3: files リソース概要
 
 ## 出典
 
-- `60_Resources/REST Resource files    Google Drive.md`
+- `../60_Resources/REST Resource files    Google Drive.md`
 - https://developers.google.com/workspace/drive/api/reference/rest/v3/files?hl=ja

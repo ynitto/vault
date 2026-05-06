@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md"
+  - "../60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md"
 summary: "aptpod_tech-writer に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ aptpod_tech-writer は関連資料の著者・関係者として参照される�
 
 ## 出典
 
-- `60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md`
+- `../60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md`
 - https://tech.aptpod.co.jp/entry/2021/12/06/070000

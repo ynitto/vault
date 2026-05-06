@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話.md"
+  - "../60_Resources/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話.md"
 summary: "GitリポジトリとClaude Codeを組み合わせ、自身の思考やプロジェクト管理を「第二の脳（Second Brain）」として構築・自動運用する方法を…"
 ---
 
@@ -49,5 +49,5 @@ GitリポジトリとClaude Codeを組み合わせ、自身の思考やプロジ
 
 ## 出典
 
-- `60_Resources/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話.md`
+- `../60_Resources/Claude Codeで「第二の脳」を作り、最終的にAIが自律運用するようになった話.md`
 - https://qiita.com/yamapiiii/items/cc2450f410b64329d275

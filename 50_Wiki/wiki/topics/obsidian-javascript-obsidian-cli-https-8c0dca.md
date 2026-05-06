@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidian CLI.md"
+  - "../60_Resources/Obsidian CLI.md"
 summary: "Obsidian CLIは、ターミナルからObsidianを操作できるコマンドラインインターフェースです。スクリプト作成、自動化、外部ツールとの連携に利用…"
 ---
 
@@ -42,5 +42,5 @@ Obsidian CLIは、ターミナルからObsidianを操作できるコマンドラ
 
 ## 出典
 
-- `60_Resources/Obsidian CLI.md`
+- `../60_Resources/Obsidian CLI.md`
 - https://obsidian.md/ja/help/cli

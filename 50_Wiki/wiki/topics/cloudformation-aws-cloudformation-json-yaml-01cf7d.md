@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md"
+  - "../60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md"
 summary: "既存のAWS CloudFormationスタック（JSON形式）を、運用を維持したままYAML形式へシームレスに移行できるかを検証した内容です。"
 ---
 
@@ -39,5 +39,5 @@ summary: "既存のAWS CloudFormationスタック（JSON形式）を、運用を
 
 ## 出典
 
-- `60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md`
+- `../60_Resources/運用しているAWS CloudFormationのテンプレートをJSONからYAMLに移行する.md`
 - https://dev.classmethod.jp/articles/aws-cloudformation-migration-json-to-yaml/

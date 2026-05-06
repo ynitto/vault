@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/開発効率を爆上げするswagger術.md"
+  - "../60_Resources/開発効率を爆上げするswagger術.md"
 summary: "yuya_sega に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ yuya_sega は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/開発効率を爆上げするswagger術.md`
+- `../60_Resources/開発効率を爆上げするswagger術.md`
 - https://qiita.com/yuya_sega/items/0670bd1e9dd7af567fa1

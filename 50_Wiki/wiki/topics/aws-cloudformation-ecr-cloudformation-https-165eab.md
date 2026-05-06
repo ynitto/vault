@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md"
+  - "../60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md"
 summary: "ECRライフサイクルポリシーのCloudFormationでの設定方法"
 ---
 
@@ -46,5 +46,5 @@ ECRライフサイクルポリシーのCloudFormationでの設定方法
 
 ## 出典
 
-- `60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md`
+- `../60_Resources/ECRのライフサイクルポリシーをCloudFormationで定義する方法とその設定指針.md`
 - https://dev.classmethod.jp/articles/cfn-for-ecr-lifecyclepolicy/

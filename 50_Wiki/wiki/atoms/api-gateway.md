@@ -8,16 +8,16 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md"
-  - "60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md"
-  - "60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md"
-  - "60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md"
-  - "60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md"
-  - "60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
-  - "60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md"
-  - "60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md"
-  - "60_Resources/サーバーレスなデータ収集APIを作るときの困りポイント.md"
-  - "60_Resources/推奨アラーム.md"
+  - "../60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md"
+  - "../60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md"
+  - "../60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md"
+  - "../60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md"
+  - "../60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md"
+  - "../../60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
+  - "../60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md"
+  - "../60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md"
+  - "../60_Resources/サーバーレスなデータ収集APIを作るときの困りポイント.md"
+  - "../60_Resources/推奨アラーム.md"
 summary: "API 公開や統合を担う AWS のゲートウェイサービス。"
 ---
 
@@ -81,23 +81,23 @@ Amazon API Gateway は HTTP API や統合処理の入口になり、認証・制
 
 ## 出典
 
-- `60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md`
+- `../60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md`
 - https://tech.every.tv/entry/20240611
-- `60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md`
-- https://zatoima.github.io/aws-api-gateway-cloudfront-restrict-resource-policy/
-- `60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md`
+- `../60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md`
+- https://zatoima../.github.io/aws-api-gateway-cloudfront-restrict-resource-policy/
+- `../60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md`
 - https://techblog.techfirm.co.jp/entry/create-kinesis-firehose-proxy-with-api-gateway
-- `60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md`
+- `../60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md`
 - https://qiita.com/unhurried/items/5a497ec81e4fefe22396
-- `60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md`
+- `../60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md`
 - https://tech.aptpod.co.jp/entry/2021/12/06/070000
-- `60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
+- `../../60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
 - https://tmokmss.hatenablog.com/entry/20221213/1670891305
-- `60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md`
+- `../60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md`
 - https://docs.aws.amazon.com/ja_jp/apigateway/latest/developerguide/http-api-vs-rest.html
-- `60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md`
+- `../60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md`
 - https://qiita.com/shimagaji/items/4fa220ea0215a04704b6
-- `60_Resources/サーバーレスなデータ収集APIを作るときの困りポイント.md`
+- `../60_Resources/サーバーレスなデータ収集APIを作るときの困りポイント.md`
 - https://engineers.fenrir-inc.com/entry/2023/03/16/172808
-- `60_Resources/推奨アラーム.md`
+- `../60_Resources/推奨アラーム.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/Best_Practice_Recommended_Alarms_AWS_Services.html

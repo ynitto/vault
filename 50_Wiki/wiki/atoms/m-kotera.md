@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/高速で厳密なk近傍法(k-NN)の計算.md"
+  - "../../60_Resources/高速で厳密なk近傍法(k-NN)の計算.md"
 summary: "M_Kotera に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ M_Kotera は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/高速で厳密なk近傍法(k-NN)の計算.md`
+- `../../60_Resources/高速で厳密なk近傍法(k-NN)の計算.md`
 - https://qiita.com/M_Kotera/items/6f90a52a08e57471b871

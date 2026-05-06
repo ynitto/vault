@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/シンボリックリンクとジャンクション.md"
+  - "../60_Resources/シンボリックリンクとジャンクション.md"
 summary: "シンボリックリンクとジャンクション (Obsidian)"
 ---
 
@@ -39,5 +39,5 @@ summary: "シンボリックリンクとジャンクション (Obsidian)"
 
 ## 出典
 
-- `60_Resources/シンボリックリンクとジャンクション.md`
+- `../60_Resources/シンボリックリンクとジャンクション.md`
 - https://obsidian.md/ja/help/symlinks

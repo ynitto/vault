@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md"
+  - "../60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md"
 summary: "sakasegawa に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ sakasegawa は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md`
+- `../60_Resources/MS謹製のanything to Markdownライブラリ markitdownを試す&PRを出してみた件.md`
 - https://qiita.com/sakasegawa/items/4b55deeea9c93145c4da

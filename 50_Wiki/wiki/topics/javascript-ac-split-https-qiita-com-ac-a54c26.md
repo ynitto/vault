@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md"
+  - "../60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md"
 summary: "引用符（"）で囲まれたカンマを含む文字列を、適切に分割して配列に変換する JavaScript の関数 `convertListToArray` について…"
 ---
 
@@ -45,5 +45,5 @@ summary: "引用符（"）で囲まれたカンマを含む文字列を、適切
 
 ## 出典
 
-- `60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md`
+- `../60_Resources/引用符で囲まれた場合も考慮してカンマ区切りされた文字列を split して配列に変換する.md`
 - https://qiita.com/ac_qiita/items/36ba56a71a40bb13edc6

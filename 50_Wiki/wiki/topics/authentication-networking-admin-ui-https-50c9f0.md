@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Admin UI.md"
+  - "../60_Resources/Admin UI.md"
 summary: "Socket.IO Admin UI は、Socket.IO デプロイメントの状態を可視化・管理するための公式ツールです。"
 ---
 
@@ -52,5 +52,5 @@ Socket.IO Admin UI は、Socket.IO デプロイメントの状態を可視化・
 
 ## 出典
 
-- `60_Resources/Admin UI.md`
+- `../60_Resources/Admin UI.md`
 - https://socket.io/docs/v4/admin-ui/

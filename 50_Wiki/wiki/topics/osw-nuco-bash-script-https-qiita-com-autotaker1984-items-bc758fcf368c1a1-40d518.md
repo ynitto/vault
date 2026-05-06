@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Bash Scriptの作法.md"
+  - "../60_Resources/Bash Scriptの作法.md"
 summary: "チーム開発でBashスクリプトを保守しやすくするためのコーディングルールです。"
 ---
 
@@ -28,7 +28,7 @@ summary: "チーム開発でBashスクリプトを保守しやすくするため
 - チーム開発でBashスクリプトを保守しやすくするためのコーディングルールです。
 - 1. 基本設定
 - **スクリプト名**: kebab-case（例: `deploy-server.sh`）で統一。
-- **改行コード**: LFを使用（`.gitattributes`で設定を推奨）。
+- **改行コード**: LFを使用（`../.gitattributes`で設定を推奨）。
 - **Shebang**: `#!/bin/bash` を使用。
 - **おまじない**: `set -euxo pipefail` でエラーハンドリングを強化。
 - **ディレクトリ**: `cd "$(dirname "$0")"` で実行パスを固定。
@@ -43,5 +43,5 @@ summary: "チーム開発でBashスクリプトを保守しやすくするため
 
 ## 出典
 
-- `60_Resources/Bash Scriptの作法.md`
+- `../60_Resources/Bash Scriptの作法.md`
 - https://qiita.com/autotaker1984/items/bc758fcf368c1a167353

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md"
+  - "../../60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md"
 summary: "hnrc に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ hnrc は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md`
+- `../../60_Resources/(aws-ecs) Can't delete a stack with ASG Capacity providers · Issue 14732 · awsaws-cdk.md`
 - https://github.com/aws/aws-cdk/issues/14732

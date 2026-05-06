@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md"
+  - "../60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md"
 summary: "CloudFormationを使用して、別のアカウントのIAMユーザーが対象アカウントのリソースを操作するための「クロスアカウントアクセスロール」を作成す…"
 ---
 
@@ -46,5 +46,5 @@ CloudFormationを使用して、別のアカウントのIAMユーザーが対象
 
 ## 出典
 
-- `60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md`
+- `../60_Resources/CloudFormationでクロスアカウントアクセスロールを作成してみた.md`
 - https://dev.classmethod.jp/articles/created_a_cross-account_access_role_in_cloudformation/

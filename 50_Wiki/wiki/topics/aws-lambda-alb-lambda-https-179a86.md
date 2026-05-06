@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
+  - "../60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
 summary: "AWS LambdaとApplication Load Balancer（ALB）を連携させる際の、リクエストペイロード制限に関する技術情報のまとめです。"
 ---
 
@@ -52,5 +52,5 @@ AWS LambdaとApplication Load Balancer（ALB）を連携させる際の、リク
 
 ## 出典
 
-- `60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
+- `../60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
 - https://yohei-a.hatenablog.jp/entry/20210115/1610705961

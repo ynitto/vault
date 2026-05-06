@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md"
+  - "../60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md"
 summary: "プライベートサブネット内のECS（特にFargate）から、NAT Gatewayを経由せずにAWS各サービスへ接続するために必要なVPCエンドポイントの…"
 ---
 
@@ -49,5 +49,5 @@ summary: "プライベートサブネット内のECS（特にFargate）から、
 
 ## 出典
 
-- `60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md`
+- `../60_Resources/ECSに必要なVPCエンドポイントまとめ（2022年版）.md`
 - https://dev.classmethod.jp/articles/vpc-endpoints-for-ecs-2022/

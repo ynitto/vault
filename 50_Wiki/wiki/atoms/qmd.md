@@ -5,9 +5,9 @@ tags: [qmd, search, markdown, mcp, local-search]
 created: 2026-05-06
 updated: 2026-05-06
 sources:
-  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md"
-  - "60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md"
-  - "60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで.md"
+  - ".wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md"
+  - "../60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md"
+  - "../60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで.md"
 summary: "ローカル Markdown を BM25・ベクトル検索・LLM 再ランキングで横断検索し、MCP 経由で Claude Code などから使える検索基盤。"
 ---
 
@@ -33,6 +33,6 @@ summary: "ローカル Markdown を BM25・ベクトル検索・LLM 再ランキ
 
 ## 出典
 
-- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md`（Note, 2026-01-31）
-- `60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md`
-- `60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで.md`
+- `.wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md`（Note, 2026-01-31）
+- `../60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで｜Seiji Takahashi@ベースマキナ.md`
+- `../60_Resources/qmdで始めるローカルAI検索 — ハイブリッド検索の仕組みからClaude Code連携まで.md`

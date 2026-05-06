@@ -5,7 +5,7 @@ tags: [claude, anthropic, llm, model]
 created: 2026-05-04
 updated: 2026-05-06
 sources:
-  - "60_Resources/モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った.md"
+  - "../60_Resources/モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った.md"
 summary: "Anthropicのフラッグシップモデル。adaptive thinkingへの一本化とトークナイザー変更により4.6と最適プロンプトが異なる。"
 ---
 
@@ -36,4 +36,4 @@ Anthropicのフラッグシップ大規模言語モデル。adaptive thinkingへ
 
 ## 出典
 
-- `60_Resources/モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った.md`
+- `../60_Resources/モデルが変われば指示も変わる ─ Opus 4.7 向け Agent Skill を作った.md`

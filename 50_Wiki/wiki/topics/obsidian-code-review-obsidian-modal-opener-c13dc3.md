@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix.md"
+  - "../60_Resources/Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix.md"
 summary: "Obsidian プラグイン「Modal Opener」"
 ---
 
@@ -46,5 +46,5 @@ Obsidian プラグイン「Modal Opener」
 
 ## 出典
 
-- `60_Resources/Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix.md`
+- `../60_Resources/Obsidian でモーダルから入力できるプラグイン Modal Opener｜MaybeFix.md`
 - https://note.com/maybefix/n/n0adffb4ebfe3

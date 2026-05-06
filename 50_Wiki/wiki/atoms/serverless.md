@@ -7,17 +7,17 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
-  - "60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md"
-  - "60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md"
-  - "60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md"
-  - "60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md"
-  - "60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
-  - "60_Resources/Async Lambda Function Retries with Backoff and Jitter.md"
-  - "60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
-  - "60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md"
-  - "60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md"
-  - "60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md"
+  - "../60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
+  - "../60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md"
+  - "../60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md"
+  - "../60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md"
+  - "../60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md"
+  - "../60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
+  - "../60_Resources/Async Lambda Function Retries with Backoff and Jitter.md"
+  - "../60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
+  - "../60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md"
+  - "../../60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md"
+  - "../60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md"
 summary: "サーバレス設計の要点を整理するページ。"
 ---
 
@@ -87,25 +87,25 @@ Serverless は運用負荷を減らしつつ、イベント駆動で機能を構
 
 ## 出典
 
-- `60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
+- `../60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
 - https://yohei-a.hatenablog.jp/entry/20210115/1610705961
-- `60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md`
+- `../60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md`
 - https://tech.every.tv/entry/20240611
-- `60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md`
-- https://zatoima.github.io/aws-api-gateway-cloudfront-restrict-resource-policy/
-- `60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md`
+- `../60_Resources/API Gateway のアクセス元をリソースポリシー機能を使用してCloudFrontのみに限定する方法.md`
+- https://zatoima../.github.io/aws-api-gateway-cloudfront-restrict-resource-policy/
+- `../60_Resources/API GatewayでKinesis Data Firehoseのプロキシを作成する.md`
 - https://techblog.techfirm.co.jp/entry/create-kinesis-firehose-proxy-with-api-gateway
-- `60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md`
+- `../60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md`
 - https://qiita.com/horit0123/items/295f8dc55d8c07e6512a
-- `60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
+- `../60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
 - https://qiita.com/yoshii0110/items/cbbfe797845dfa7e181d
-- `60_Resources/Async Lambda Function Retries with Backoff and Jitter.md`
+- `../60_Resources/Async Lambda Function Retries with Backoff and Jitter.md`
 - https://lucvandonkersgoed.com/2022/02/07/async-lambda-function-retries-with-backoff-and-jitter/
-- `60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
+- `../60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
 - https://dev.classmethod.jp/articles/comparison-of-fees-for-cloudwatch-logs-and-s3/
-- `60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md`
+- `../60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md`
 - https://zenn.dev/ncdc/articles/eaa3d113c27f28
-- `60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md`
+- `../../60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md`
 - https://qiita.com/hirai-11/items/f16b326061956fb85c9c
-- `60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md`
+- `../60_Resources/ついにAPI Gatewayの統合タイムアウトが29秒の壁を超えられるように！実際に延長リクエストしてみた.md`
 - https://qiita.com/shimagaji/items/4fa220ea0215a04704b6

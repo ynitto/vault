@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない.md"
+  - "../60_Resources/Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない.md"
 summary: "Obsidian Web ClipperでのAI要約問題解決"
 ---
 
@@ -41,5 +41,5 @@ Obsidian Web ClipperでのAI要約問題解決
 
 ## 出典
 
-- `60_Resources/Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない.md`
+- `../60_Resources/Obsidian Web Clipperと生成AIでクリップの自動要約がうまくいかない.md`
 - https://zenn.dev/2rezure/articles/e662f43ad9ea35

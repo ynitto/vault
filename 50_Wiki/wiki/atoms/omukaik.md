@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md"
+  - "../60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md"
 summary: "omukaik に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ omukaik は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md`
+- `../60_Resources/Node.jsでのaxiosによるhttpリクエスト時にKeepAliveを設定して高速化.md`
 - https://qiita.com/omukaik/items/caef4953c2580fdee5ee

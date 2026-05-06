@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md"
+  - "../../60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md"
 summary: "Node.jsで`child_process.fork()`を使用して生成した子プロセスおよび孫プロセスを、一括して終了（kill）させる手法についての解…"
 ---
 
@@ -44,5 +44,5 @@ Node.jsで`child_process.fork()`を使用して生成した子プロセスおよ
 
 ## 出典
 
-- `60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md`
+- `../../60_Resources/Node.js child_process.fork()で起動したプロセスを子子孫孫殺す方法.md`
 - https://qiita.com/suin/items/ba35a78c0b7268e8e7d1

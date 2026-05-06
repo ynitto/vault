@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ObsidianでZennを書く！git submoduleで一元管理.md"
+  - "../60_Resources/ObsidianでZennを書く！git submoduleで一元管理.md"
 summary: "ObsidianとZennの連携：git submoduleによる一元管理"
 ---
 
@@ -49,5 +49,5 @@ ObsidianとZennの連携：git submoduleによる一元管理
 
 ## 出典
 
-- `60_Resources/ObsidianでZennを書く！git submoduleで一元管理.md`
+- `../60_Resources/ObsidianでZennを書く！git submoduleで一元管理.md`
 - https://zenn.dev/ktr17/articles/3505fab842af79

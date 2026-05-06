@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/TypeScript のisとinを理解する.md"
+  - "../60_Resources/TypeScript のisとinを理解する.md"
 summary: "TypeScriptにおける「is」と「in」という、型推論を補助・活用するための重要な構文についての解説記事です。"
 ---
 
@@ -46,5 +46,5 @@ TypeScriptにおける「is」と「in」という、型推論を補助・活用
 
 ## 出典
 
-- `60_Resources/TypeScript のisとinを理解する.md`
+- `../60_Resources/TypeScript のisとinを理解する.md`
 - https://qiita.com/ryo2132/items/ce9e13899e45dcfaff9b

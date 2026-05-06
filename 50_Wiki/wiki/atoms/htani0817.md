@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開.md"
+  - "../60_Resources/Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開.md"
 summary: "htani0817 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ htani0817 は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開.md`
+- `../60_Resources/Claude Code × Obsidian Vault で作る「何でも相談」プロジェクト ― フォルダ構成・CLAUDE.md・MCP設定まで全公開.md`
 - https://qiita.com/htani0817/items/0cb5e8f91fa64fb9ba8c

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md"
+  - "../60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md"
 summary: "toshi-toma に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ toshi-toma は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md`
+- `../60_Resources/Node.jsでのCLIの作り方と便利なライブラリまとめ.md`
 - https://qiita.com/toshi-toma/items/ea76b8894e7771d47e10

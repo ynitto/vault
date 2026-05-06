@@ -8,7 +8,7 @@ tags:
 created: "2026-05-06"
 updated: "2026-05-06"
 sources:
-  - "60_Resources/Epson Connect API リファレンス - 開発者向けドキュメント.md"
+  - "../60_Resources/Epson Connect API リファレンス - 開発者向けドキュメント.md"
 summary: "Epson Connect の印刷ジョブ API と関連ドキュメントをまとめた開発者向けリファレンス。"
 ---
 
@@ -33,4 +33,4 @@ Epson Connect のクラウド印刷機能を利用するための開発者向け
 
 ## 出典
 
-- `60_Resources/Epson Connect API リファレンス - 開発者向けドキュメント.md`
+- `../60_Resources/Epson Connect API リファレンス - 開発者向けドキュメント.md`

@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Integrating with Jest  Step CI Docs.md"
+  - "../60_Resources/Integrating with Jest  Step CI Docs.md"
 summary: "このドキュメントでは、JavaScriptのテストフレームワーク「Jest」でStep CIランナーを使用してAPIテストを実行する方法を解説しています。"
 ---
 
@@ -49,5 +49,5 @@ summary: "このドキュメントでは、JavaScriptのテストフレームワ
 
 ## 出典
 
-- `60_Resources/Integrating with Jest  Step CI Docs.md`
+- `../60_Resources/Integrating with Jest  Step CI Docs.md`
 - https://docs.stepci.com/integration/jest.html

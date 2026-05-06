@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md"
+  - "../60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md"
 summary: "本記事では、複数のパッケージマネージャー（npm, pnpm, yarn, Bun）が混在する環境での開発効率を劇的に改善するラッパーツール「**ni**…"
 ---
 
@@ -43,5 +43,5 @@ summary: "本記事では、複数のパッケージマネージャー（npm, pn
 
 ## 出典
 
-- `60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md`
+- `../60_Resources/パッケージマネージャーでもう迷わない。ni で開発体験を爆上げする.md`
 - https://zenn.dev/mountain1009/articles/21ea94fa1e7e08

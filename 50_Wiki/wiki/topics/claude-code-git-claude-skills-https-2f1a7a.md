@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Claude CodeでSkillsを定期実行で自動化する方法.md"
+  - "../60_Resources/Claude CodeでSkillsを定期実行で自動化する方法.md"
 summary: "Claude Codeの「Skills（カスタムワークフロー）」をヘッドレスモード（`-p`オプション）で実行し、Task Schedulerやcronと…"
 ---
 
@@ -52,5 +52,5 @@ Claude Codeの「Skills（カスタムワークフロー）」をヘッドレス
 
 ## 出典
 
-- `60_Resources/Claude CodeでSkillsを定期実行で自動化する方法.md`
+- `../60_Resources/Claude CodeでSkillsを定期実行で自動化する方法.md`
 - https://zenn.dev/tenormusica/articles/claude-code-headless-subscription-discovery-2025

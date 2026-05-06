@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/話題のbrowser-use使ってみた.md"
+  - "../60_Resources/話題のbrowser-use使ってみた.md"
 summary: "AIを活用してブラウザ操作を自動化するPythonライブラリ「browser-use」の紹介記事です。従来のCSSセレクタに依存したスクレイピング手法の課…"
 ---
 
@@ -43,5 +43,5 @@ AIを活用してブラウザ操作を自動化するPythonライブラリ「bro
 
 ## 出典
 
-- `60_Resources/話題のbrowser-use使ってみた.md`
+- `../60_Resources/話題のbrowser-use使ってみた.md`
 - https://qiita.com/OtsukaTomoaki/items/d108690f833a67eaee76

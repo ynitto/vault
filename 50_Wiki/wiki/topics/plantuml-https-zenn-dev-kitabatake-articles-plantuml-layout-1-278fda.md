@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/PlantUMLのレイアウトのコツと指定方法についてのまとめ.md"
+  - "../60_Resources/PlantUMLのレイアウトのコツと指定方法についてのまとめ.md"
 summary: "PlantUMLのレイアウトを整えるコツと指定方法"
 ---
 
@@ -40,5 +40,5 @@ PlantUMLのレイアウトを整えるコツと指定方法
 
 ## 出典
 
-- `60_Resources/PlantUMLのレイアウトのコツと指定方法についてのまとめ.md`
+- `../60_Resources/PlantUMLのレイアウトのコツと指定方法についてのまとめ.md`
 - https://zenn.dev/kitabatake/articles/plantuml-layout

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/GitLab API で Merge Request のコメントを一括取得する方法.md"
+  - "../60_Resources/GitLab API で Merge Request のコメントを一括取得する方法.md"
 summary: "akkie76 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ akkie76 は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/GitLab API で Merge Request のコメントを一括取得する方法.md`
+- `../60_Resources/GitLab API で Merge Request のコメントを一括取得する方法.md`
 - https://qiita.com/akkie76/items/2cc798e309b0e82f13fc

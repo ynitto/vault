@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ALBとバックエンドEC2間をHTTPS通信させてみた.md"
+  - "../60_Resources/ALBとバックエンドEC2間をHTTPS通信させてみた.md"
 summary: "hiroyuki kaji に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ hiroyuki kaji は関連資料の著者・関係者として参照される人物
 
 ## 出典
 
-- `60_Resources/ALBとバックエンドEC2間をHTTPS通信させてみた.md`
+- `../60_Resources/ALBとバックエンドEC2間をHTTPS通信させてみた.md`
 - https://dev.classmethod.jp/articles/alb-backend-https/

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/AIエージェントの長期記憶トレンドを整理する.md"
+  - "../60_Resources/AIエージェントの長期記憶トレンドを整理する.md"
 summary: "AIエージェントの記憶は、単なる過去ログの蓄積（RAG）から、情報の整理・更新・忘却・スコープ管理を含む「コンテキスト運用システム（Context OS）…"
 ---
 
@@ -46,5 +46,5 @@ AIエージェントの記憶は、単なる過去ログの蓄積（RAG）から
 
 ## 出典
 
-- `60_Resources/AIエージェントの長期記憶トレンドを整理する.md`
+- `../60_Resources/AIエージェントの長期記憶トレンドを整理する.md`
 - https://zenn.dev/purple_matsu1/articles/20260424-agent-memory-context-os

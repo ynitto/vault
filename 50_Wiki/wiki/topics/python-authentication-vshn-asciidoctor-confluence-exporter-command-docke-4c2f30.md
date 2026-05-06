@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/vshnasciidoctor-confluence-exporter Command and Docker image to export Confluence wiki content to AsciiDoc.md"
+  - "../60_Resources/vshnasciidoctor-confluence-exporter Command and Docker image to export Confluence wiki content to AsciiDoc.md"
 summary: "Confluence to AsciiDoc Exporter の概要"
 ---
 
@@ -48,5 +48,5 @@ Confluence to AsciiDoc Exporter の概要
 
 ## 出典
 
-- `60_Resources/vshnasciidoctor-confluence-exporter Command and Docker image to export Confluence wiki content to AsciiDoc.md`
+- `../60_Resources/vshnasciidoctor-confluence-exporter Command and Docker image to export Confluence wiki content to AsciiDoc.md`
 - https://github.com/vshn/asciidoctor-confluence-exporter

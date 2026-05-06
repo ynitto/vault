@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/PowerAutomateでTeamsの投稿をExcelに自動転記する方法.md"
+  - "../60_Resources/PowerAutomateでTeamsの投稿をExcelに自動転記する方法.md"
 summary: "Power AutomateでTeams投稿をExcelに自動転記する方法"
 ---
 
@@ -43,5 +43,5 @@ Power AutomateでTeams投稿をExcelに自動転記する方法
 
 ## 出典
 
-- `60_Resources/PowerAutomateでTeamsの投稿をExcelに自動転記する方法.md`
+- `../60_Resources/PowerAutomateでTeamsの投稿をExcelに自動転記する方法.md`
 - https://yjk365.jp/config/teams-excel/

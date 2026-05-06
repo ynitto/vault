@@ -8,21 +8,21 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
-  - "60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md"
-  - "60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md"
-  - "60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md"
-  - "60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
-  - "60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md"
-  - "60_Resources/Async Lambda Function Retries with Backoff and Jitter.md"
-  - "60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
-  - "60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md"
-  - "60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
-  - "60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md"
-  - "60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md"
-  - "60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md"
-  - "60_Resources/クォータ.md"
-  - "60_Resources/推奨アラーム.md"
+  - "../60_Resources/ALB と Lambda のリクエストサイズの最大値.md"
+  - "../60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md"
+  - "../60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md"
+  - "../60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md"
+  - "../60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
+  - "../60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md"
+  - "../60_Resources/Async Lambda Function Retries with Backoff and Jitter.md"
+  - "../60_Resources/CloudWatch Logs と S3 にかかる料金比較.md"
+  - "../60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md"
+  - "../../60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md"
+  - "../60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md"
+  - "../../60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md"
+  - "../60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md"
+  - "../60_Resources/クォータ.md"
+  - "../60_Resources/推奨アラーム.md"
 summary: "AWS のイベント駆動サーバレス実行基盤。"
 ---
 
@@ -105,33 +105,33 @@ AWS Lambda はイベントに応じてコードを実行するマネージドな
 
 ## 出典
 
-- `60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
+- `../60_Resources/ALB と Lambda のリクエストサイズの最大値.md`
 - https://yohei-a.hatenablog.jp/entry/20210115/1610705961
-- `60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md`
+- `../60_Resources/API Gateway から Amazon Data Firehose へ Lambda を使わずにデータを流す.md`
 - https://tech.every.tv/entry/20240611
-- `60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md`
+- `../60_Resources/AWS Lambda関数を非同期で呼ぶ場合の動きを改めて確める.md`
 - https://qiita.com/horit0123/items/295f8dc55d8c07e6512a
-- `60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md`
+- `../60_Resources/AWS Lambda：API GatewayとApplication Load Balancerの違い.md`
 - https://qiita.com/unhurried/items/5a497ec81e4fefe22396
-- `60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
+- `../60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
 - https://qiita.com/yoshii0110/items/cbbfe797845dfa7e181d
-- `60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md`
+- `../60_Resources/Amazon API Gateway での相互 TLS 認証をちゃんとやる.md`
 - https://tech.aptpod.co.jp/entry/2021/12/06/070000
-- `60_Resources/Async Lambda Function Retries with Backoff and Jitter.md`
+- `../60_Resources/Async Lambda Function Retries with Backoff and Jitter.md`
 - https://lucvandonkersgoed.com/2022/02/07/async-lambda-function-retries-with-backoff-and-jitter/
-- `60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
+- `../60_Resources/CloudWatch Logs と S3 にかかる料金比較.md`
 - https://dev.classmethod.jp/articles/comparison-of-fees-for-cloudwatch-logs-and-s3/
-- `60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md`
+- `../60_Resources/MotoでLambdaコードからLambdaモックを呼び出す（Dockerなし）.md`
 - https://zenn.dev/ncdc/articles/eaa3d113c27f28
-- `60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
+- `../../60_Resources/Next.jsをLambda + API Gatewayでサーバーレス化する (standaloneモード).md`
 - https://tmokmss.hatenablog.com/entry/20221213/1670891305
-- `60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md`
+- `../60_Resources/REST API と HTTP API のどちらかを選択する - Amazon API Gateway.md`
 - https://docs.aws.amazon.com/ja_jp/apigateway/latest/developerguide/http-api-vs-rest.html
-- `60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md`
+- `../../60_Resources/vpc 内 Lambda から Lambda を呼ぶ( invoke する)場合、public subnet や private subnet などのパターン別に呼べるか検証してみた.md`
 - https://qiita.com/hirai-11/items/f16b326061956fb85c9c
-- `60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md`
+- `../60_Resources/え、そんなに！？意外と知らないAWSでお金がかかるポイント5選！！第3弾.md`
 - https://dev.classmethod.jp/articles/5-ways-to-spend-cost-on-aws-v3/
-- `60_Resources/クォータ.md`
+- `../60_Resources/クォータ.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/cloudfront-limits.html
-- `60_Resources/推奨アラーム.md`
+- `../60_Resources/推奨アラーム.md`
 - https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/Best_Practice_Recommended_Alarms_AWS_Services.html

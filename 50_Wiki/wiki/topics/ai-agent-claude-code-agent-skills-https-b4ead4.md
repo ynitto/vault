@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Agent Skillsを行動評価する.md"
+  - "../60_Resources/Agent Skillsを行動評価する.md"
 summary: "AIエージェントの「Agent Skills」において、不安定なアウトプット（成果物）を直接評価するのではなく、**人事評価における「行動評価（コンピテン…"
 ---
 
@@ -46,5 +46,5 @@ AIエージェントの「Agent Skills」において、不安定なアウトプ
 
 ## 出典
 
-- `60_Resources/Agent Skillsを行動評価する.md`
+- `../60_Resources/Agent Skillsを行動評価する.md`
 - https://zenn.dev/levtech/articles/3d066a9e59785d

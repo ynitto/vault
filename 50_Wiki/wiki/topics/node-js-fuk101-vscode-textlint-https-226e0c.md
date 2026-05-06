@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/VSCode＋Textlintで文章校正をする.md"
+  - "../60_Resources/VSCode＋Textlintで文章校正をする.md"
 summary: "この記事は、Visual Studio Code (VSCode) 上で `textlint` を利用し、Markdown形式の文章を自動校正する環境を構…"
 ---
 
@@ -44,5 +44,5 @@ summary: "この記事は、Visual Studio Code (VSCode) 上で `textlint` を利
 
 ## 出典
 
-- `60_Resources/VSCode＋Textlintで文章校正をする.md`
+- `../60_Resources/VSCode＋Textlintで文章校正をする.md`
 - https://qiita.com/fuk101/items/d6e0160f9466363649d7

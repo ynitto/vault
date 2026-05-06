@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md"
+  - "../../60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md"
 summary: "この記事は、JavaScriptにおける高頻度なイベント発火（リサイズや入力など）を制御し、パフォーマンスを向上させるための「debounce（デバウンス…"
 ---
 
@@ -46,5 +46,5 @@ summary: "この記事は、JavaScriptにおける高頻度なイベント発火
 
 ## 出典
 
-- `60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md`
+- `../../60_Resources/一瞬で理解！JavaScriptの`debounce`テクニックとその実装方法.md`
 - https://qiita.com/itinerant_programmer/items/5900b3ea0e6823223ee7

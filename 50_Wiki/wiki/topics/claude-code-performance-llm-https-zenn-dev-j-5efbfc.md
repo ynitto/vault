@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/LLMに長期記憶を実装する.md"
+  - "../60_Resources/LLMに長期記憶を実装する.md"
 summary: "Claude Codeに、人間の脳の仕組み（情動、忘却、再構成など）を模倣した長期記憶システムをPythonで実装した事例。単なるデータベース検索ではなく…"
 ---
 
@@ -46,5 +46,5 @@ Claude Codeに、人間の脳の仕組み（情動、忘却、再構成など）
 
 ## 出典
 
-- `60_Resources/LLMに長期記憶を実装する.md`
+- `../60_Resources/LLMに長期記憶を実装する.md`
 - https://zenn.dev/j_m/articles/efcc4f224cc8ca

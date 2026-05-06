@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidian Web Clipper × AI でWebページを自動要約＆ストックしてみた.md"
+  - "../60_Resources/Obsidian Web Clipper × AI でWebページを自動要約＆ストックしてみた.md"
 summary: "Obsidian Web ClipperでWebページをAI要約する設定方法"
 ---
 
@@ -43,5 +43,5 @@ Obsidian Web ClipperでWebページをAI要約する設定方法
 
 ## 出典
 
-- `60_Resources/Obsidian Web Clipper × AI でWebページを自動要約＆ストックしてみた.md`
+- `../60_Resources/Obsidian Web Clipper × AI でWebページを自動要約＆ストックしてみた.md`
 - https://dev.classmethod.jp/articles/try-obsidian-web-clipper-ai-summary/

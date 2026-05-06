@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Load testing with GitLab.md"
+  - "../60_Resources/Load testing with GitLab.md"
 summary: "Mostafa Moradian に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Mostafa Moradian は関連資料の著者・関係者として参照される人
 
 ## 出典
 
-- `60_Resources/Load testing with GitLab.md`
+- `../60_Resources/Load testing with GitLab.md`
 - https://grafana.com/blog/load-testing-with-gitlab/

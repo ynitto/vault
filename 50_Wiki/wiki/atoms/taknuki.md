@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/JSON Patchをキャッチアップしました.md"
+  - "../60_Resources/JSON Patchをキャッチアップしました.md"
 summary: "taknuki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ taknuki は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/JSON Patchをキャッチアップしました.md`
+- `../60_Resources/JSON Patchをキャッチアップしました.md`
 - https://qiita.com/zhang_yid/items/31358f9b2922165ce78d

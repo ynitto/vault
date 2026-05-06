@@ -6,22 +6,22 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md"
-  - "60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md"
-  - "60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md"
-  - "60_Resources/Migrating from XState v4 to v5.md"
-  - "60_Resources/TypeScript 5.0 new mode bundler & ESM.md"
-  - "60_Resources/TypeScript のisとinを理解する.md"
-  - "60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md"
-  - "60_Resources/VSCodeが重い！メモリ使用量を13にする設定まとめ.md"
-  - "60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md"
-  - "60_Resources/node-html-parser.md"
-  - "60_Resources/ovrmrwpuppeteer-network-crawler.md"
-  - "60_Resources/typescript uuid桁数を短くする.md"
-  - "60_Resources/xstate眠たくなる問題.md"
-  - "60_Resources/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
-  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
-  - "60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md"
+  - "../../60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md"
+  - "../60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md"
+  - "../60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md"
+  - "../60_Resources/Migrating from XState v4 to v5.md"
+  - "../60_Resources/TypeScript 5.0 new mode bundler & ESM.md"
+  - "../60_Resources/TypeScript のisとinを理解する.md"
+  - "../60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md"
+  - "../60_Resources/VSCodeが重い！メモリ使用量を13にする設定まとめ.md"
+  - "../60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md"
+  - "../60_Resources/node-html-parser.md"
+  - "../60_Resources/ovrmrwpuppeteer-network-crawler.md"
+  - "../60_Resources/typescript uuid桁数を短くする.md"
+  - "../60_Resources/xstate眠たくなる問題.md"
+  - "../60_Resources/ぼくがかんがえた最強のObsidian設定｜古村藍.md"
+  - ".wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
+  - "../60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md"
 summary: "TypeScript に関する設計・実装知識を扱うページ。"
 ---
 
@@ -107,34 +107,34 @@ TypeScript は静的型付けを通じて JavaScript 開発の保守性を高め
 
 ## 出典
 
-- `60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md`
-- `60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md`
+- `../../60_Resources/Agent Skills (Claude Code Skills) の公式ガイドに沿って、CVE 脆弱性情報収集用の Skill を作ってみた.md`
+- `../60_Resources/DIコンテナの実装を理解して、軽量 DI コンテナを自作しよう.md`
 - https://qiita.com/sadnessOjisan/items/d05e35e34d2d1fb7e844
-- `60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md`
+- `../60_Resources/FGRibreaunode-language-detect 🇫🇷 NodeJS language detection library using n-gram.md`
 - https://github.com/FGRibreau/node-language-detect
-- `60_Resources/Migrating from XState v4 to v5.md`
+- `../60_Resources/Migrating from XState v4 to v5.md`
 - https://stately.ai/docs/migration
-- `60_Resources/TypeScript 5.0 new mode bundler & ESM.md`
-- https://ayc0.github.io/posts/typescript-50-new-mode-bundler-esm/
-- `60_Resources/TypeScript のisとinを理解する.md`
+- `../60_Resources/TypeScript 5.0 new mode bundler & ESM.md`
+- https://ayc0../.github.io/posts/typescript-50-new-mode-bundler-esm/
+- `../60_Resources/TypeScript のisとinを理解する.md`
 - https://qiita.com/ryo2132/items/ce9e13899e45dcfaff9b
-- `60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md`
+- `../60_Resources/TypeScriptでCLIツールを作って、npmパッケージにする.md`
 - https://qiita.com/suzuki_sh/items/f3349efbfe1bdfc0c634
-- `60_Resources/VSCodeが重い！メモリ使用量を13にする設定まとめ.md`
+- `../60_Resources/VSCodeが重い！メモリ使用量を13にする設定まとめ.md`
 - https://qiita.com/nolanlover0527/items/071277263f8851012e6b
-- `60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md`
+- `../60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md`
 - https://qiita.com/yuzukaki/items/68ca1aed777b296145d5
-- `60_Resources/node-html-parser.md`
+- `../60_Resources/node-html-parser.md`
 - https://www.npmjs.com/package/node-html-parser
-- `60_Resources/ovrmrwpuppeteer-network-crawler.md`
+- `../60_Resources/ovrmrwpuppeteer-network-crawler.md`
 - https://github.com/ovrmrw/puppeteer-network-crawler/tree/master
-- `60_Resources/typescript uuid桁数を短くする.md`
+- `../60_Resources/typescript uuid桁数を短くする.md`
 - https://qiita.com/buto/items/1b6cc0b244dc1d42da79
-- `60_Resources/xstate眠たくなる問題.md`
+- `../60_Resources/xstate眠たくなる問題.md`
 - https://qiita.com/github0013@github/items/2f2f5233429cfa75ecd1
-- `60_Resources/ぼくがかんがえた最強のObsidian設定｜古村藍.md`
+- `../60_Resources/ぼくがかんがえた最強のObsidian設定｜古村藍.md`
 - https://note.com/indigo372/n/nae1e72203c5b
-- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
+- `.wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
 - https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb
-- `60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md`
+- `../60_Resources/重い lint ルールを特定しよう！TIMING オプションで ESLint 実行速度改善.md`
 - https://developers.cyberagent.co.jp/blog/archives/50143/

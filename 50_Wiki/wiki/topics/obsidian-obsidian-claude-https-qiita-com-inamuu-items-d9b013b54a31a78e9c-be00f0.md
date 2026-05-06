@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術 1.md"
+  - "../60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術 1.md"
 summary: "ObsidianとClaudeCodeによるタスク管理と振り返り術"
 ---
 
@@ -43,5 +43,5 @@ ObsidianとClaudeCodeによるタスク管理と振り返り術
 
 ## 出典
 
-- `60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術 1.md`
+- `../60_Resources/ObsidianとClaudeではじめる日々のタスク管理と振り返り術 1.md`
 - https://qiita.com/inamuu/items/d9b013b54a31a78e9c13

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/【革命】AIが6時間自律コーディング！Anthropicの3エージェントHarnessが「放置開発」を実現した.md"
+  - "../60_Resources/【革命】AIが6時間自律コーディング！Anthropicの3エージェントHarnessが「放置開発」を実現した.md"
 summary: "emi_ndk に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ emi_ndk は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/【革命】AIが6時間自律コーディング！Anthropicの3エージェントHarnessが「放置開発」を実現した.md`
+- `../60_Resources/【革命】AIが6時間自律コーディング！Anthropicの3エージェントHarnessが「放置開発」を実現した.md`
 - https://qiita.com/emi_ndk/items/facb4cecfd145f6d6c1a

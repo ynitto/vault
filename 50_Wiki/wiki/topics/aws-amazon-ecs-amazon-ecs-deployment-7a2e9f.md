@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md"
+  - "../60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md"
 summary: "Amazon ECS deployment circuit breaker 概要"
 ---
 
@@ -49,5 +49,5 @@ Amazon ECS deployment circuit breaker 概要
 
 ## 出典
 
-- `60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md`
+- `../60_Resources/【レポート】Amazon ECS deployment circuit breaker を使った自動ロールバック AWSSummit.md`
 - https://dev.classmethod.jp/articles/awssummit2021-ecs-deployment-circuit-breaker/

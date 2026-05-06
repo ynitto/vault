@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md"
+  - "../../60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md"
 summary: "ykarakita に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ ykarakita は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md`
+- `../../60_Resources/ApplicationLoadBalancer(ALB)の自己証明書を用いたHTTPS化.md`
 - https://qiita.com/klynk2024/items/76db8d65838857227bd9

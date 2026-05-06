@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md"
+  - "../60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md"
 summary: "yuzukaki に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ yuzukaki は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md`
+- `../60_Resources/VSCodeでTypeScriptをデバッグする環境をつくってみた.md`
 - https://qiita.com/yuzukaki/items/68ca1aed777b296145d5

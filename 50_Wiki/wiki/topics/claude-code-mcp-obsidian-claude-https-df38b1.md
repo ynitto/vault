@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md"
+  - "../60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md"
 summary: "Obsidian × Claude Code による情報整理"
 ---
 
@@ -49,5 +49,5 @@ Obsidian × Claude Code による情報整理
 
 ## 出典
 
-- `60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md`
+- `../60_Resources/Obsidian × Claude Codeで情報整理を緩くやってみたけど、想像以上によかった話.md`
 - https://zenn.dev/stafes_blog/articles/d7457519a2daec

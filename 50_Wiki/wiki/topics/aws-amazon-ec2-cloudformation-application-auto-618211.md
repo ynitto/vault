@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md"
+  - "../60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md"
 summary: "CloudFormationを用いて、ECSサービスの「スケジュールされたオートスケーリング」を設定する方法について解説した技術メモです。"
 ---
 
@@ -49,5 +49,5 @@ CloudFormationを用いて、ECSサービスの「スケジュールされたオ
 
 ## 出典
 
-- `60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md`
+- `../60_Resources/CloudFormation による Application Auto Scaling のスケジュール.md`
 - https://tech.quartetcom.co.jp/2022/07/28/ecs-scheduled-auto-scaling/

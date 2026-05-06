@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/CloudWatch Logs を 自動で S3 にエクスポートする方法。その 1 、Kinesis Data Firehose を使用する方法。 - サーバーワークスエンジニアブログ.md"
+  - "../60_Resources/CloudWatch Logs を 自動で S3 にエクスポートする方法。その 1 、Kinesis Data Firehose を使用する方法。 - サーバーワークスエンジニアブログ.md"
 summary: "CloudWatch LogsをS3へ自動エクスポートする方法（Kinesis Data Firehose編）"
 ---
 
@@ -46,5 +46,5 @@ CloudWatch LogsをS3へ自動エクスポートする方法（Kinesis Data Fireh
 
 ## 出典
 
-- `60_Resources/CloudWatch Logs を 自動で S3 にエクスポートする方法。その 1 、Kinesis Data Firehose を使用する方法。 - サーバーワークスエンジニアブログ.md`
+- `../60_Resources/CloudWatch Logs を 自動で S3 にエクスポートする方法。その 1 、Kinesis Data Firehose を使用する方法。 - サーバーワークスエンジニアブログ.md`
 - https://blog.serverworks.co.jp/cloudwatch_logs-s3-kinesis_data_firehose

@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/GitHub Copilot Chat のサブエージェントを検証してみた コンテキスト分離の効果と限界.md"
+  - "../60_Resources/GitHub Copilot Chat のサブエージェントを検証してみた コンテキスト分離の効果と限界.md"
 summary: "GitHub Copilot Chat サブエージェントの概要と活用"
 ---
 
@@ -46,5 +46,5 @@ GitHub Copilot Chat サブエージェントの概要と活用
 
 ## 出典
 
-- `60_Resources/GitHub Copilot Chat のサブエージェントを検証してみた コンテキスト分離の効果と限界.md`
+- `../60_Resources/GitHub Copilot Chat のサブエージェントを検証してみた コンテキスト分離の効果と限界.md`
 - https://zenn.dev/openjny/articles/2619050ec7f167

@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/waitForNavigation doesn't work after evaluate fetch() or XMLHttpRequest() · Issue 1466 · puppeteerpuppeteer.md"
+  - "../../60_Resources/waitForNavigation doesn't work after evaluate fetch() or XMLHttpRequest() · Issue 1466 · puppeteerpuppeteer.md"
 summary: "Puppeteerにおいて、`page.evaluate()`内で実行された`fetch`や`XMLHttpRequest`（非同期通信）の完了を`pag…"
 ---
 
@@ -41,5 +41,5 @@ Puppeteerにおいて、`page.evaluate()`内で実行された`fetch`や`XMLHttp
 
 ## 出典
 
-- `60_Resources/waitForNavigation doesn't work after evaluate fetch() or XMLHttpRequest() · Issue 1466 · puppeteerpuppeteer.md`
+- `../../60_Resources/waitForNavigation doesn't work after evaluate fetch() or XMLHttpRequest() · Issue 1466 · puppeteerpuppeteer.md`
 - https://github.com/puppeteer/puppeteer/issues/1466

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Bash Scriptの作法.md"
+  - "../60_Resources/Bash Scriptの作法.md"
 summary: "osw_nuco に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ osw_nuco は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/Bash Scriptの作法.md`
+- `../60_Resources/Bash Scriptの作法.md`
 - https://qiita.com/autotaker1984/items/bc758fcf368c1a167353

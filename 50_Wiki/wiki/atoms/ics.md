@@ -6,8 +6,8 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ウェブ制作にも便利！React & Vueで始めるヘッドレスUI.md"
-  - "60_Resources/文章校正を行うためのtextlint入門.md"
+  - "../60_Resources/ウェブ制作にも便利！React & Vueで始めるヘッドレスUI.md"
+  - "../60_Resources/文章校正を行うためのtextlint入門.md"
 summary: "株式会社ICS に関する人物ページ。"
 ---
 
@@ -33,7 +33,7 @@ summary: "株式会社ICS に関する人物ページ。"
 
 ## 出典
 
-- `60_Resources/ウェブ制作にも便利！React & Vueで始めるヘッドレスUI.md`
+- `../60_Resources/ウェブ制作にも便利！React & Vueで始めるヘッドレスUI.md`
 - https://ics.media/entry/230413/
-- `60_Resources/文章校正を行うためのtextlint入門.md`
+- `../60_Resources/文章校正を行うためのtextlint入門.md`
 - https://ics.media/entry/220404/

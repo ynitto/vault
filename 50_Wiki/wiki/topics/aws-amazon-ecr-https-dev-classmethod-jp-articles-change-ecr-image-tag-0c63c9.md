@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Amazon ECRにプッシュしたコンテナイメージのタグを変更してみた.md"
+  - "../60_Resources/Amazon ECRにプッシュしたコンテナイメージのタグを変更してみた.md"
 summary: "Amazon ECRにおけるコンテナイメージのタグ付け替え手順"
 ---
 
@@ -43,5 +43,5 @@ Amazon ECRにおけるコンテナイメージのタグ付け替え手順
 
 ## 出典
 
-- `60_Resources/Amazon ECRにプッシュしたコンテナイメージのタグを変更してみた.md`
+- `../60_Resources/Amazon ECRにプッシュしたコンテナイメージのタグを変更してみた.md`
 - https://dev.classmethod.jp/articles/change-ecr-image-tag/

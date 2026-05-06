@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md"
+  - "../60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md"
 summary: "intotecho 5 に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ intotecho 5 は関連資料の著者・関係者として参照される人物�
 
 ## 出典
 
-- `60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md`
+- `../60_Resources/Can a swagger object passed as a parameter have default values in swagger-ui.md`
 - https://stackoverflow.com/questions/45852383/can-a-swagger-object-passed-as-a-parameter-have-default-values-in-swagger-ui

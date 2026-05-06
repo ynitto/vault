@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Microsoft Entra ID でシングルテナント アプリをマルチテナントに変換する - Microsoft identity platform.md"
+  - "../60_Resources/Microsoft Entra ID でシングルテナント アプリをマルチテナントに変換する - Microsoft identity platform.md"
 summary: "Microsoft Entra ID でシングルテナント アプリをマルチテナントに変換する方法"
 ---
 
@@ -45,5 +45,5 @@ Microsoft Entra ID でシングルテナント アプリをマルチテナント
 
 ## 出典
 
-- `60_Resources/Microsoft Entra ID でシングルテナント アプリをマルチテナントに変換する - Microsoft identity platform.md`
+- `../60_Resources/Microsoft Entra ID でシングルテナント アプリをマルチテナントに変換する - Microsoft identity platform.md`
 - https://learn.microsoft.com/ja-jp/entra/identity-platform/howto-convert-app-to-be-multi-tenant

@@ -9,8 +9,8 @@ tags:
 created: "2026-05-06"
 updated: "2026-05-06"
 sources:
-  - "60_Resources/archiverjsnode-archiver a streaming interface for archive generation.md"
-  - "60_Resources/samcdaynode-stream-buffer Readable and Writable Streams that use backing Buffers..md"
+  - "../60_Resources/archiverjsnode-archiver a streaming interface for archive generation.md"
+  - "../60_Resources/samcdaynode-stream-buffer Readable and Writable Streams that use backing Buffers..md"
 summary: "Node.js でアーカイブ生成やバッファ背後の Stream を扱う実用ライブラリ。"
 ---
 
@@ -35,5 +35,5 @@ Node.js で ZIP/TAR などのアーカイブ生成や、検証向けのバッフ
 
 ## 出典
 
-- `60_Resources/archiverjsnode-archiver a streaming interface for archive generation.md`
-- `60_Resources/samcdaynode-stream-buffer Readable and Writable Streams that use backing Buffers..md`
+- `../60_Resources/archiverjsnode-archiver a streaming interface for archive generation.md`
+- `../60_Resources/samcdaynode-stream-buffer Readable and Writable Streams that use backing Buffers..md`

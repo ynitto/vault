@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する.md"
+  - "../60_Resources/Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する.md"
 summary: "Claude Codeのコーディングルール管理を自動化するスキル「AutoHarness」の紹介記事です。プロジェクト固有の規約を自動生成・適用することで…"
 ---
 
@@ -43,5 +43,5 @@ Claude Codeのコーディングルール管理を自動化するスキル「Aut
 
 ## 出典
 
-- `60_Resources/Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する.md`
+- `../60_Resources/Claude CodeのSkillsでハーネスエンジニアリングを実装した — ルール自動生成でコード品質を継続改善する.md`
 - https://zenn.dev/shintaroamaike/articles/df3ecc0ddee047

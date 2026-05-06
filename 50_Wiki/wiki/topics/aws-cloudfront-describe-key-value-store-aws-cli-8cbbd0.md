@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/describe-key-value-store — AWS CLI 2.34.32 Command Reference.md"
+  - "../60_Resources/describe-key-value-store — AWS CLI 2.34.32 Command Reference.md"
 summary: "AWS CLI: describe-key-value-store"
 ---
 
@@ -41,5 +41,5 @@ AWS CLI: describe-key-value-store
 
 ## 出典
 
-- `60_Resources/describe-key-value-store — AWS CLI 2.34.32 Command Reference.md`
+- `../60_Resources/describe-key-value-store — AWS CLI 2.34.32 Command Reference.md`
 - https://docs.aws.amazon.com/cli/latest/reference/cloudfront-keyvaluestore/describe-key-value-store.html

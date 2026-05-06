@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - ".50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md"
+  - ".wiki/topics/wiki/topicswiki/topics/wiki/topicswiki/topics/../60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md"
 summary: "Node.js Dockerイメージ選定のベストプラクティス"
 ---
 
@@ -52,5 +52,5 @@ Node.js Dockerイメージ選定のベストプラクティス
 
 ## 出典
 
-- `.50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/50_Wiki/wiki/topics50_Wiki/wiki/topics/60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md`
+- `.wiki/topics/wiki/topicswiki/topics/wiki/topicswiki/topics/../60_Resources/Node.js Docker baseイメージには alpine < distroless < ubuntu+slim 構成がよさそう.md`
 - https://zenn.dev/jrsyo/articles/e42de409e62f5d

@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md"
+  - "../60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md"
 summary: "Reactにおいて、子コンポーネントのレンダー中に親コンポーネントの状態（state）を更新しようとすると発生する警告「`Warning: Cannot…"
 ---
 
@@ -43,5 +43,5 @@ Reactにおいて、子コンポーネントのレンダー中に親コンポー
 
 ## 出典
 
-- `60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md`
+- `../60_Resources/React Hooks 子コンポーネントから親の状態をレンダー時に変えたら叱られた ー Warning Cannot update a component while rendering a different component.md`
 - https://qiita.com/FumioNonaka/items/3fe39911e3f2479128e8

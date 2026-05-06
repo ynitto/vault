@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md"
+  - "../60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md"
 summary: "marcio に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ marcio は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md`
+- `../60_Resources/Windows＋CursorでPowerShellの文字化けを一掃する手順（UTF‑8化・PowerShell 7・設定まとめ）.md`
 - https://qiita.com/marcio/items/87c15f852ba7aecfb71a

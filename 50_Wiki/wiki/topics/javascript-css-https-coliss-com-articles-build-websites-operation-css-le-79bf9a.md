@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md"
+  - "../60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md"
 summary: "AppleやNike、Teslaなどのトップ企業がWebサイトやアプリで活用している、CSSを用いた先進的かつ実用的なフロントエンドテクニックのまとめ記事…"
 ---
 
@@ -39,5 +39,5 @@ AppleやNike、Teslaなどのトップ企業がWebサイトやアプリで活用
 
 ## 出典
 
-- `60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md`
+- `../60_Resources/最近見かけた、CSSの一工夫加えたスゴ技テクニックのまとめ.md`
 - https://coliss.com/articles/build-websites/operation/css/lever-css-tricks-by-steve8708.html

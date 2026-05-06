@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応).md"
+  - "../../60_Resources/ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応).md"
 summary: "Obsidian Agent Client Plugin: AIエージェントとチャット"
 ---
 
@@ -52,5 +52,5 @@ Obsidian Agent Client Plugin: AIエージェントとチャット
 
 ## 出典
 
-- `60_Resources/ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応).md`
+- `../../60_Resources/ObsidianからAIエージェントとチャットできるプラグインを作った (Claude Code，Codex，Gemini CLI対応).md`
 - https://zenn.dev/tokium_dev/articles/2fc1fa15407efe

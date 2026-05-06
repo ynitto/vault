@@ -6,8 +6,8 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
-  - "60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md"
+  - "../60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md"
+  - "../60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md"
 summary: "yoshii0110 に関する人物ページ。"
 ---
 
@@ -33,7 +33,7 @@ yoshii0110 は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
+- `../60_Resources/AWS側がしてきたECS  Fargate のスケーリング速度改善の話.md`
 - https://qiita.com/yoshii0110/items/cbbfe797845dfa7e181d
-- `60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md`
+- `../60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md`
 - https://qiita.com/yoshii0110/items/8a780510f312a2b7c78e

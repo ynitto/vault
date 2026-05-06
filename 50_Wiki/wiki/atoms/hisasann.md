@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - ".50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
+  - ".wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md"
 summary: "hisasann に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ hisasann は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `.50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/50_Wiki/wiki/atoms50_Wiki/wiki/atoms/60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
+- `.wiki/atoms/wiki/atomswiki/atoms/wiki/atomswiki/atoms/../60_Resources/今モノレポやるならどのツール使うのがいいのん?? JavaScript.md`
 - https://qiita.com/john-Q/items/ef7c433a5f441ff89ffb

@@ -10,7 +10,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Fargate利用時のヘルスチェックを理解する - サーバーワークスエンジニアブログ.md"
+  - "../60_Resources/Fargate利用時のヘルスチェックを理解する - サーバーワークスエンジニアブログ.md"
 summary: "AWS Fargate環境における、Application Load Balancer (ALB) および ECSタスク定義による2種類のヘルスチェックの…"
 ---
 
@@ -52,5 +52,5 @@ AWS Fargate環境における、Application Load Balancer (ALB) および ECSタ
 
 ## 出典
 
-- `60_Resources/Fargate利用時のヘルスチェックを理解する - サーバーワークスエンジニアブログ.md`
+- `../60_Resources/Fargate利用時のヘルスチェックを理解する - サーバーワークスエンジニアブログ.md`
 - https://blog.serverworks.co.jp/fargate_healthcheck

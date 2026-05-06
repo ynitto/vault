@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md"
+  - "../60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md"
 summary: "本記事は、AWSのEC2起動タイプにおけるAmazon ECSのパフォーマンスを最適化し、タスクの起動やデプロイを高速化するための実践的な設定Tipsを解…"
 ---
 
@@ -46,5 +46,5 @@ summary: "本記事は、AWSのEC2起動タイプにおけるAmazon ECSのパフ
 
 ## 出典
 
-- `60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md`
+- `../60_Resources/起動タイプがEC2であるECSを高速化させるためのtips.md`
 - https://qiita.com/yoshii0110/items/8a780510f312a2b7c78e

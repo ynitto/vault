@@ -8,7 +8,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/CodeBuildのビルド内でAssumeRole(クロスアカウントアクセス)する方法とハマった話.md"
+  - "../../60_Resources/CodeBuildのビルド内でAssumeRole(クロスアカウントアクセス)する方法とハマった話.md"
 summary: "CodeBuildでクロスアカウントAssumeRoleを行う方法と注意点"
 ---
 
@@ -46,5 +46,5 @@ CodeBuildでクロスアカウントAssumeRoleを行う方法と注意点
 
 ## 出典
 
-- `60_Resources/CodeBuildのビルド内でAssumeRole(クロスアカウントアクセス)する方法とハマった話.md`
+- `../../60_Resources/CodeBuildのビルド内でAssumeRole(クロスアカウントアクセス)する方法とハマった話.md`
 - https://dev.classmethod.jp/articles/assumerole-in-codebuild/

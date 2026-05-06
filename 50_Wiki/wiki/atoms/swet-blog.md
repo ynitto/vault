@@ -6,8 +6,8 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md"
-  - "60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md"
+  - "../60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md"
+  - "../60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md"
 summary: "swet-blog に関する人物ページ。"
 ---
 
@@ -33,7 +33,7 @@ swet-blog は関連資料の著者・関係者として参照される人物。
 
 ## 出典
 
-- `60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md`
+- `../60_Resources/Puppeteerによるフルページスクリーンショットを画像遅延読み込みに対応させる.md`
 - https://swet.dena.com/entry/2018/04/26/152326
-- `60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md`
+- `../60_Resources/t_wadaさんと「単体テストの使い方考え方」の疑問点についてディスカッションしました.md`
 - https://swet.dena.com/entry/2023/11/13/170000

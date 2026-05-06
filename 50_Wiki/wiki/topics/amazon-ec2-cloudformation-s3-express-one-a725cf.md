@@ -9,7 +9,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md"
+  - "../60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md"
 summary: "S3 Express One Zone 用 VPC エンドポイント構築の要約"
 ---
 
@@ -46,5 +46,5 @@ S3 Express One Zone 用 VPC エンドポイント構築の要約
 
 ## 出典
 
-- `60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md`
+- `../60_Resources/S3 Express One Zone 用の VPC エンドポイント Gateway 型を作成する CloudFormation テンプレートの紹介.md`
 - https://dev.classmethod.jp/articles/cloudformation-template-for-s3-express-one-zone-vpc-endpoint/

@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Lambda実行環境のTCPコネクション維持について調べてみた.md"
+  - "../60_Resources/Lambda実行環境のTCPコネクション維持について調べてみた.md"
 summary: "Lambda実行環境におけるTCPコネクション維持の検証"
 ---
 
@@ -39,5 +39,5 @@ Lambda実行環境におけるTCPコネクション維持の検証
 
 ## 出典
 
-- `60_Resources/Lambda実行環境のTCPコネクション維持について調べてみた.md`
+- `../60_Resources/Lambda実行環境のTCPコネクション維持について調べてみた.md`
 - https://dev.classmethod.jp/articles/lambda-tcp-keepalive/

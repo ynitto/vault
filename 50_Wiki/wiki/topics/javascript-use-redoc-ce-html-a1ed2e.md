@@ -7,7 +7,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/Use the Redoc CE HTML element.md"
+  - "../60_Resources/Use the Redoc CE HTML element.md"
 summary: "Redoc CEをWebページに組み込み、APIドキュメントをレンダリングするためのガイドラインです。"
 ---
 
@@ -43,5 +43,5 @@ Redoc CEをWebページに組み込み、APIドキュメントをレンダリン
 
 ## 出典
 
-- `60_Resources/Use the Redoc CE HTML element.md`
+- `../60_Resources/Use the Redoc CE HTML element.md`
 - https://redocly.com/docs/redoc/deployment/html

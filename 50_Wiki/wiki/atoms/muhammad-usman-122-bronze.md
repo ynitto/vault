@@ -6,7 +6,7 @@ tags:
 created: "2026-05-02"
 updated: "2026-05-02"
 sources:
-  - "60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md"
+  - "../60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md"
 summary: "Muhammad Usman 122 bronze badges に関する人物ページ。"
 ---
 
@@ -27,5 +27,5 @@ Muhammad Usman 122 bronze badges は関連資料の著者・関係者として�
 
 ## 出典
 
-- `60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md`
+- `../60_Resources/How to Convert SVG to PNG in Node.js, Including Base64-Encoded Images.md`
 - https://stackoverflow.com/questions/77458490/how-to-convert-svg-to-png-in-node-js-including-base64-encoded-images
