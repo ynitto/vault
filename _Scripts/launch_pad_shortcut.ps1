@@ -41,8 +41,8 @@ function Find-PadExe {
 
 # ---- PAD が実行中か確認 ----
 function Test-PadRunning {
-    $procs = Get-Process -Name "PAD*" -ErrorAction SilentlyContinue
-    return ($null -ne $procs -and $procs.Count -gt 0)
+    $procs = @(Get-Process -Name "PAD*" -ErrorAction SilentlyContinue)
+    return ($procs.Count -gt 0)
 }
 
 # ---- PAD を起動 ----
@@ -71,8 +71,8 @@ public class WinApi {
 }
 "@
 
-    $procs = Get-Process -Name "PAD*" -ErrorAction SilentlyContinue
-    if ($null -eq $procs -or $procs.Count -eq 0) {
+    $procs = @(Get-Process -Name "PAD*" -ErrorAction SilentlyContinue)
+    if ($procs.Count -eq 0) {
         Write-Warning "[WARN] PAD プロセスが見つかりませんでした。アクティブなウィンドウに送信します。"
         return
     }
