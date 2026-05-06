@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Power Automate Desktop を起動し、Ctrl+Shift+R を送信する。
 
@@ -41,7 +41,7 @@ function Find-PadExe {
 
 # ---- PAD が実行中か確認 ----
 function Test-PadRunning {
-    $procs = @(Get-Process -Name "PAD*" -ErrorAction SilentlyContinue)
+    $procs = @(Get-Process -Name "PAD.Console.Host" -ErrorAction SilentlyContinue)
     return ($procs.Count -gt 0)
 }
 
@@ -71,7 +71,7 @@ public class WinApi {
 }
 "@
 
-    $procs = @(Get-Process -Name "PAD*" -ErrorAction SilentlyContinue)
+    $procs = @(Get-Process -Name "PAD.Console.Host" -ErrorAction SilentlyContinue)
     if ($procs.Count -eq 0) {
         Write-Warning "[WARN] PAD プロセスが見つかりませんでした。アクティブなウィンドウに送信します。"
         return
