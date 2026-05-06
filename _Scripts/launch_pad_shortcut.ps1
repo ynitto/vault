@@ -60,11 +60,11 @@ function Start-Pad {
 
 # ---- PAD ウィンドウをフォアグラウンドに持ってくる ----
 function Set-PadWindowFocus {
-    if (-not ([System.Management.Automation.PSTypeName]'WinApi').Type) {
+    if (-not ([System.Management.Automation.PSTypeName]'WinApiPAD').Type) {
         Add-Type @"
 using System;
 using System.Runtime.InteropServices;
-public class WinApi {
+public class WinApiPAD {
     [DllImport("user32.dll")]
     public static extern bool SetForegroundWindow(IntPtr hWnd);
     [DllImport("user32.dll")]
@@ -90,7 +90,7 @@ public class WinApi {
 
     # プロセス走査で見つからない場合はウィンドウタイトルで検索
     if ($hwnd -eq [IntPtr]::Zero) {
-        $hwnd = [WinApi]::FindWindow($null, "Power Automate")
+        $hwnd = [WinApiPAD]::FindWindow($null, "Power Automate")
         if ($hwnd -ne [IntPtr]::Zero) {
             Write-Host "[INFO] FindWindow で PAD ウィンドウを発見しました。"
         }
@@ -98,8 +98,8 @@ public class WinApi {
 
     if ($hwnd -ne [IntPtr]::Zero) {
         # SW_RESTORE = 9
-        [WinApi]::ShowWindow($hwnd, 9) | Out-Null
-        [WinApi]::SetForegroundWindow($hwnd) | Out-Null
+        [WinApiPAD]::ShowWindow($hwnd, 9) | Out-Null
+        [WinApiPAD]::SetForegroundWindow($hwnd) | Out-Null
         Write-Host "[INFO] PAD ウィンドウをフォーカスしました。"
     } else {
         Write-Warning "[WARN] PAD ウィンドウが見つかりませんでした。アクティブなウィンドウに送信します。"
