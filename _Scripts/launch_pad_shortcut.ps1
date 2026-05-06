@@ -68,23 +68,39 @@ public class WinApi {
     public static extern bool SetForegroundWindow(IntPtr hWnd);
     [DllImport("user32.dll")]
     public static extern bool ShowWindow(IntPtr hWnd, int nCmdShow);
+    [DllImport("user32.dll", SetLastError = true)]
+    public static extern IntPtr FindWindow(string lpClassName, string lpWindowName);
 }
 "@
 
-    $procs = @(Get-Process -Name "PAD.Console.Host" -ErrorAction SilentlyContinue)
-    if ($procs.Count -eq 0) {
-        Write-Warning "[WARN] PAD プロセスが見つかりませんでした。アクティブなウィンドウに送信します。"
-        return
+    # PAD は複数プロセスで構成されるため、ウィンドウを持つプロセスを全体から探す
+    $hwnd = [IntPtr]::Zero
+    $padProcs = @(Get-Process -ErrorAction SilentlyContinue | Where-Object {
+        $_.Name -like "*PowerAutomate*" -or $_.Name -like "*PAD*"
+    })
+    foreach ($p in $padProcs) {
+        if ($p.MainWindowHandle -ne [IntPtr]::Zero) {
+            $hwnd = $p.MainWindowHandle
+            Write-Host "[INFO] ウィンドウを持つ PAD プロセスを発見: $($p.Name) (PID $($p.Id))"
+            break
+        }
     }
 
-    $hwnd = $procs[0].MainWindowHandle
+    # プロセス走査で見つからない場合はウィンドウタイトルで検索
+    if ($hwnd -eq [IntPtr]::Zero) {
+        $hwnd = [WinApi]::FindWindow($null, "Power Automate")
+        if ($hwnd -ne [IntPtr]::Zero) {
+            Write-Host "[INFO] FindWindow で PAD ウィンドウを発見しました。"
+        }
+    }
+
     if ($hwnd -ne [IntPtr]::Zero) {
         # SW_RESTORE = 9
         [WinApi]::ShowWindow($hwnd, 9) | Out-Null
         [WinApi]::SetForegroundWindow($hwnd) | Out-Null
         Write-Host "[INFO] PAD ウィンドウをフォーカスしました。"
     } else {
-        Write-Warning "[WARN] PAD ウィンドウハンドルが取得できませんでした。"
+        Write-Warning "[WARN] PAD ウィンドウが見つかりませんでした。アクティブなウィンドウに送信します。"
     }
 }
 
